@@ -239,7 +239,7 @@ div#logs-height {
     outline: none !important;
 }
 
-.nav2 > button:hover {
+.nav2 > button:hover, .nav2>button.active {
     color: var(--interactive-hover);
     border-bottom-color: var(--interactive-hover);
 }

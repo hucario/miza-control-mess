@@ -103,6 +103,7 @@ class GuildConfig {
 		this.navbarElem.appendChild(this.navbarElem2);
 		this.navButtons = [];
 		this.tabElems = [];
+		this.activeTab = 0;
 		this.tabsElem = document.createElement('div');
 		this.tabsElem.classList.add('tabs');
 		this.mainElem.appendChild(this.tabsElem);
@@ -114,6 +115,9 @@ class GuildConfig {
 			let currTab = this.navButtons.length-1;
 			currButt.addEventListener('click', () => {
 				this.tabsElem.style.right = `calc(70vw * ${currTab})`;
+				this.navButtons[this.activeTab].classList.remove('active');
+				this.activeTab = currTab;
+				this.navButtons[this.activeTab].classList.add('active');
 			});
 			
 			this.tabElems.push(document.createElement('div'));
@@ -127,6 +131,7 @@ class GuildConfig {
 			][this.tabElems.length-1];
 			this.tabsElem.appendChild(this.tabElems[this.tabElems.length-1]);
 		});
+		this.navButtons[0].classList.add('active');
 	}
 }
 
