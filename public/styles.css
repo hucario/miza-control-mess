@@ -40,6 +40,18 @@ body {
 	margin: 0;
 	padding: 0;
 }
+#allGuilds {
+    position: relative;
+    width: 70vw;
+    height: 100%;
+}
+
+#allGuildsTwoElectricBoogaloo {
+    position: relative;
+    height: 100%;
+	width: 100%;
+	transition: top 250ms ease-in-out;
+}
 
 .serverIcon {
     height: 3rem;
@@ -71,7 +83,7 @@ span.serverName {font-size: larger;}
     margin-right:1rem;
     transition: all 150ms;
 }
-.server:hover:before {
+.server:hover:before,.server.active:before {
     border-left: var(--text-normal) 5px solid;
 }
 
@@ -242,18 +254,6 @@ button:active {
     display: inline-block;
     padding: 0;
     margin: 0;
-}
-
-.tab:nth-child(3) {
-    background: red;
-}
-
-.tab:nth-child(4) {
-    background: blue;
-}
-
-.tab:nth-child(5) {
-    background: green;
 }
 
 .tabs {

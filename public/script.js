@@ -13,13 +13,15 @@ var invites = [
 
 var guilds = [];
 var guildConfigs = {};
+var guildButtons = [];
 
 /* Elements */
 const logHeightModifier = document.getElementById('logs-height');
 const logHolder = document.querySelector('.logs-container');
 const serverList = document.getElementById('server-list');
 const allElse = document.getElementById('everythingElse');
-
+const gpsHolderHolder = document.getElementById('allGuilds');
+const gpsHolder = document.getElementById('allGuildsTwoElectricBoogaloo');
 /* Functions */
 function chopOffTail(str,howmuch) {
 	return (""+str).substring(0,(""+str).length-Number(howmuch));
@@ -35,7 +37,7 @@ function genLog(inHTML) {
 	logs.push(x);
 	logHolder.appendChild(x.element);
 }
-
+var prevActive;
 function addGuildToList(guild) {
 	function addGuild() {
 		guild.serverElem = document.createElement('div');
@@ -48,6 +50,17 @@ function addGuildToList(guild) {
 		serverList.appendChild(guild.serverElem);
 		guild.serverElem.appendChild(guild.serverIconElem);
 		guild.serverElem.appendChild(guild.serverNameElem);
+		guildButtons.push(guild.serverElem);
+		let whichButt /* haha funny butt */ = guildButtons.length-1;
+		guild.serverElem.addEventListener('click', () => {
+			if (prevActive) {
+				prevActive.classList.remove('active');
+			}
+			new GuildConfig(guild, whichButt, true);
+			prevActive = guild.serverElem;
+			guild.serverElem.classList.add('active');
+		});
+
 		genLog(`Added "${guild.name}" to server list with invite code "${guild.inviteCode}"`);
 	}
 	if (guild.ready) {
@@ -57,20 +70,31 @@ function addGuildToList(guild) {
 	}
 }
 
+function navTo(which) {
+	gpsHolder.style.top = "calc(100% * "+(0-which)+")";
+}
+
+
 /* Classes */
 
 class GuildConfig {
-	constructor(guild) {
+	constructor(guild, where, laz=false) {
 		if (!guild) {
 			throw new TypeError('Illegal constructor: Argument 1 must be a guild.');
 		}
-		if (guildConfigs[guild.id]) {
+		if (guildConfigs[guild.id]&&!laz) {
 			throw new Error('There\'s already a config for this guild.');
+		} else if (guildConfigs[guild.id]&&laz) {
+			navTo(guildConfigs[guild.id].where)
+			return;
 		}
+		this.where = where;
 		guildConfigs[guild.id] = this;
 		this.mainElem = document.createElement('div');
 		this.mainElem.classList.add('server-properties');
-		allElse.appendChild(this.mainElem);
+		this.mainElem.style.top = 'calc(100% * '+where+')';
+		gpsHolder.style.top = "calc(100% * "+(0-where)+")";
+		gpsHolder.appendChild(this.mainElem);
 		this.navbarElem = document.createElement('div');
 		this.navbarElem.classList.add('navbar');
 		this.mainElem.appendChild(this.navbarElem);
@@ -95,7 +119,7 @@ class GuildConfig {
 			this.tabElems.push(document.createElement('div'));
 			this.tabElems[this.tabElems.length-1].classList.add('tab');
 			this.tabElems[this.tabElems.length-1].innerText = [
-				'General settings',
+				'General settings for '+guild.name+' at pos '+where,
 				'Permissions stuff',
 				'Audit log (miza-specific)',
 				'Music Queue',
@@ -148,6 +172,7 @@ class Guild {
 					}
 				}
 				guilds.push(that);
+				that.ready = true;
 			}
 		});
 	}
