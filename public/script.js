@@ -6,7 +6,7 @@
 var logs = [];
 
 var invites = [
-	"ggecJFu",
+	"b9m7hFA",
 	"xRsWpz6",
 	"y3z6enH"
 ];
@@ -122,12 +122,12 @@ class GuildConfig {
 			
 			this.tabElems.push(document.createElement('div'));
 			this.tabElems[this.tabElems.length-1].classList.add('tab');
-			this.tabElems[this.tabElems.length-1].innerText = [
-				'General settings for '+guild.name+' at pos '+where,
-				'Permissions stuff',
+			this.tabElems[this.tabElems.length-1].innerHTML = [
+				'General bot settings for '+guild.name,
+				'Miza permissions stuff',
 				'Audit log (miza-specific)',
-				'Music Queue',
-				'Nuke the fuckn server lol'
+				'Miza Music Queue',
+				'Nuke the whole server lol, why not, <strike>csms was already nuked</strike> turns out it was an april fools joke'
 			][this.tabElems.length-1];
 			this.tabsElem.appendChild(this.tabElems[this.tabElems.length-1]);
 		});
@@ -215,5 +215,5 @@ logHeightModifier.addEventListener('mousedown', (e) => {
 });
 
 
-genLog('Web interface accessed');
+genLog('Welcome to the Miza control panel!<br>This is very much still a work in progress and at this point does nothing, but you can see what I\'m going for.');
 
