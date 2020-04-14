@@ -4,17 +4,21 @@
 
 
 var logs = [];
+
 var invites = [
 	"ggecJFu",
 	"xRsWpz6",
 	"y3z6enH"
 ];
+
 var guilds = [];
+var guildConfigs = {};
 
 /* Elements */
 const logHeightModifier = document.getElementById('logs-height');
 const logHolder = document.querySelector('.logs-container');
 const serverList = document.getElementById('server-list');
+const allElse = document.getElementById('everythingElse');
 
 /* Functions */
 function chopOffTail(str,howmuch) {
@@ -54,6 +58,54 @@ function addGuildToList(guild) {
 }
 
 /* Classes */
+
+class GuildConfig {
+	constructor(guild) {
+		if (!guild) {
+			throw new TypeError('Illegal constructor: Argument 1 must be a guild.');
+		}
+		if (guildConfigs[guild.id]) {
+			throw new Error('There\'s already a config for this guild.');
+		}
+		guildConfigs[guild.id] = this;
+		this.mainElem = document.createElement('div');
+		this.mainElem.classList.add('server-properties');
+		allElse.appendChild(this.mainElem);
+		this.navbarElem = document.createElement('div');
+		this.navbarElem.classList.add('navbar');
+		this.mainElem.appendChild(this.navbarElem);
+		this.navbarElem2 = document.createElement('div');
+		this.navbarElem2.classList.add('nav2');
+		this.navbarElem.appendChild(this.navbarElem2);
+		this.navButtons = [];
+		this.tabElems = [];
+		this.tabsElem = document.createElement('div');
+		this.tabsElem.classList.add('tabs');
+		this.mainElem.appendChild(this.tabsElem);
+		['General', 'Permissions', 'Audit', 'Music', 'Nuke'].forEach((e) => {
+			let currButt /* insert joke here */ = document.createElement('button');
+			this.navButtons.push(currButt);
+			currButt.innerText = e;
+			this.navbarElem2.appendChild(currButt);
+			let currTab = this.navButtons.length-1;
+			currButt.addEventListener('click', () => {
+				this.tabsElem.style.right = `calc(70vw * ${currTab})`;
+			});
+			
+			this.tabElems.push(document.createElement('div'));
+			this.tabElems[this.tabElems.length-1].classList.add('tab');
+			this.tabElems[this.tabElems.length-1].innerText = [
+				'General settings',
+				'Permissions stuff',
+				'Audit log (miza-specific)',
+				'Music Queue',
+				'Nuke the fuckn server lol'
+			][this.tabElems.length-1];
+			this.tabsElem.appendChild(this.tabElems[this.tabElems.length-1]);
+		});
+	}
+}
+
 class Log {
 	constructor(txt,date) {
 		this.date = date || new Date();
@@ -95,6 +147,7 @@ class Guild {
 						
 					}
 				}
+				guilds.push(that);
 			}
 		});
 	}

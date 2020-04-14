@@ -80,15 +80,19 @@ span.serverName {font-size: larger;}
 }
 
 #everythingElse {
-	height: 100%;
+	height: 70vh;
 	position: fixed;
 	width: 100%;
+	display: flex;
 }
 
 #server-list {
     width: 30vw;
     height: 100%;
     background: var(--background-secondary-alt);
+    z-index: 1;
+	overflow-y: auto;
+	overflow-x: hidden;
 }
 
 * {
@@ -153,7 +157,7 @@ span.serverName {font-size: larger;}
 	font-family: monospace;
 	box-sizing: border-box;
 	padding-top: 1em;
-	overflow-y: scroll;
+	overflow-y: auto;
 	scrollbar-width: thin;
 	scrollbar-color: var(--background-tertiary),var(--background-secondary);
 }
@@ -186,5 +190,79 @@ div#logs-height {
 	cursor: ns-resize;
 }
 
+.server-properties {
+    width: 70vw;
+    height: 100%;
+    flex: 0 0;
+    position: absolute;
+    right: 0;
+}
 
+.navbar {
+    width: 70vw;
+    display: flex;
+    flex-direction: column;
+    height: 2rem;
+    align-items: center;
+}
+
+.nav2 {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    height: 100%;
+    width: 100%;
+}
+
+.nav2 > button {
+    background: none;
+    color: var(--interactive-normal);
+    border: none;
+    border-bottom: solid 2px grey;
+    text-align: left;
+    cursor: pointer;
+    width: 100%;
+    margin: 0 25px 0px 18px;
+    transition: all 150ms;
+    outline: none !important;
+}
+
+.nav2 > button:hover {
+    color: var(--interactive-hover);
+    border-bottom-color: var(--interactive-hover);
+}
+
+button:active {
+    transform: translate(0px,2px);
+}
+
+.tab {
+    width: 70vw;
+    height: 100%;
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+
+.tab:nth-child(3) {
+    background: red;
+}
+
+.tab:nth-child(4) {
+    background: blue;
+}
+
+.tab:nth-child(5) {
+    background: green;
+}
+
+.tabs {
+    height: calc(100% - 2rem);
+    width: max-content;
+    position: relative;
+    transition: all 350ms;
+	right: 0;
+    margin: 0;
+    padding: 0;
+}
 	
