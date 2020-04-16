@@ -215,5 +215,5 @@ logHeightModifier.addEventListener('mousedown', (e) => {
 });
 
 
-genLog('Welcome to the Miza control panel!<br>This is very much still a work in progress and at this point does nothing, but you can see what I\'m going for.');
+genLog('Welcome to a WIP Miza control panel!<br>The current version does, well not much:<ul><li>It looks up discord servers from their invites;</li><li>it has a tabbing system for each server and <i>in</i> each server;</li></ul>and that\'s about it.<br>I\'m planning to work on this as much as I can for the next week.');
 
