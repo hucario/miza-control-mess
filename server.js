@@ -145,6 +145,11 @@ if (!process.env.BOT_TOKEN && !process.env.WEB_TOKEN) {
 		console.error(chalk.bold.redBright('Error reading auth.json: '),e);
 		process.exit();
 	}
+} else {
+	auth = {
+		"bot_token": process.env.BOT_TOKEN,
+		"web_token": process.env.WEB_TOKEN
+	}
 }
 
 /* Axios */
