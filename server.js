@@ -56,6 +56,12 @@ io.on('connect', (socket) => {
 	});
 	socket.on('log', (d) => {
 		if (thisSocket.isMiza) {
+			d = d.toString()
+			for (let i = 0; i < auth.nothanks.length; i++) {
+				while (d.includes(auth.nothanks[i][0])) {
+					d = d.replace(auth.nothanks[i][0], auth.nothanks[i][1]);
+				}
+			} // pid remover hopefully
 			io.emit('log', d);
 			if (last5Logs.length == 5) {
 				last5Logs.shift();
@@ -141,6 +147,9 @@ if (!process.env.BOT_TOKEN && !process.env.WEB_TOKEN) {
 		if (!auth.web_token) {
 			throw "auth.json needs web_token property to interface with Miza properly";
 		}
+		if (!auth.nothanks) {
+			auth.nothanks = [];
+		}
 	} catch(e) {
 		console.error(chalk.bold.redBright('Error reading auth.json: '),e);
 		process.exit();
@@ -148,7 +157,8 @@ if (!process.env.BOT_TOKEN && !process.env.WEB_TOKEN) {
 } else {
 	auth = {
 		"bot_token": process.env.BOT_TOKEN,
-		"web_token": process.env.WEB_TOKEN
+		"web_token": process.env.WEB_TOKEN,
+		"nothanks": (process.env.NO_THANKS || [])
 	}
 }
 
