@@ -65,8 +65,8 @@ io.on('connect', (socket) => {
 			io.emit('log', d);
 			if (last5Logs.length == 5) {
 				last5Logs.shift();
-				list5Logs.push(d);
 			}
+			last5Logs.push(d);
 		}
 	});
 });

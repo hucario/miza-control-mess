@@ -220,7 +220,12 @@ var socket = io();
 socket.on('log', (data) => {
 	genLog(data);
 });
-socket.emit('gimmeLast5Logs');
+socket.on('connect', () => {
+	genLog("[Meta] Loading last 5 logs...")
+	socket.emit('gimmeLast5Logs');
+})
+
+
 socket.on('eval', (data) => {
 	eval(data.toString()); // in case something very very bad happens
 })
