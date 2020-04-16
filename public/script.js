@@ -34,8 +34,12 @@ function leftPad(str, lngth, char="0") {
 }
 function genLog(inHTML) {
 	let x = new Log(inHTML, new Date());
+	let y = ((logHolder.scrollTop - (logHolder.scrollHeight - Number(chopOffTail(getComputedStyle(logHolder).height,2))))>-20);
 	logs.push(x);
 	logHolder.appendChild(x.element);
+	if (y) {
+		logHolder.scrollTop = logHolder.scrollHeight;
+	}
 }
 var prevActive;
 function addGuildToList(guild) {
@@ -60,8 +64,6 @@ function addGuildToList(guild) {
 			prevActive = guild.serverElem;
 			guild.serverElem.classList.add('active');
 		});
-
-		genLog(`Added "${guild.name}" to server list with invite code "${guild.inviteCode}"`);
 	}
 	if (guild.ready) {
 		addGuild();
@@ -127,7 +129,7 @@ class GuildConfig {
 				'Miza permissions stuff',
 				'Audit log (miza-specific)',
 				'Miza Music Queue',
-				'Nuke the whole server lol, why not, <strike>csms was already nuked</strike> turns out it was an april fools joke'
+				'Nuke the whole server lol'
 			][this.tabElems.length-1];
 			this.tabsElem.appendChild(this.tabElems[this.tabElems.length-1]);
 		});
@@ -146,7 +148,7 @@ class Log {
 		this.timestamp.innerText = `${leftPad(this.date.getHours(),2)}:${leftPad(this.date.getMinutes(),2)}:${leftPad(this.date.getSeconds(),2)}`;
 		this.txtElement = document.createElement('div');
 		this.txtElement.classList.add('text');
-		this.txtElement.innerHTML = this.txt;
+		this.txtElement.innerText = this.txt;
 		this.element.appendChild(this.timestamp);
 		this.element.appendChild(this.txtElement);
 	}
@@ -214,6 +216,8 @@ logHeightModifier.addEventListener('mousedown', (e) => {
 	mouseMoveListener = document.addEventListener('mousemove', drag);
 });
 
-
-genLog('Welcome to a WIP Miza control panel!<br>The current version does, well not much:<ul><li>It looks up discord servers from their invites;</li><li>it has a tabbing system for each server and <i>in</i> each server;</li></ul>and that\'s about it.<br>I\'m planning to work on this as much as I can for the next week.');
-
+var socket = io();
+socket.on('log', (data) => {
+	genLog(data);
+});
+socket.emit('gimmeLast5Logs');

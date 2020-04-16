@@ -1,10 +1,10 @@
 /* Requires */
-const express = require('express');
-const axios = require('axios');
-const bodyParser = require('body-parser');
-const socketio = require('socket.io');
-
-
+const express = require('express');			// webserver stuff
+const axios = require('axios');				// performs requests
+const bodyParser = require('body-parser');	// parses requests
+const socketio = require('socket.io');		// websocket stuff
+const fs = require('fs');					// filesystem
+const chalk = require('chalk');				// debug
 
 /* Variables */
 var port;
@@ -12,8 +12,8 @@ var serverCache = {};
 var userCache = {};
 var iconCache = {};
 var invitesCache = {};
-
-
+var musicQueues = {};
+var last5Logs = [];
 
 /* Express setup */
 var app = express();
@@ -32,8 +32,44 @@ var server = app.listen(port, () => {
 
 /* SocketIO */
 const io = socketio.listen(server);
+io.on('connect', (socket) => {
+	let thisSocket = {
+		"failedAuth": 0,
+		"isMiza": false
+	};
+	socket.on('gimmeLast5Logs', () => {
+		for (let i = 0; i < last5Logs.length;i++) {
+			socket.emit('log', last5Logs[i]);
+			console.log('Broadcasting '+last5Logs[i]);
+		}
+	})
+	socket.on('authMeBB', (data) => {
+		if (data == auth.web_token && thisSocket.failedAuth<3) {
+			socket.emit('authAccepted');
+			io.emit('log', 'Miza connected');
+			thisSocket.isMiza = true;
+		} else {
+			socket.emit('authDenied');
+			console.log('Miza auth failed');
+			failedAuth++;
+		}
+	});
+	socket.on('log', (d) => {
+		if (thisSocket.isMiza) {
+			io.emit('log', d);
+			if (last5Logs.length == 5) {
+				last5Logs.shift();
+				list5Logs.push(d);
+			}
+		}
+	});
+});
 
 /* Routing */
+app.get('/queue/:id', async (req, res) => {
+	res.send('Not yet');
+});
+
 app.get('/user/:id', async (req, res) => {
 	try {
 		if (!userCache[req.params.id]) {
@@ -53,6 +89,21 @@ app.get('/user/:id', async (req, res) => {
 	} catch (e) {
 		res.status(400);
 		res.send(false);
+	}
+});
+
+app.get('/userpic/:id', async (req, res) => {
+	try {
+		if (!userCache[req.params.id] || !userCache[req.params.id].avatarURL) {
+			var resp1 = await axapi.get('/users/'+req.params.id);
+			userCache[req.params.id] = resp1.data;
+			userCache[req.params.id].avatarURL = `https://cdn.discordapp.com/avatars/${req.params.id}/${resp1.data.avatar}.webp?size=512`
+			res.redirect(userCache[req.params.id].avatarURL)
+			userCache[req.params.id].avatarURL = `https://cdn.discordapp.com/avatars/${req.params.id}/${resp1.data.avatar}.webp?size=512`
+		} else {
+			res.redirect(userCache[req.params.id].avatarURL);
+		}
+	} catch (e) {
 	}
 });
 
@@ -79,8 +130,26 @@ app.get('/invite/:code', async (req, res) => {
 	}
 });
 
+var auth;
+/* Auth */
+if (!process.env.BOT_TOKEN && !process.env.WEB_TOKEN) {
+	try {
+		auth = JSON.parse(fs.readFileSync(__dirname + "/auth.json").toString());
+		if (!auth.bot_token) {
+			throw "auth.json needs bot_token property to do pretty much anything";
+		}
+		if (!auth.web_token) {
+			throw "auth.json needs web_token property to interface with Miza properly";
+		}
+	} catch(e) {
+		console.error(chalk.bold.redBright('Error reading auth.json: '),e);
+		process.exit();
+	}
+}
+
 /* Axios */
 const axapi = axios.create({
   baseURL: 'https://discordapp.com/api/',
-  headers: {'Authorization': 'Bot Njk5NDM4NjU0Njk0ODgzMzkw.XpUcUw.eNxL4Qko28kQo5b_OBjz-R3VIQA'}
+  headers: {'Authorization': 'Bot '+auth.bot_token}
 });
+
