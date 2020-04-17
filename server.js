@@ -46,6 +46,8 @@ io.on('connect', (socket) => {
 	socket.on('authMeBB', (data) => {
 		if (data == auth.web_token && thisSocket.failedAuth<3) {
 			socket.emit('authAccepted');
+			socket.emit('authAccepted');
+			socket.emit('authAccepted');
 			io.emit('log', 'Miza connected');
 			console.log("Hey, it's Miza!");
 			thisSocket.isMiza = true;
