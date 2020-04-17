@@ -37,16 +37,17 @@ io.on('connect', (socket) => {
 		"failedAuth": 0,
 		"isMiza": false
 	};
+	console.log("Socket has connected");
 	socket.on('gimmeLast5Logs', () => {
 		for (let i = 0; i < last5Logs.length;i++) {
 			socket.emit('log', last5Logs[i]);
-			console.log('Broadcasting '+last5Logs[i]);
 		}
 	})
 	socket.on('authMeBB', (data) => {
 		if (data == auth.web_token && thisSocket.failedAuth<3) {
 			socket.emit('authAccepted');
 			io.emit('log', 'Miza connected');
+			console.log("Hey, it's Miza!");
 			thisSocket.isMiza = true;
 		} else {
 			socket.emit('authDenied');
@@ -61,7 +62,7 @@ io.on('connect', (socket) => {
 				while (d.includes(auth.nothanks[i][0])) {
 					d = d.replace(auth.nothanks[i][0], auth.nothanks[i][1]);
 				}
-			} // pid remover hopefully
+			}
 			io.emit('log', d);
 			if (last5Logs.length == 5) {
 				last5Logs.shift();
