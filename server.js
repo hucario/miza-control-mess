@@ -364,7 +364,7 @@ for (let i = 0; i < required_auth.length; i++) {
 		}
 	}
 }
-if (!process.env.nothanks && !auth.nothanks) {
+if (!process.env.nothanks && (!auth || !auth.nothanks) {
 	auth.nothanks = [];
 }
 
