@@ -366,7 +366,7 @@ for (let i = 0; i < required_auth.length; i++) {
 		auth[required_auth[i]] = process.env[required_auth[i]];
 	}
 }
-if (!process.env.nothanks && !auth.nothanks)) {
+if (!process.env.nothanks && !auth.nothanks) {
 		auth.nothanks = [];
 }
 
