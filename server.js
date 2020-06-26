@@ -344,7 +344,7 @@ app.get('/invite/:code', async (req, res) => {
 
 /* Auth */
 
-var auth;
+var auth = {};
 var required_auth = ['bot_token', 'web_token', 'app_client_id', 'app_client_secret', 'working_url'];
 function read_auth() {
 	try {
@@ -362,10 +362,12 @@ for (let i = 0; i < required_auth.length; i++) {
 		if (!auth[required_auth[i]]) {
 			throw new Error(`auth.json is missing ${required_auth[i]} property`);
 		}
+	} else {
+		auth[required_auth[i]] = process.env[required_auth[i]];
 	}
 }
-if (!process.env.nothanks && (!auth || !auth.nothanks)) {
-	auth.nothanks = [];
+if (!process.env.nothanks && !auth.nothanks)) {
+		auth.nothanks = [];
 }
 
 
