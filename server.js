@@ -346,15 +346,22 @@ app.get('/invite/:code', async (req, res) => {
 
 var auth;
 var required_auth = ['bot_token', 'web_token', 'app_client_id', 'app_client_secret', 'working_url'];
-try {
-	auth = JSON.parse(fs.readFileSync(__dirname + "/auth.json").toString());
-} catch(e) {
-	console.error(chalk.bold.redBright('Error reading auth.json: '),e);
-	process.exit();
+function read_auth() {
+	try {
+		auth = JSON.parse(fs.readFileSync(__dirname + "/auth.json").toString());
+	} catch(e) {
+		console.error(chalk.bold.redBright('Error reading auth.json: '),e);
+		process.exit();
+	}
 }
 for (let i = 0; i < required_auth.length; i++) {
-	if (!process.env[required_auth[i]] && !auth[required_auth[i]]) {
-		throw new Error(`auth.json is missing ${required_auth[i]} property`);
+	if (!process.env[required_auth[i]]) {
+		if (!auth) {
+			read_auth();
+		}
+		if (!auth[required_auth[i]]) {
+			throw new Error(`auth.json is missing ${required_auth[i]} property`);
+		}
 	}
 }
 if (!process.env.nothanks && !auth.nothanks) {
