@@ -1,0 +1,5460 @@
+{
+	"stats": {
+		"volume": 1,
+		"reverb": 0,
+		"pitch": 0,
+		"speed": 1,
+		"bassboost": 0,
+		"chorus": 0,
+		"loop": false,
+		"shuffle": false,
+		"quiet": false
+	},
+	"queue": [
+		{
+			"name": "Pokemon Sun & Moon - Team Skull Admin Battle Music (HQ)",
+			"url": "https://www.youtube.com/watch?v=3Askr-P3wIY",
+			"duration": 300.121,
+			"id": "3Askr-P3wIY"
+		},
+		{
+			"name": "Yappari ESAKA - KOF XIV | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=GT3zBMWNOuM",
+			"duration": 237.441,
+			"id": "GT3zBMWNOuM"
+		},
+		{
+			"name": "DR:AE OST Disc 3 - 14 Punishment of the Mage",
+			"url": "https://www.youtube.com/watch?v=2MDnad5XXew",
+			"duration": 16
+		},
+		{
+			"name": "\\u3010\\u6b4c\\u3063\\u3066\\u307f\\u305f\\u3011Great Days\\u3010taiga\\u3011",
+			"url": "https://www.youtube.com/watch?v=zoqH1Rk4ANM",
+			"duration": 242,
+			"id": "zoqH1Rk4ANM"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. White - 45. Body Discovery B",
+			"url": "https://www.youtube.com/watch?v=Uqe2v-9LaBo",
+			"duration": 15
+		},
+		{
+			"name": "Giratina Battle - Pok\\u00e9mon Platinum",
+			"url": "https://www.youtube.com/watch?v=EfFqkIsn88U",
+			"duration": 241,
+			"id": "EfFqkIsn88U"
+		},
+		{
+			"name": "Hyrule Field Theme [Original] | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=3CBVefRMLO4",
+			"duration": 292,
+			"id": "3CBVefRMLO4"
+		},
+		{
+			"name": "Phoenix Wright 2 - 18) Kurain Village",
+			"url": "https://www.youtube.com/watch?v=nD4Jcvejfj4",
+			"duration": 106,
+			"id": "nD4Jcvejfj4"
+		},
+		{
+			"name": "Planet Wisp (Act 2) - Sonic Colors [OST]",
+			"url": "https://www.youtube.com/watch?v=5rumoXBhSZQ",
+			"duration": 262,
+			"id": "5rumoXBhSZQ"
+		},
+		{
+			"name": "SDR2 OST: -2-12- Class Trial - Future Part",
+			"url": "https://www.youtube.com/watch?v=5F26Vt1Q2-E",
+			"duration": 124
+		},
+		{
+			"name": "Doom OST - E2M8 - Nobody Told Me About Id",
+			"url": "https://www.youtube.com/watch?v=4iIrg4DM078",
+			"duration": 175
+		},
+		{
+			"name": "Pokemon- Mystery Dungeon Explorers of Sky- Chasm Cave- Music",
+			"url": "https://www.youtube.com/watch?v=RSzLxOUOnMg",
+			"duration": 146,
+			"id": "RSzLxOUOnMg"
+		},
+		{
+			"name": "Mario Strikers Charged-Super Mario/Luigi Theme",
+			"url": "https://www.youtube.com/watch?v=aG_X6XLYwsM",
+			"duration": 40,
+			"id": "aG_X6XLYwsM"
+		},
+		{
+			"name": "Ruined Castle Gallery | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=3lwwVSpdcZg",
+			"duration": 191,
+			"id": "3lwwVSpdcZg"
+		},
+		{
+			"name": "DANGANRONPA OST: -2-07- Discussion -MIX- (EDGE Version)",
+			"url": "https://www.youtube.com/watch?v=1mEjda6QXMk",
+			"duration": 272
+		},
+		{
+			"name": "Chemical Plant Zone Act 1 - Sonic Mania [OST]",
+			"url": "https://www.youtube.com/watch?v=tGqmtzzXYqY",
+			"duration": 175.161,
+			"id": "tGqmtzzXYqY"
+		},
+		{
+			"name": "Battle Dome - Pok\\u00e9mon Emerald",
+			"url": "https://www.youtube.com/watch?v=H7SL93L9cHs",
+			"duration": 58,
+			"id": "H7SL93L9cHs"
+		},
+		{
+			"name": "Doom 3DO Soundtrack - Map 1 - At Doom's Gate",
+			"url": "https://www.youtube.com/watch?v=m35pIk5wfNk",
+			"duration": 125
+		},
+		{
+			"name": "Goal BGM - F-Zero X OST",
+			"url": "https://www.youtube.com/watch?v=a9KhZJMtjiU",
+			"duration": 78,
+			"id": "a9KhZJMtjiU"
+		},
+		{
+			"name": "Lake Lamode: Underwater Passage - Super Mario Odyssey [OST]",
+			"url": "https://www.youtube.com/watch?v=Y-c7j9Zahhk",
+			"duration": 144,
+			"id": "Y-c7j9Zahhk"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. White - 02. Danganronpa! Vee Three!",
+			"url": "https://www.youtube.com/watch?v=wjWFGfGjXvA",
+			"duration": 98
+		},
+		{
+			"name": "Crisis in Battle! - Pok\\u00e9mon Black/White",
+			"url": "https://www.youtube.com/watch?v=Y8OTqnErCuY",
+			"duration": 43,
+			"id": "Y8OTqnErCuY"
+		},
+		{
+			"name": "Let's Dance, Boys! | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=yckWVQlt8Mo",
+			"duration": 439.761,
+			"id": "yckWVQlt8Mo"
+		},
+		{
+			"name": "Gyakuten Kenji 2 OST: 17 - Lamenting People",
+			"url": "https://www.youtube.com/watch?v=-ZdSk37qd6k",
+			"duration": 213,
+			"id": "-ZdSk37qd6k"
+		},
+		{
+			"name": "Go-Rock Quads Concert - Pok\\u00e9mon Ranger: Shadows of Almia",
+			"url": "https://www.youtube.com/watch?v=0vlujQHSZUo",
+			"duration": 239,
+			"id": "0vlujQHSZUo"
+		},
+		{
+			"name": "Main Theme - Yoshi's Woolly World [Remix] | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=88qUfCAGhso",
+			"duration": 221,
+			"id": "88qUfCAGhso"
+		},
+		{
+			"name": "Sandopolis Zone (Act 2) - Sonic & Knuckles [OST]",
+			"url": "https://www.youtube.com/watch?v=Zi16YiIpSkY",
+			"duration": 110,
+			"id": "Zi16YiIpSkY"
+		},
+		{
+			"name": "Death Scavenger of Human Sorrow (remastered)",
+			"url": "https://www.youtube.com/watch?v=L2kGJZEVI1Q",
+			"duration": 415,
+			"id": "L2kGJZEVI1Q"
+		},
+		{
+			"name": "Crash",
+			"url": "https://www.youtube.com/watch?v=QPjakLdvRZg",
+			"duration": 12,
+			"id": "QPjakLdvRZg"
+		},
+		{
+			"name": "Fire Field [Remix] | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=sVowXxhWhYc",
+			"duration": 137,
+			"id": "sVowXxhWhYc"
+		},
+		{
+			"name": "DANGANRONPA OST: -2-16- Climactic Return",
+			"url": "https://www.youtube.com/watch?v=HkyH3KUAGHI",
+			"duration": 131
+		},
+		{
+			"name": "Ninja Gaiden 2. The dark Sword of Chaos",
+			"url": "https://www.youtube.com/watch?v=wmIbCNSsLqk",
+			"duration": 117,
+			"id": "wmIbCNSsLqk"
+		},
+		{
+			"name": "[Official] Celeste B-Sides - 02 - Ben Prunty - Old Site (Black Moonrise Mix)",
+			"url": "https://www.youtube.com/watch?v=6eeIEMOQw4s",
+			"duration": 204,
+			"id": "6eeIEMOQw4s"
+		},
+		{
+			"name": "SA2B: Hero Chao Garden",
+			"url": "https://www.youtube.com/watch?v=IqWsDGTiQ2Q",
+			"duration": 113,
+			"id": "IqWsDGTiQ2Q"
+		},
+		{
+			"name": "Mario Strikers Charged-The Lava Pit",
+			"url": "https://www.youtube.com/watch?v=185c03jY5UY",
+			"duration": 201,
+			"id": "185c03jY5UY"
+		},
+		{
+			"name": "Oingo Boingo Brothers Ending",
+			"url": "https://www.youtube.com/watch?v=vh_ZK_Rb25s",
+			"duration": 89,
+			"id": "vh_ZK_Rb25s"
+		},
+		{
+			"name": "Prelude (Ablaze) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=SbrL59OUyPU",
+			"duration": 274,
+			"id": "SbrL59OUyPU"
+		},
+		{
+			"name": "Doom 3 OST - Monorail",
+			"url": "https://www.youtube.com/watch?v=FZgS7bc-52Q",
+			"duration": 22
+		},
+		{
+			"name": "Doom 3 OST - Scape 1",
+			"url": "https://www.youtube.com/watch?v=tkcKjYORhvM",
+			"duration": 79
+		},
+		{
+			"name": "Stage Clear - Sonic Colors [OST]",
+			"url": "https://www.youtube.com/watch?v=IGUltbG-vdI",
+			"duration": 12,
+			"id": "IGUltbG-vdI"
+		},
+		{
+			"name": "Castle Theme / Fortress Boss - Super Mario World / Super Mario Bros. 3 | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=ZQ88DC4eOFk",
+			"duration": 205,
+			"id": "ZQ88DC4eOFk"
+		},
+		{
+			"name": "Doom II OST - Map 03,21 - Countdown To Death",
+			"url": "https://www.youtube.com/watch?v=Bv3biyYpiC8",
+			"duration": 227
+		},
+		{
+			"name": "Estradasphere - Super Buck II",
+			"url": "https://www.youtube.com/watch?v=-I2UHqT1G3U",
+			"duration": 159,
+			"id": "-I2UHqT1G3U"
+		},
+		{
+			"name": "Garden of Hope [Original] | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=kJx9jcS6uy8",
+			"duration": 232,
+			"id": "kJx9jcS6uy8"
+		},
+		{
+			"name": "PW:AA OST: 14 - Turnabout Sisters' Theme 2001",
+			"url": "https://www.youtube.com/watch?v=_C4yBssyoTY",
+			"duration": 161,
+			"id": "_C4yBssyoTY"
+		},
+		{
+			"name": "Wisp's Homeworld - Sonic Colors [OST]",
+			"url": "https://www.youtube.com/watch?v=ppYcficGyTM",
+			"duration": 98,
+			"id": "ppYcficGyTM"
+		},
+		{
+			"name": "Yoga | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=RvlwyqY1h2I",
+			"duration": 215,
+			"id": "RvlwyqY1h2I"
+		},
+		{
+			"name": "Doom 3 OST - Bertrugerhead",
+			"url": "https://www.youtube.com/watch?v=UMUgNpLFiik",
+			"duration": 25
+		},
+		{
+			"name": "Master Core | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=VNBPXxy2YF4",
+			"duration": 403,
+			"id": "VNBPXxy2YF4"
+		},
+		{
+			"name": "Battle! (Team Galactic) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=nhN475xUuXk",
+			"duration": 148,
+			"id": "nhN475xUuXk"
+		},
+		{
+			"name": "\\u266a\\u266b\\u266c Delta Rune |[Remix]| The World Revolving / Jevil Battle",
+			"url": "https://www.youtube.com/watch?v=vqVs2eH7_ks",
+			"duration": 388,
+			"id": "vqVs2eH7_ks"
+		},
+		{
+			"name": "cold -just got wicked",
+			"url": "https://www.youtube.com/watch?v=zdxU9cwDEsA",
+			"duration": 254,
+			"id": "zdxU9cwDEsA"
+		},
+		{
+			"name": "King Dedede's Theme (Brawl) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=8MfixcCjq_4",
+			"duration": 201,
+			"id": "8MfixcCjq_4"
+		},
+		{
+			"name": "Sonic CD US OST - Quartz Quadrant (Present)",
+			"url": "https://www.youtube.com/watch?v=88aMY5eJtJE",
+			"duration": 102,
+			"id": "88aMY5eJtJE"
+		},
+		{
+			"name": "Cave Story 3D OST - Pulse",
+			"url": "https://www.youtube.com/watch?v=OYydrmTkbEE",
+			"duration": 131,
+			"id": "OYydrmTkbEE"
+		},
+		{
+			"name": "Doom 3 OST - Guardian Intro",
+			"url": "https://www.youtube.com/watch?v=aqFzBg_Uszk",
+			"duration": 21
+		},
+		{
+			"name": "DOOM 2016 Soundtrack - Main Theme (Alpha)",
+			"url": "https://www.youtube.com/watch?v=ue6T2A8o9aQ",
+			"duration": 158
+		},
+		{
+			"name": "Kanto Gym Leader Battle - Pok\\u00e9mon Black2/White2",
+			"url": "https://www.youtube.com/watch?v=PuOPTejmo8Y",
+			"duration": 153.821,
+			"id": "PuOPTejmo8Y"
+		},
+		{
+			"name": "Doom OST - E1M1 - At Doom's Gate",
+			"url": "https://www.youtube.com/watch?v=BSsfjHCFosw",
+			"duration": 101
+		},
+		{
+			"name": "Cave Story OST - T34: Seal Chamber",
+			"url": "https://www.youtube.com/watch?v=qYnGToNPKEg",
+			"duration": 64,
+			"id": "qYnGToNPKEg"
+		},
+		{
+			"name": "Let's Go To Seoul! - FATAL FURY 2 | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=vzAQP8JN4SU",
+			"duration": 289,
+			"id": "vzAQP8JN4SU"
+		},
+		{
+			"name": "DR:AE OST Disc 1 - 21 Welcome to TOWA Tower",
+			"url": "https://www.youtube.com/watch?v=g0Q1UHB8pFc",
+			"duration": 233
+		},
+		{
+			"name": "MEGALOVANIA BUT ITS SANS SEDUCING YOU",
+			"url": "https://www.youtube.com/watch?v=BVAFNF-Y4E4",
+			"duration": 43,
+			"id": "BVAFNF-Y4E4"
+		},
+		{
+			"name": "Pop Fashion Show | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=1Zvcmm1u0k0",
+			"duration": 149,
+			"id": "1Zvcmm1u0k0"
+		},
+		{
+			"name": "Gyakuten Kenji 2 OST: 08 - Confess the Truth 2011",
+			"url": "https://www.youtube.com/watch?v=TLjV1qL3Gd4",
+			"duration": 180,
+			"id": "TLjV1qL3Gd4"
+		},
+		{
+			"name": "SDR2 OST: -3-28- Chapter 02 - Title (Part A)",
+			"url": "https://www.youtube.com/watch?v=Pka4GyC1-YM",
+			"duration": 14
+		},
+		{
+			"name": "Title Theme - Animal Crossing: Wild World (Brawl) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=557EwZR8FKo",
+			"duration": 135,
+			"id": "557EwZR8FKo"
+		},
+		{
+			"name": "Funky's Fugue | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=F0BobaKaOD4",
+			"duration": 139,
+			"id": "F0BobaKaOD4"
+		},
+		{
+			"name": "City Escape (Modern) - Sonic Generations [OST]",
+			"url": "https://www.youtube.com/watch?v=jBihcsxGFLo",
+			"duration": 408,
+			"id": "jBihcsxGFLo"
+		},
+		{
+			"name": "Mario Strikers Charged-The Dump",
+			"url": "https://www.youtube.com/watch?v=O2DUz4VOFvA",
+			"duration": 186,
+			"id": "O2DUz4VOFvA"
+		},
+		{
+			"name": "DANGANRONPA OST: -2-36- Chapter Results",
+			"url": "https://www.youtube.com/watch?v=DR46K-6kDqs",
+			"duration": 8
+		},
+		{
+			"name": "Doom OST - E3M2 - Donna to the Rescue",
+			"url": "https://www.youtube.com/watch?v=Bg_5MEuDVLs",
+			"duration": 118
+		},
+		{
+			"name": "Star Fox 2 Music - Surprise Attack (Star Wolf Theme)",
+			"url": "https://www.youtube.com/watch?v=jDUJPSNtZ9Y",
+			"duration": 98.141,
+			"id": "jDUJPSNtZ9Y"
+		},
+		{
+			"name": "Afternoon on the Island | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=WmwyW67oap4",
+			"duration": 301,
+			"id": "WmwyW67oap4"
+		},
+		{
+			"name": "17 | Trial In Disorder (Dai Gyakuten Saiban Soundtrack)",
+			"url": "https://www.youtube.com/watch?v=i4r2AE6CKe0",
+			"duration": 109,
+			"id": "i4r2AE6CKe0"
+		},
+		{
+			"name": "SDR2 OST: -3-34- Chapter 04 - Title (Part A)",
+			"url": "https://www.youtube.com/watch?v=ZvAyoxhOn_Q",
+			"duration": 13
+		},
+		{
+			"name": "Pokemon HeartGold/SoulSilver - Battle! Raikou Music (HQ)",
+			"url": "https://www.youtube.com/watch?v=HYdDwicBWFk",
+			"duration": 179.401,
+			"id": "HYdDwicBWFk"
+		},
+		{
+			"name": "Darkrai & Regigiggas - Pok\\u00e9mon Ranger: Shadows of Almia",
+			"url": "https://www.youtube.com/watch?v=nLGsjrKIXSw",
+			"duration": 260.389,
+			"id": "nLGsjrKIXSw"
+		},
+		{
+			"name": "Forest World - Athena | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=wcmIi660y6s",
+			"duration": 265,
+			"id": "wcmIi660y6s"
+		},
+		{
+			"name": "Full Steam Ahead | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=7SPBQ5hMrno",
+			"duration": 260,
+			"id": "7SPBQ5hMrno"
+		},
+		{
+			"name": "Mad Forest | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=MEp8u-M5YsE",
+			"duration": 210,
+			"id": "MEp8u-M5YsE"
+		},
+		{
+			"name": "SDR2 OST: -3-19- All All Apologies [16bit]",
+			"url": "https://www.youtube.com/watch?v=pUplGN2ZK_8",
+			"duration": 173
+		},
+		{
+			"name": "It's show time! - Ace Attorney 6: Spirit Of Justice OST",
+			"url": "https://www.youtube.com/watch?v=auWSVFxoDTg",
+			"duration": 97,
+			"id": "auWSVFxoDTg"
+		},
+		{
+			"name": "Earthbound Halloween Hack Music - Final Boss (Megalovania)",
+			"url": "https://www.youtube.com/watch?v=iIowwZThIXM",
+			"duration": 119,
+			"id": "iIowwZThIXM"
+		},
+		{
+			"name": "Team Plasma Battle - Pok\\u00e9mon Black/White",
+			"url": "https://www.youtube.com/watch?v=D3Biw2hvjas",
+			"duration": 213,
+			"id": "D3Biw2hvjas"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. White - 13. Body Discovery A",
+			"url": "https://www.youtube.com/watch?v=GyfgTbtuAto",
+			"duration": 21
+		},
+		{
+			"name": "Phoenix Wright T&T ~ The Kudo Officers DS",
+			"url": "https://www.youtube.com/watch?v=8cksQ-aT5po",
+			"duration": 100,
+			"id": "8cksQ-aT5po"
+		},
+		{
+			"name": "Zangief Stage Type A (Finale) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=uSvrQkAiSjI",
+			"duration": 72,
+			"id": "uSvrQkAiSjI"
+		},
+		{
+			"name": "Fire Emblem Theme | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=4IuUj6qj5Kk",
+			"duration": 357,
+			"id": "4IuUj6qj5Kk"
+		},
+		{
+			"name": "Pokemon Sword & Shield - Hop Final Battle Music (HQ)",
+			"url": "https://www.youtube.com/watch?v=euzRjM4bfcQ",
+			"duration": 300,
+			"id": "euzRjM4bfcQ"
+		},
+		{
+			"name": "Jet Grind Radio Soundtrack - Up-Set Attack",
+			"url": "https://www.youtube.com/watch?v=bvuf_hbXaSc",
+			"duration": 229,
+			"id": "bvuf_hbXaSc"
+		},
+		{
+			"name": "Drake & Josh but it's Megalovania",
+			"url": "https://www.youtube.com/watch?v=-yhU2YLo4mY",
+			"duration": 52,
+			"id": "-yhU2YLo4mY"
+		},
+		{
+			"name": "Doom 3 OST - Bertrugerhead",
+			"url": "https://www.youtube.com/watch?v=UMUgNpLFiik",
+			"duration": 25
+		},
+		{
+			"name": "Halo - Ambient Wonder",
+			"url": "https://www.youtube.com/watch?v=3db17gQ8XTs",
+			"duration": 117,
+			"id": "3db17gQ8XTs"
+		},
+		{
+			"name": "[2-19] Wind Fortress - Cave Story Remastered Soundtrack",
+			"url": "https://www.youtube.com/watch?v=Fruh0eEALJQ",
+			"duration": 176,
+			"id": "Fruh0eEALJQ"
+		},
+		{
+			"name": "Seaside Hill - Sonic Heroes [OST]",
+			"url": "https://www.youtube.com/watch?v=IIgNq87PbK0",
+			"duration": 162,
+			"id": "IIgNq87PbK0"
+		},
+		{
+			"name": "Doom (PSX) Music - Club Doom",
+			"url": "https://www.youtube.com/watch?v=qtH-L5CZFA0",
+			"duration": 130
+		},
+		{
+			"name": "Steam Gardens - Super Mario Odyssey [OST]",
+			"url": "https://www.youtube.com/watch?v=s8Mx18uR1dY",
+			"duration": 205,
+			"id": "s8Mx18uR1dY"
+		},
+		{
+			"name": "MEGALOVANIA BUT IT'S PLAYED ON A CAT PIANO!",
+			"url": "https://www.youtube.com/watch?v=EEE7DBZkzZg",
+			"duration": 99,
+			"id": "EEE7DBZkzZg"
+		},
+		{
+			"name": "Pokemon FireRed/LeafGreen - Battle! Champion Rival Music (HQ)",
+			"url": "https://www.youtube.com/watch?v=-4vpdkEkup8",
+			"duration": 179.421,
+			"id": "-4vpdkEkup8"
+		},
+		{
+			"name": "Pokemon Omega Ruby/Alpha Sapphire - Team Aqua Appears! Music (HQ)",
+			"url": "https://www.youtube.com/watch?v=gS3ZCLkKawY",
+			"duration": 180,
+			"id": "gS3ZCLkKawY"
+		},
+		{
+			"name": "Deltarune- THE WORLD REVOLVING (VRC6 Famitracker)",
+			"url": "https://www.youtube.com/watch?v=zoLcGSm2oM4",
+			"duration": 315,
+			"id": "zoLcGSm2oM4"
+		},
+		{
+			"name": "Final Doom (PSX) Music - Track 06 (Fistula)",
+			"url": "https://www.youtube.com/watch?v=z6VlWeY1wfY",
+			"duration": 298
+		},
+		{
+			"name": "DOOM 2016 Soundtrack - Theme 17",
+			"url": "https://www.youtube.com/watch?v=ltdoXT9cjN8",
+			"duration": 82
+		},
+		{
+			"name": "Dai Gyakuten Saiban 2 OST | 11 The Wax Museum",
+			"url": "https://www.youtube.com/watch?v=BAB8d3NjBog",
+			"duration": 141,
+			"id": "BAB8d3NjBog"
+		},
+		{
+			"name": "Team Fortress 2 Soundtrack | Rocket Jump Waltz",
+			"url": "https://www.youtube.com/watch?v=kbdtBLD8Lbg",
+			"duration": 39.821,
+			"id": "kbdtBLD8Lbg"
+		},
+		{
+			"name": "How to Play - Super Smash Bros. Melee [Original] | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=afb0vKaTMCk",
+			"duration": 184,
+			"id": "afb0vKaTMCk"
+		},
+		{
+			"name": "[Official] Celeste Original Soundtrack - 19 - Exhale",
+			"url": "https://www.youtube.com/watch?v=q7QMTo-P6H0",
+			"duration": 141,
+			"id": "q7QMTo-P6H0"
+		},
+		{
+			"name": "Doom 3 Music- Cyberdemon",
+			"url": "https://www.youtube.com/watch?v=gNaax9g-YeU",
+			"duration": 63
+		},
+		{
+			"name": "Doom OST - E1M2 - The Imps Song",
+			"url": "https://www.youtube.com/watch?v=re0A23CSvpw",
+			"duration": 160
+		},
+		{
+			"name": "Mario Strikers Charged-Crystal Canyon",
+			"url": "https://www.youtube.com/watch?v=YiaA3uKFS1Y",
+			"duration": 172,
+			"id": "YiaA3uKFS1Y"
+		},
+		{
+			"name": "I'll Face Myself | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=ARLVcaGoeNM",
+			"duration": 231,
+			"id": "ARLVcaGoeNM"
+		},
+		{
+			"name": "C418 - Mellohi (Minecraft Volume Beta)",
+			"url": "https://www.youtube.com/watch?v=TrYlTm06o-8",
+			"duration": 97,
+			"id": "TrYlTm06o-8"
+		},
+		{
+			"name": "Flat Zone 2 | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=2RPiE9qoVEE",
+			"duration": 230,
+			"id": "2RPiE9qoVEE"
+		},
+		{
+			"name": "Multi-Man Smash | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=cTv2nZK42HU",
+			"duration": 273,
+			"id": "cTv2nZK42HU"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. White - 40. REAL\\u30fbFICTION",
+			"url": "https://www.youtube.com/watch?v=ibg3AQxKyhc",
+			"duration": 267
+		},
+		{
+			"name": "Y\\u016by\\u016bki Medley | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=DuEKBhtGKqs",
+			"duration": 319.041,
+			"id": "DuEKBhtGKqs"
+		},
+		{
+			"name": "bitch lasagna x Megalovania",
+			"url": "https://www.youtube.com/watch?v=QG_VuF02Ft4",
+			"duration": 131,
+			"id": "QG_VuF02Ft4"
+		},
+		{
+			"name": "Floaroma Town (Night) - Pok\\u00e9mon Diamond/Pearl/Platinum",
+			"url": "https://www.youtube.com/watch?v=814NKUnmx1E",
+			"duration": 168,
+			"id": "814NKUnmx1E"
+		},
+		{
+			"name": "DR:AE OST Disc 1 - 25 This Is the Path We Follow",
+			"url": "https://www.youtube.com/watch?v=E7YcGg5pmfs",
+			"duration": 132
+		},
+		{
+			"name": "Phoenix Wright T&T ~ Warehouse Tiger DS",
+			"url": "https://www.youtube.com/watch?v=HiZsoMtHEAc",
+			"duration": 104,
+			"id": "HiZsoMtHEAc"
+		},
+		{
+			"name": "Jaguar Doom Music - 08 - Nobody told me About ID",
+			"url": "https://www.youtube.com/watch?v=59er9r-8-HE",
+			"duration": 185
+		},
+		{
+			"name": "Cave Story 3D OST - Mischievous Robot",
+			"url": "https://www.youtube.com/watch?v=JYdAyLnACo8",
+			"duration": 120,
+			"id": "JYdAyLnACo8"
+		},
+		{
+			"name": "SDR2 OST: -1-05- Beautiful Ruin [Summer Salt]",
+			"url": "https://www.youtube.com/watch?v=P-fMDaPFXME",
+			"duration": 228
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. White - 19. Despair Death Road",
+			"url": "https://www.youtube.com/watch?v=vzKiAbeHG0E",
+			"duration": 203
+		},
+		{
+			"name": "Gaia - SAMURAI SHODOWN | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=xV0Ks7BEzUw",
+			"duration": 262,
+			"id": "xV0Ks7BEzUw"
+		},
+		{
+			"name": "Deltarune - THE WORLD REVOLVING (Jevil) [PKAkatora Remix]",
+			"url": "https://www.youtube.com/watch?v=rIOkXU8ZxZc",
+			"duration": 220,
+			"id": "rIOkXU8ZxZc"
+		},
+		{
+			"name": "Drought - Pok\\u00e9mon Ruby",
+			"url": "https://www.youtube.com/watch?v=W2LlKR2fL8g",
+			"duration": 69,
+			"id": "W2LlKR2fL8g"
+		},
+		{
+			"name": "Phoenix Wright Trials & Tribulations ~ Ace Attorney 3 ~ End",
+			"url": "https://www.youtube.com/watch?v=2Z3sTwsC4Q4",
+			"duration": 231,
+			"id": "2Z3sTwsC4Q4"
+		},
+		{
+			"name": "Dual Destinies OST: 2-13 \"For Those I Will Protect\"",
+			"url": "https://www.youtube.com/watch?v=38hcJ0lugnE",
+			"duration": 24,
+			"id": "38hcJ0lugnE"
+		},
+		{
+			"name": "Conquest (Ablaze) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=sNS_BMuxFPg",
+			"duration": 259,
+			"id": "sNS_BMuxFPg"
+		},
+		{
+			"name": "Battle! (Champion) / Champion Cynthia | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=4mgiwENOkhs",
+			"duration": 253,
+			"id": "4mgiwENOkhs"
+		},
+		{
+			"name": "E. Honda Stage Type B (Finale) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=ooqN8axEFvc",
+			"duration": 79,
+			"id": "ooqN8axEFvc"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. Black - 03. Chapter Bridge",
+			"url": "https://www.youtube.com/watch?v=vqL-ko8OrAM",
+			"duration": 13
+		},
+		{
+			"name": "Rainbow Road - Super Mario Kart",
+			"url": "https://www.youtube.com/watch?v=A-ASMWpeUfI",
+			"duration": 113.501,
+			"id": "A-ASMWpeUfI"
+		},
+		{
+			"name": "Team Magma & Aqua Battle - Pok\\u00e9mon Ruby/Sapphire/Emerald",
+			"url": "https://www.youtube.com/watch?v=krT_5sVlzx0",
+			"duration": 206,
+			"id": "krT_5sVlzx0"
+		},
+		{
+			"name": "DR:AE OST Disc 2 - 16 The Light of Darkness",
+			"url": "https://www.youtube.com/watch?v=RlY59199wCc",
+			"duration": 21
+		},
+		{
+			"name": "Final Doom (PSX) - Music - Track 01 (Attack)",
+			"url": "https://www.youtube.com/watch?v=14ozg017Yag",
+			"duration": 432
+		},
+		{
+			"name": "SDR2 OST: -2-08- A Dead End to the Ocean's Aroma",
+			"url": "https://www.youtube.com/watch?v=uoh-Z_TS_xE",
+			"duration": 122
+		},
+		{
+			"name": "Snakey Chantey | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=t37cZRHQJh4",
+			"duration": 247,
+			"id": "t37cZRHQJh4"
+		},
+		{
+			"name": "Big Blue [Original] | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=QStpxxmT3w0",
+			"duration": 134,
+			"id": "QStpxxmT3w0"
+		},
+		{
+			"name": "DANGANRONPA OST: -2-09- Class Trial Solar Edition",
+			"url": "https://www.youtube.com/watch?v=xKSRb0y6Lb8",
+			"duration": 281
+		},
+		{
+			"name": "Top Gear Track 1",
+			"url": "https://www.youtube.com/watch?v=iAMvfv6X8xs",
+			"duration": 416.541,
+			"id": "iAMvfv6X8xs"
+		},
+		{
+			"name": "Victory is Right Before Your Eyes! (Gym Leader's Last Pok\\u00e9mon) - Pok\\u00e9mon Black2/White2",
+			"url": "https://www.youtube.com/watch?v=7KwyG9HhwHA",
+			"duration": 124.561,
+			"id": "7KwyG9HhwHA"
+		},
+		{
+			"name": "Magicant (for 3DS / Wii U) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=v0YJuFgbrWI",
+			"duration": 261,
+			"id": "v0YJuFgbrWI"
+		},
+		{
+			"name": "Gyakuten Kenji 2 OST ~ 27 - Issei Tenkai ~ Sweet Happiness",
+			"url": "https://www.youtube.com/watch?v=Es03S2ZvIZk",
+			"duration": 137,
+			"id": "Es03S2ZvIZk"
+		},
+		{
+			"name": "Pok\\u00e9mon X/Y - Vs Elite Four Music (HQ)",
+			"url": "https://www.youtube.com/watch?v=AclbLQK1hdA",
+			"duration": 300.081,
+			"id": "AclbLQK1hdA"
+		},
+		{
+			"name": "Doom II OST - Map 20,26 - Message For The Archvile",
+			"url": "https://www.youtube.com/watch?v=S4HEJdTH50s",
+			"duration": 276
+		},
+		{
+			"name": "World Tour | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=wqNtvAXMbRg",
+			"duration": 319,
+			"id": "wqNtvAXMbRg"
+		},
+		{
+			"name": "Sonic CD US OST - Metallic Madness (Present)",
+			"url": "https://www.youtube.com/watch?v=dgkJ0rUIeAI",
+			"duration": 84,
+			"id": "dgkJ0rUIeAI"
+		},
+		{
+			"name": "Snake Eater | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=TVF5DrNqdFw",
+			"duration": 222,
+			"id": "TVF5DrNqdFw"
+		},
+		{
+			"name": "Dai Gyakuten Saiban 2 OST | 28 The Great Secret Trial ~ Court Begins",
+			"url": "https://www.youtube.com/watch?v=Dd785hf817I",
+			"duration": 189,
+			"id": "Dd785hf817I"
+		},
+		{
+			"name": "Undercover - KOF 2002 UM | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=AprVG98v2FU",
+			"duration": 172,
+			"id": "AprVG98v2FU"
+		},
+		{
+			"name": "Egg Fleet - Sonic Heroes [OST]",
+			"url": "https://www.youtube.com/watch?v=mEisuRNYmBA",
+			"duration": 152,
+			"id": "mEisuRNYmBA"
+		},
+		{
+			"name": "Doom 3 OST - Monorail",
+			"url": "https://www.youtube.com/watch?v=FZgS7bc-52Q",
+			"duration": 22
+		},
+		{
+			"name": "Circuit - Mario Kart 7 | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=3J_DyiY9uIU",
+			"duration": 229,
+			"id": "3J_DyiY9uIU"
+		},
+		{
+			"name": "Reminiscing ~ A Golden Message - Professor Layton vs. Phoenix Wright: Ace Attorney",
+			"url": "https://www.youtube.com/watch?v=y7vVPch49oI",
+			"duration": 125,
+			"id": "y7vVPch49oI"
+		},
+		{
+			"name": "DOOM 2016 Soundtrack - Hellshock",
+			"url": "https://www.youtube.com/watch?v=tWZjar0yPVo",
+			"duration": 231
+		},
+		{
+			"name": "Dharkon | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=KOSl4BAcsH8",
+			"duration": 305,
+			"id": "KOSl4BAcsH8"
+		},
+		{
+			"name": "DANGANRONPA OST: -2-08- Class Trial Turbulent Edition",
+			"url": "https://www.youtube.com/watch?v=i3uAg7Ut4mE",
+			"duration": 233
+		},
+		{
+			"name": "Sonic Adventure DX OST - General Offensive",
+			"url": "https://www.youtube.com/watch?v=6OLfzZT_bSA",
+			"duration": 162,
+			"id": "6OLfzZT_bSA"
+		},
+		{
+			"name": "Fruit Basket | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=oRsf3sC5sfw",
+			"duration": 151,
+			"id": "oRsf3sC5sfw"
+		},
+		{
+			"name": "Team Fortress 2 Soundtrack | Rocket Jump Waltz",
+			"url": "https://www.youtube.com/watch?v=kbdtBLD8Lbg",
+			"duration": 39.821,
+			"id": "kbdtBLD8Lbg"
+		},
+		{
+			"name": "Team Chaotix - Sonic Heroes [OST]",
+			"url": "https://www.youtube.com/watch?v=YhZbRQhxxj0",
+			"duration": 218.121,
+			"id": "YhZbRQhxxj0"
+		},
+		{
+			"name": "Vs. Shadow the Hedgehog - Sonic Generations [OST]",
+			"url": "https://www.youtube.com/watch?v=9lEvPwllyos",
+			"duration": 240,
+			"id": "9lEvPwllyos"
+		},
+		{
+			"name": "Megalovania but every other beat is swapped with the Homestuck version",
+			"url": "https://www.youtube.com/watch?v=6ceIVRr-4Q4",
+			"duration": 78,
+			"id": "6ceIVRr-4Q4"
+		},
+		{
+			"name": "Dual Destinies OST: 1-25 Florent L'Belle ~ Je suis L'Belle",
+			"url": "https://www.youtube.com/watch?v=El52iOqCAks",
+			"duration": 162,
+			"id": "El52iOqCAks"
+		},
+		{
+			"name": "Brinstar (Melee) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=fMn1rBfqfuk",
+			"duration": 188,
+			"id": "fMn1rBfqfuk"
+		},
+		{
+			"name": "Humoresque of a Little Dog | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=-K5Wvi6uMFI",
+			"duration": 196,
+			"id": "-K5Wvi6uMFI"
+		},
+		{
+			"name": "Sweet Mountain (Act 3) - Sonic Colors [OST]",
+			"url": "https://www.youtube.com/watch?v=Bfc26SSfEf0",
+			"duration": 344,
+			"id": "Bfc26SSfEf0"
+		},
+		{
+			"name": "Mario Strikers Charged-Peach Theme",
+			"url": "https://www.youtube.com/watch?v=lRovF2mZ2q8",
+			"duration": 190,
+			"id": "lRovF2mZ2q8"
+		},
+		{
+			"name": "DANGANRONPA OST: -1-18- Despair Pollution Noise Music",
+			"url": "https://www.youtube.com/watch?v=9hn3gBV-nYc",
+			"duration": 11
+		},
+		{
+			"name": "Bubblaine - Super Mario Odyssey [OST]",
+			"url": "https://www.youtube.com/watch?v=Xb3pJuBzOcY",
+			"duration": 223,
+			"id": "Xb3pJuBzOcY"
+		},
+		{
+			"name": "The Legend Of Aesir | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=YzPu38Jb5h8",
+			"duration": 437,
+			"id": "YzPu38Jb5h8"
+		},
+		{
+			"name": "Theme of Prison Island (from Shadow the Hedgehog)",
+			"url": "https://www.youtube.com/watch?v=Ao5FxHMaKYw",
+			"duration": 156,
+			"id": "Ao5FxHMaKYw"
+		},
+		{
+			"name": "DR:AE OST Disc 3 - 24  Hidden Kids Discovered",
+			"url": "https://www.youtube.com/watch?v=AEsIF7uUByg",
+			"duration": 8
+		},
+		{
+			"name": "THE WORLD REVOLVING but every beat is playing at once",
+			"url": "https://www.youtube.com/watch?v=pgBnaEVELTE",
+			"duration": 25,
+			"id": "pgBnaEVELTE"
+		},
+		{
+			"name": "THE WORLD REVOLVING But its Cancer",
+			"url": "https://www.youtube.com/watch?v=QPftOwVRxVs",
+			"duration": 146,
+			"id": "QPftOwVRxVs"
+		},
+		{
+			"name": "Ground Theme - Super Mario Bros. 3 [Remix] | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=qCRti6BBobI",
+			"duration": 300,
+			"id": "qCRti6BBobI"
+		},
+		{
+			"name": "Assault Theme - METAL SLUG 1-3 | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=X-44pHhmRyY",
+			"duration": 265,
+			"id": "X-44pHhmRyY"
+		},
+		{
+			"name": "Disquieting Shadow - Sonic Heroes [OST]",
+			"url": "https://www.youtube.com/watch?v=N78-exnlTQ8",
+			"duration": 32,
+			"id": "N78-exnlTQ8"
+		},
+		{
+			"name": "DANGANRONPA OST: -2-13- Extra Lessons for the Mysterious",
+			"url": "https://www.youtube.com/watch?v=N2CunNPvUPg",
+			"duration": 84
+		},
+		{
+			"name": "Doom 3 OST - Alpha 1 Mag",
+			"url": "https://www.youtube.com/watch?v=OlR7sjB0dNk",
+			"duration": 23
+		},
+		{
+			"name": "DR:AE OST Disc 2 - 17 DSO All All Apologies",
+			"url": "https://www.youtube.com/watch?v=4vpefVioi4Q",
+			"duration": 184
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. White - 11. Nightmare in Locker",
+			"url": "https://www.youtube.com/watch?v=DSN7cGb_nKE",
+			"duration": 231
+		},
+		{
+			"name": "Pokemon Sun & Moon - Solgaleo & Lunala Battle Music (HQ)",
+			"url": "https://www.youtube.com/watch?v=37riOeCnnpQ",
+			"duration": 300.801,
+			"id": "37riOeCnnpQ"
+		},
+		{
+			"name": "Megalovania but every \"doo doo DOO doo\" makes the song layer on itself",
+			"url": "https://www.youtube.com/watch?v=G1-EH6nA51M",
+			"duration": 312,
+			"id": "G1-EH6nA51M"
+		},
+		{
+			"name": "Professor Layton and the Last Specter - Theme of the Last Battle (Live Version)",
+			"url": "https://www.youtube.com/watch?v=IJ_xkONg5ek",
+			"duration": 213,
+			"id": "IJ_xkONg5ek"
+		},
+		{
+			"name": "Sonic 2 Credits Theme",
+			"url": "https://www.youtube.com/watch?v=04lGyr0AECA",
+			"duration": 160,
+			"id": "04lGyr0AECA"
+		},
+		{
+			"name": "DELTARUNE - \"THE WORLD REVOLVING (Jevil Theme)\"\\u3010Symphonic Metal Guitar Cover\\u3011 by Ferdk",
+			"url": "https://www.youtube.com/watch?v=0OLV-DNlzCE",
+			"duration": 174,
+			"id": "0OLV-DNlzCE"
+		},
+		{
+			"name": "Pokemon Omega Ruby/Alpha Sapphire - Battle! Ho-oh Music (HQ)",
+			"url": "https://www.youtube.com/watch?v=nD9NHjiEsYE",
+			"duration": 180.121,
+			"id": "nD9NHjiEsYE"
+		},
+		{
+			"name": "Perfect Dark OST 11   Training Theme",
+			"url": "https://www.youtube.com/watch?v=HvjHUq6OQVo",
+			"duration": 280,
+			"id": "HvjHUq6OQVo"
+		},
+		{
+			"name": "Into the Forest - Professor Layton vs. Phoenix Wright: Ace Attorney",
+			"url": "https://www.youtube.com/watch?v=NwB0mcahSSA",
+			"duration": 118,
+			"id": "NwB0mcahSSA"
+		},
+		{
+			"name": "Paper Mario Medley (Rogueport) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=4fcgG-XO_g0",
+			"duration": 110,
+			"id": "4fcgG-XO_g0"
+		},
+		{
+			"name": "27 | Joint Reasoning - Backstage [TYPE A] (Dai Gyakuten Saiban Soundtrack)",
+			"url": "https://www.youtube.com/watch?v=ltpOGEmd6eM",
+			"duration": 107,
+			"id": "ltpOGEmd6eM"
+		},
+		{
+			"name": "Rooftop Run (Modern) - Sonic Generations [OST]",
+			"url": "https://www.youtube.com/watch?v=xnTyqig1R7I",
+			"duration": 284,
+			"id": "xnTyqig1R7I"
+		},
+		{
+			"name": "The World Revolving (8-Bit Remix) - Deltarune",
+			"url": "https://www.youtube.com/watch?v=SSHTdc3iWEY",
+			"duration": 208.098,
+			"id": "SSHTdc3iWEY"
+		},
+		{
+			"name": "Jet Grind Radio Soundtrack - Recipe for the Perfect Afro",
+			"url": "https://www.youtube.com/watch?v=yLZ_emA486U",
+			"duration": 353,
+			"id": "yLZ_emA486U"
+		},
+		{
+			"name": "Squeak Squad Theme | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=vICoI2N2jl8",
+			"duration": 210,
+			"id": "vICoI2N2jl8"
+		},
+		{
+			"name": "C418 - Ballad of the Cats (Minecraft Volume Beta)",
+			"url": "https://www.youtube.com/watch?v=8VY2RUyY0t4",
+			"duration": 275,
+			"id": "8VY2RUyY0t4"
+		},
+		{
+			"name": "Wii Sports - Music - Boxing Results",
+			"url": "https://www.youtube.com/watch?v=sqxqZD4kGl4",
+			"duration": 40.381,
+			"id": "sqxqZD4kGl4"
+		},
+		{
+			"name": "Doom (32X) Music - At Doom's Gate",
+			"url": "https://www.youtube.com/watch?v=RYqS5OEN4_U",
+			"duration": 193
+		},
+		{
+			"name": "Sonic Adventure 2 Battle E.G.G.M.A.N (Dr. Eggman's Theme)",
+			"url": "https://www.youtube.com/watch?v=3JUSwqJwcQk",
+			"duration": 330,
+			"id": "3JUSwqJwcQk"
+		},
+		{
+			"name": "Pokemon- Mystery Dungeon Explorers of Sky- Planets Paralysis- Music",
+			"url": "https://www.youtube.com/watch?v=ZcA3dvx7hmw",
+			"duration": 228,
+			"id": "ZcA3dvx7hmw"
+		},
+		{
+			"name": "Sonic Adventure 2 Battle: Believe in Myself  (Tail's Theme)",
+			"url": "https://www.youtube.com/watch?v=A6XfRGxKd0Q",
+			"duration": 373,
+			"id": "A6XfRGxKd0Q"
+		},
+		{
+			"name": "PW:AA OST: 11 - Investigation ~ Cornered (Variation)",
+			"url": "https://www.youtube.com/watch?v=jPJE4l6j-hg",
+			"duration": 91,
+			"id": "jPJE4l6j-hg"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. White - 47. Climax Re-enactment V3",
+			"url": "https://www.youtube.com/watch?v=GYtsAyA_mUk",
+			"duration": 266
+		},
+		{
+			"name": "DR:AE OST Disc 1 - 23 Business Trip Version Punishment ~Swimming Explosion Episod",
+			"url": "https://www.youtube.com/watch?v=6I7B6-FlmN4",
+			"duration": 41
+		},
+		{
+			"name": "Overworld & Underworld - The Legend of Zelda (for 3DS / Wii U) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=_YEOBeNNK2o",
+			"duration": 263,
+			"id": "_YEOBeNNK2o"
+		},
+		{
+			"name": "Phoenix Wright Trials and Tribulations ~ Cornered 2004 DS",
+			"url": "https://www.youtube.com/watch?v=ef3asDFaz98",
+			"duration": 120,
+			"id": "ef3asDFaz98"
+		},
+		{
+			"name": "Doom II OST - Map 18,27 - Waiting For Romero To Play",
+			"url": "https://www.youtube.com/watch?v=TnzRBZd5_uA",
+			"duration": 303
+		},
+		{
+			"name": "Doom (32X) Music - Dark Halls",
+			"url": "https://www.youtube.com/watch?v=eRVz8RZn8o0",
+			"duration": 550
+		},
+		{
+			"name": "SDR2 OST: -2-19- Punishment feat. The Last High King",
+			"url": "https://www.youtube.com/watch?v=1DF78sHLxUU",
+			"duration": 86
+		},
+		{
+			"name": "Run, Jump, Throw! 2 - Super Mario Odyssey [OST]",
+			"url": "https://www.youtube.com/watch?v=reW1pbNmTAQ",
+			"duration": 114,
+			"id": "reW1pbNmTAQ"
+		},
+		{
+			"name": "Pokemon UltraSun & UltraMoon - Wild Pokemon Battle Music (HQ)",
+			"url": "https://www.youtube.com/watch?v=E-YtaCwWyCk",
+			"duration": 301,
+			"id": "E-YtaCwWyCk"
+		},
+		{
+			"name": "The Hidden Village | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=Rwkli0nWHgA",
+			"duration": 134,
+			"id": "Rwkli0nWHgA"
+		},
+		{
+			"name": "[Official] Celeste Original Soundtrack - 10 - Anxiety",
+			"url": "https://www.youtube.com/watch?v=FMuQ11tVJnk",
+			"duration": 113,
+			"id": "FMuQ11tVJnk"
+		},
+		{
+			"name": "N Battle - Pok\\u00e9mon Black2/White2",
+			"url": "https://www.youtube.com/watch?v=oMCiYEZlR8s",
+			"duration": 165,
+			"id": "oMCiYEZlR8s"
+		},
+		{
+			"name": "DOOM 2016 Soundtrack - Lazarus Combat",
+			"url": "https://www.youtube.com/watch?v=PL1jLgrHITI",
+			"duration": 250
+		},
+		{
+			"name": "Minecraft Volume Alpha - 3 - Subwoofer Lullaby",
+			"url": "https://www.youtube.com/watch?v=o3_InDEtpLA",
+			"duration": 209,
+			"id": "o3_InDEtpLA"
+		},
+		{
+			"name": "Sonic 2 Option Screen Theme",
+			"url": "https://www.youtube.com/watch?v=4TKHIGYy2XM",
+			"duration": 92,
+			"id": "4TKHIGYy2XM"
+		},
+		{
+			"name": "Doom 3 OST - Guilt",
+			"url": "https://www.youtube.com/watch?v=8rZJ2Or0Sz0",
+			"duration": 27
+		},
+		{
+			"name": "SDR2 OST: -2-06- Class Trial (Odd Edition)",
+			"url": "https://www.youtube.com/watch?v=jU4hSFA-dTM",
+			"duration": 281
+		},
+		{
+			"name": "DR:AE OST Disc 2 - 24 Chapter End",
+			"url": "https://www.youtube.com/watch?v=sH1WG2Mjd94",
+			"duration": 13
+		},
+		{
+			"name": "Staff Roll - Super Mario 64",
+			"url": "https://www.youtube.com/watch?v=4Ruqn1Lnexs",
+			"duration": 206.001,
+			"id": "4Ruqn1Lnexs"
+		},
+		{
+			"name": "Dhalsim Stage Type A | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=R8h1ItMuB5U",
+			"duration": 190,
+			"id": "R8h1ItMuB5U"
+		},
+		{
+			"name": "Midna's Lament | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=y7o8aUXnr_Y",
+			"duration": 324,
+			"id": "y7o8aUXnr_Y"
+		},
+		{
+			"name": "Persona Q2 OST: Pull the Trigger (Minako/Hamuko Battle Theme)",
+			"url": "https://www.youtube.com/watch?v=NLyznZmzPgA",
+			"duration": 213,
+			"id": "NLyznZmzPgA"
+		},
+		{
+			"name": "DANGANRONPA OST: -2-32- Activation - Electronic Student Notebook",
+			"url": "https://www.youtube.com/watch?v=WyT_OTAxX4g",
+			"duration": 7
+		},
+		{
+			"name": "Mount Volbono - Super Mario Odyssey [OST]",
+			"url": "https://www.youtube.com/watch?v=T6LZlPjlztU",
+			"duration": 199,
+			"id": "T6LZlPjlztU"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. White - 31. Finding Peace Party",
+			"url": "https://www.youtube.com/watch?v=50yShkEarT4",
+			"duration": 236
+		},
+		{
+			"name": "Team Fortress 2 Soundtrack | Rocket Jump Waltz",
+			"url": "https://www.youtube.com/watch?v=kbdtBLD8Lbg",
+			"duration": 39.821,
+			"id": "kbdtBLD8Lbg"
+		},
+		{
+			"name": "Battlefield - Super Smash Bros. Melee (for 3DS / Wii U) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=Pn6KjKSAIEU",
+			"duration": 259,
+			"id": "Pn6KjKSAIEU"
+		},
+		{
+			"name": "Pokemon HeartGold/SoulSilver - Battle! Kanto Trainer Music (HQ)",
+			"url": "https://www.youtube.com/watch?v=436SxbLz-OA",
+			"duration": 180,
+			"id": "436SxbLz-OA"
+		},
+		{
+			"name": "Pokemon Sun & Moon: Kahuna Battle Music (Highest Quality)",
+			"url": "https://www.youtube.com/watch?v=YqOuriaLTC8",
+			"duration": 180,
+			"id": "YqOuriaLTC8"
+		},
+		{
+			"name": "Duke Nukem 3D: Stalker \\u2012 Roland SC-88 w/ SC-55 map",
+			"url": "https://www.youtube.com/watch?v=bLphA-MZvXg",
+			"duration": 313.021,
+			"id": "bLphA-MZvXg"
+		},
+		{
+			"name": "DANGANRONPA OST: -1-10- DISTRUST",
+			"url": "https://www.youtube.com/watch?v=7Sbcm-Hb8Sk",
+			"duration": 197
+		},
+		{
+			"name": "Mario Strikers Charged-The Sand Tomb",
+			"url": "https://www.youtube.com/watch?v=KQAxw6GYJIg",
+			"duration": 190,
+			"id": "KQAxw6GYJIg"
+		},
+		{
+			"name": "Mario Strikers Charged-Dry Bones Theme",
+			"url": "https://www.youtube.com/watch?v=m5TZhKjvwuM",
+			"duration": 53,
+			"id": "m5TZhKjvwuM"
+		},
+		{
+			"name": "New Donk City Festival (8-Bit) - Super Mario Odyssey [OST]",
+			"url": "https://www.youtube.com/watch?v=fnURMu9dOvk",
+			"duration": 229,
+			"id": "fnURMu9dOvk"
+		},
+		{
+			"name": "Jet Grind Radio Soundtrack - Electric Toothbrush",
+			"url": "https://www.youtube.com/watch?v=jeKq7vseMSE",
+			"duration": 254,
+			"id": "jeKq7vseMSE"
+		},
+		{
+			"name": "Sonic Adventure DX OST - Unknown From ME",
+			"url": "https://www.youtube.com/watch?v=mMzJUx1Eo0E",
+			"duration": 266,
+			"id": "mMzJUx1Eo0E"
+		},
+		{
+			"name": "Tostarena: Ruins - Super Mario Odyssey [OST]",
+			"url": "https://www.youtube.com/watch?v=2wWLYg-kgy0",
+			"duration": 213,
+			"id": "2wWLYg-kgy0"
+		},
+		{
+			"name": "Mario Bros. | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=y4sjTSWTPEs",
+			"duration": 233,
+			"id": "y4sjTSWTPEs"
+		},
+		{
+			"name": "Megalovania but there is no 4th beat",
+			"url": "https://www.youtube.com/watch?v=Jiw1pg6es9I",
+			"duration": 117,
+			"id": "Jiw1pg6es9I"
+		},
+		{
+			"name": "DANGANRONPA OST: -2-20- Prologue - Credits",
+			"url": "https://www.youtube.com/watch?v=pQbP2RJCw3k",
+			"duration": 19
+		},
+		{
+			"name": "Sonic Adventure DX OST - Open Your Heart",
+			"url": "https://www.youtube.com/watch?v=hmfOMR9HH24",
+			"duration": 269,
+			"id": "hmfOMR9HH24"
+		},
+		{
+			"name": "Castlevania Aria of Sorrow OST - Heart of Fire",
+			"url": "https://www.youtube.com/watch?v=wxFWgilSyAE",
+			"duration": 306.388,
+			"id": "wxFWgilSyAE"
+		},
+		{
+			"name": "[1-19] Living Waterway - Cave Story Remastered Soundtrack",
+			"url": "https://www.youtube.com/watch?v=-5WyKoUVWQc",
+			"duration": 153,
+			"id": "-5WyKoUVWQc"
+		},
+		{
+			"name": "Pok\\u00e9mon Ranger - Tension",
+			"url": "https://www.youtube.com/watch?v=nF3mcSZwyOY",
+			"duration": 78,
+			"id": "nF3mcSZwyOY"
+		},
+		{
+			"name": "[1-15] Gestation - Cave Story Remastered Soundtrack",
+			"url": "https://www.youtube.com/watch?v=2CFvy4lMCcA",
+			"duration": 149,
+			"id": "2CFvy4lMCcA"
+		},
+		{
+			"name": "Special Stage - Sonic Mania [OST]",
+			"url": "https://www.youtube.com/watch?v=fIt6DITRDco",
+			"duration": 154,
+			"id": "fIt6DITRDco"
+		},
+		{
+			"name": "Mario Strikers Charged-Petey Pirahna Theme",
+			"url": "https://www.youtube.com/watch?v=KWYF0M-ZVsY",
+			"duration": 146,
+			"id": "KWYF0M-ZVsY"
+		},
+		{
+			"name": "The Starship Sails | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=tGKRNQDuTUc",
+			"duration": 144,
+			"id": "tGKRNQDuTUc"
+		},
+		{
+			"name": "All Hail Shadow by Magna-Fi (Hero Theme of Shadow)",
+			"url": "https://www.youtube.com/watch?v=-mYugbpYaco",
+			"duration": 204,
+			"id": "-mYugbpYaco"
+		},
+		{
+			"name": "DOOM (PSX) - Music - Opening",
+			"url": "https://www.youtube.com/watch?v=atdyHvLhJXo",
+			"duration": 191
+		},
+		{
+			"name": "Journey to Silius (NES) Music - Stage Theme 01",
+			"url": "https://www.youtube.com/watch?v=2BDAJS_8RSA",
+			"duration": 180.141,
+			"id": "2BDAJS_8RSA"
+		},
+		{
+			"name": "Brinstar Depths (Melee) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=-CwP2D-HifY",
+			"duration": 278,
+			"id": "-CwP2D-HifY"
+		},
+		{
+			"name": "DANGANRONPA OST: -1-14- Motorcycle Death Cage",
+			"url": "https://www.youtube.com/watch?v=9BT_kObm8Og",
+			"duration": 73
+		},
+		{
+			"name": "SDR2 OST: -2-25- Alter Ego of the New World",
+			"url": "https://www.youtube.com/watch?v=mxc-QIS5gbs",
+			"duration": 102
+		},
+		{
+			"name": "Pokemon Sun & Moon - Champion Battle Music (HQ)",
+			"url": "https://www.youtube.com/watch?v=-dkK9r57BNk",
+			"duration": 301,
+			"id": "-dkK9r57BNk"
+		},
+		{
+			"name": "Jojo Opening 7 Great Days Full Theme",
+			"url": "https://www.youtube.com/watch?v=E3SLE19QLEs",
+			"duration": 240,
+			"id": "E3SLE19QLEs"
+		},
+		{
+			"name": "Paper Mario Wii U Music - Boss Theme 1 (Fanmade)",
+			"url": "https://www.youtube.com/watch?v=FiX60fZONpE",
+			"duration": 108,
+			"id": "FiX60fZONpE"
+		},
+		{
+			"name": "Pokemon Sword & Shield - Hop Final Battle Music (HQ)",
+			"url": "https://www.youtube.com/watch?v=euzRjM4bfcQ",
+			"duration": 300,
+			"id": "euzRjM4bfcQ"
+		},
+		{
+			"name": "Super Metroid - Title Screen Theme",
+			"url": "https://www.youtube.com/watch?v=HPT8GBdRCWE",
+			"duration": 183,
+			"id": "HPT8GBdRCWE"
+		},
+		{
+			"name": "F-Zero GX [OST] - U-Rays (Tutorial)",
+			"url": "https://www.youtube.com/watch?v=xeLAodeL-oY",
+			"duration": 63,
+			"id": "xeLAodeL-oY"
+		},
+		{
+			"name": "SDR2 OST: -2-10- Punishment feat. Rocket Pants",
+			"url": "https://www.youtube.com/watch?v=icO0W0SnXCU",
+			"duration": 57
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. Black - 24. OUTLAW RUNNER",
+			"url": "https://www.youtube.com/watch?v=aGFb-qUj9TA",
+			"duration": 157
+		},
+		{
+			"name": "Act Clear - Sonic Mania [OST]",
+			"url": "https://www.youtube.com/watch?v=235PCFppvts",
+			"duration": 6.85,
+			"id": "235PCFppvts"
+		},
+		{
+			"name": "Sector 1 | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=eXMq6IxUN5c",
+			"duration": 230,
+			"id": "eXMq6IxUN5c"
+		},
+		{
+			"name": "'Dark Cave' (Halloween Remix) from Pok\\u00e9mon Gold & Silver / Emdasche",
+			"url": "https://www.youtube.com/watch?v=8Vm8VFBLa5U",
+			"duration": 171,
+			"id": "8Vm8VFBLa5U"
+		},
+		{
+			"name": "DANGANRONPA OST: -2-21- Chapter 1",
+			"url": "https://www.youtube.com/watch?v=76QB0iW9Yr4",
+			"duration": 16
+		},
+		{
+			"name": "Studiopolis Zone Act 2 - Sonic Mania [OST]",
+			"url": "https://www.youtube.com/watch?v=0_gOgp1Rg2w",
+			"duration": 174.001,
+			"id": "0_gOgp1Rg2w"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. White - 41. Mr. Monokuma's Extracurricular Lesson V3",
+			"url": "https://www.youtube.com/watch?v=-yRTbVrDp8g",
+			"duration": 172
+		},
+		{
+			"name": "[1-20] Game Over - Cave Story Remastered Soundtrack",
+			"url": "https://www.youtube.com/watch?v=Vds4vUPH5tE",
+			"duration": 17,
+			"id": "Vds4vUPH5tE"
+		},
+		{
+			"name": "Black Night | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=s_qJ6EH9vzQ",
+			"duration": 164,
+			"id": "s_qJ6EH9vzQ"
+		},
+		{
+			"name": "Megalovania but it's simultaneously played on the first 31 instruments of a Yamaha PSR-77 keyboard",
+			"url": "https://www.youtube.com/watch?v=46QuaGcKi2Q",
+			"duration": 9,
+			"id": "46QuaGcKi2Q"
+		},
+		{
+			"name": "Projection Room: Above Ground - Super Mario Odyssey [OST]",
+			"url": "https://www.youtube.com/watch?v=Zy9CopLnoUk",
+			"duration": 180,
+			"id": "Zy9CopLnoUk"
+		},
+		{
+			"name": "Color Power: Pink Spikes - Sonic Colors [OST]",
+			"url": "https://www.youtube.com/watch?v=KJXSPvImf_Q",
+			"duration": 27,
+			"id": "KJXSPvImf_Q"
+		},
+		{
+			"name": "DooM II OST - Endgame Music",
+			"url": "https://www.youtube.com/watch?v=Jf3UlZCBhOE",
+			"duration": 285
+		},
+		{
+			"name": "just a regular crab rave, nothing to see here folks",
+			"url": "https://www.youtube.com/watch?v=Y5tjtUFL0j4",
+			"duration": 166.001,
+			"id": "Y5tjtUFL0j4"
+		},
+		{
+			"name": "Sonic Adventure DX OST - Crazy Robo Boss E-101R",
+			"url": "https://www.youtube.com/watch?v=MREyJFcEbpA",
+			"duration": 149,
+			"id": "MREyJFcEbpA"
+		},
+		{
+			"name": "Sonic Adventure DX OST - Sky Deck A Go Go",
+			"url": "https://www.youtube.com/watch?v=PQTo4K1LCjs",
+			"duration": 97,
+			"id": "PQTo4K1LCjs"
+		},
+		{
+			"name": "DR:AE OST Disc 1 - 01 DSO DANGANRONPA",
+			"url": "https://www.youtube.com/watch?v=cH9AE1MO56A",
+			"duration": 98
+		},
+		{
+			"name": "DANGANRONPA OST: -2-31- Mono-Mono Machine!",
+			"url": "https://www.youtube.com/watch?v=XhqfzmahMMk",
+			"duration": 7
+		},
+		{
+			"name": "[Official] Celeste B-Sides - 01 - Maxo - Forsaken City (Sever the Skyline Mix)",
+			"url": "https://www.youtube.com/watch?v=6LbXujfutWk",
+			"duration": 150.701,
+			"id": "6LbXujfutWk"
+		},
+		{
+			"name": "59 | The Final Tragedy (Dai Gyakuten Saiban Soundtrack)",
+			"url": "https://www.youtube.com/watch?v=bfZzujuzLGg",
+			"duration": 53,
+			"id": "bfZzujuzLGg"
+		},
+		{
+			"name": "Chill (Brawl) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=ucyQrQuyyA8",
+			"duration": 242,
+			"id": "ucyQrQuyyA8"
+		},
+		{
+			"name": "Doom 3 OST - Mars City Underground",
+			"url": "https://www.youtube.com/watch?v=VwcuO1cNS8c",
+			"duration": 12
+		},
+		{
+			"name": "Dhalsim Stage Type B (Finale) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=WKaYdD7m2GA",
+			"duration": 116.181,
+			"id": "WKaYdD7m2GA"
+		},
+		{
+			"name": "Ace Attorney Investigations: Miles Edgeworth - Turnabout Airlines",
+			"url": "https://www.youtube.com/watch?v=omtcS_Ibziw",
+			"duration": 118,
+			"id": "omtcS_Ibziw"
+		},
+		{
+			"name": "MEGALOVANIA but beats 2,3 and 4 are their own version",
+			"url": "https://www.youtube.com/watch?v=PXp39x_nYK0",
+			"duration": 117,
+			"id": "PXp39x_nYK0"
+		},
+		{
+			"name": "15 - Unused Song 2 - Waterworld - OST - SNES",
+			"url": "https://www.youtube.com/watch?v=jCIlgTi8FjA",
+			"duration": 142,
+			"id": "jCIlgTi8FjA"
+		},
+		{
+			"name": "Theme of Death Ruins (from Shadow the Hedgehog)",
+			"url": "https://www.youtube.com/watch?v=_wgsdD9tpp0",
+			"duration": 143,
+			"id": "_wgsdD9tpp0"
+		},
+		{
+			"name": "DR:AE OST Disc 2 - 11 Punishment of the Priest",
+			"url": "https://www.youtube.com/watch?v=fSwn4Ef4FyE",
+			"duration": 67
+		},
+		{
+			"name": "Doom OST - E1M3 - Dark Halls",
+			"url": "https://www.youtube.com/watch?v=gKHOiTE_2sM",
+			"duration": 275
+		},
+		{
+			"name": "Color Power: Orange Rocket - Sonic Colors [OST]",
+			"url": "https://www.youtube.com/watch?v=2_yNuWZSTXE",
+			"duration": 6,
+			"id": "2_yNuWZSTXE"
+		},
+		{
+			"name": "C418 - Dreiton (Minecraft Volume Beta)",
+			"url": "https://www.youtube.com/watch?v=rbIGUF9QmXg",
+			"duration": 496,
+			"id": "rbIGUF9QmXg"
+		},
+		{
+			"name": "Tournament 2 | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=3la74spQvkQ",
+			"duration": 69,
+			"id": "3la74spQvkQ"
+		},
+		{
+			"name": "Acid Hues | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=W-kKphKcRD0",
+			"duration": 195,
+			"id": "W-kKphKcRD0"
+		},
+		{
+			"name": "Cave Story OST - T09: Mischievious Robot (Egg Corridor)",
+			"url": "https://www.youtube.com/watch?v=cy9ejJiSH2Y",
+			"duration": 129,
+			"id": "cy9ejJiSH2Y"
+		},
+		{
+			"name": "SDR2 OST: -3-21- Discussion -HEAT UP- [8bit]",
+			"url": "https://www.youtube.com/watch?v=Hltx4jQ4444",
+			"duration": 92
+		},
+		{
+			"name": "Excitebike - Mario Kart 8 | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=1rkHmK3PDuU",
+			"duration": 113,
+			"id": "1rkHmK3PDuU"
+		},
+		{
+			"name": "JJBA Part 3 Op - Stand Proud (Simpsonill & Mark de Groot Remix) ver.2",
+			"url": "https://www.youtube.com/watch?v=zzy1O_7WOcc",
+			"duration": 140,
+			"id": "zzy1O_7WOcc"
+		},
+		{
+			"name": "Mario Strikers Charged-Monty Mole Theme",
+			"url": "https://www.youtube.com/watch?v=RLqQIF5zDBE",
+			"duration": 116,
+			"id": "RLqQIF5zDBE"
+		},
+		{
+			"name": "All Heroes Gather - Sonic Heroes [OST]",
+			"url": "https://www.youtube.com/watch?v=McmwpVgPc_4",
+			"duration": 67,
+			"id": "McmwpVgPc_4"
+		},
+		{
+			"name": "Jet Grind Radio Soundtrack - Yellow Bream",
+			"url": "https://www.youtube.com/watch?v=U_3HOF-f1z8",
+			"duration": 194,
+			"id": "U_3HOF-f1z8"
+		},
+		{
+			"name": "[2-17] Toroko's Theme - Cave Story Remastered Soundtrack",
+			"url": "https://www.youtube.com/watch?v=RvL5AqosGUQ",
+			"duration": 94,
+			"id": "RvL5AqosGUQ"
+		},
+		{
+			"name": "Rockin' K.K. | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=Q11FAu13BXg",
+			"duration": 221,
+			"id": "Q11FAu13BXg"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. Black - 22. New World Order V3",
+			"url": "https://www.youtube.com/watch?v=uthH6uAoRMA",
+			"duration": 257
+		},
+		{
+			"name": "Forgotten Isle 1 - Super Mario Odyssey [OST]",
+			"url": "https://www.youtube.com/watch?v=SL9K8dnI_nM",
+			"duration": 88,
+			"id": "SL9K8dnI_nM"
+		},
+		{
+			"name": "Pok\\u00e9mon Ranger - Wild Boss Pok\\u00e9mon Battle",
+			"url": "https://www.youtube.com/watch?v=Xif3IXWX__o",
+			"duration": 82,
+			"id": "Xif3IXWX__o"
+		},
+		{
+			"name": "Battle! (Champion) - Pok\\u00e9mon X / Pok\\u00e9mon Y | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=fMiPauUMlBA",
+			"duration": 179,
+			"id": "fMiPauUMlBA"
+		},
+		{
+			"name": "DANGANRONPA OST: -1-25- Extra Lessons for the Unlucky",
+			"url": "https://www.youtube.com/watch?v=Z_Xp4fMSaiQ",
+			"duration": 105
+		},
+		{
+			"name": "Endless challenge (Mute City) - F-Zero X OST",
+			"url": "https://www.youtube.com/watch?v=HaZsN4SUttc",
+			"duration": 165,
+			"id": "HaZsN4SUttc"
+		},
+		{
+			"name": "SDR2 OST: -1-14- Re_ Mr. Monokuma's Lesson",
+			"url": "https://www.youtube.com/watch?v=INLmO8sZO1o",
+			"duration": 226
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. White - 26. Hope of Spring",
+			"url": "https://www.youtube.com/watch?v=ycERIVE_SAY",
+			"duration": 117
+		},
+		{
+			"name": "Weyard | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=DU-GKm7R6Sg",
+			"duration": 197,
+			"id": "DU-GKm7R6Sg"
+		},
+		{
+			"name": "F-Zero GX [OST] - Jack Levin's Theme",
+			"url": "https://www.youtube.com/watch?v=WC_0yEk0J3U",
+			"duration": 113,
+			"id": "WC_0yEk0J3U"
+		},
+		{
+			"name": "The World Revolving |Jevil's Theme|REMIX by TCZ",
+			"url": "https://www.youtube.com/watch?v=aVlvHkmr3S8",
+			"duration": 197,
+			"id": "aVlvHkmr3S8"
+		},
+		{
+			"name": "Pokemon Sun & Moon: Lusamine Battle Music (Highest Quality)",
+			"url": "https://www.youtube.com/watch?v=54mikUGAgZo",
+			"duration": 180,
+			"id": "54mikUGAgZo"
+		},
+		{
+			"name": "megalovania but you're already long gone",
+			"url": "https://www.youtube.com/watch?v=qIspSZBBsjI",
+			"duration": 159,
+			"id": "qIspSZBBsjI"
+		},
+		{
+			"name": "SDR2 OST: -2-14- Re_ Buzzkill",
+			"url": "https://www.youtube.com/watch?v=3asSbiegc4A",
+			"duration": 266
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. White - 16. Living in Lazy Parallel World (Full)",
+			"url": "https://www.youtube.com/watch?v=8ZP8Sw2DiP0",
+			"duration": 238
+		},
+		{
+			"name": "Make My Megalovania But Better",
+			"url": "https://www.youtube.com/watch?v=fgUUMEjCxvw",
+			"duration": 29,
+			"id": "fgUUMEjCxvw"
+		},
+		{
+			"name": "Rainbow Road - Mario Kart 8 | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=BIXVZ301I1I",
+			"duration": 148,
+			"id": "BIXVZ301I1I"
+		},
+		{
+			"name": "A Battle of Friends and Bonds 2 | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=n5nhRPqDACw",
+			"duration": 191,
+			"id": "n5nhRPqDACw"
+		},
+		{
+			"name": "Cave Story 3D OST - Last Battle",
+			"url": "https://www.youtube.com/watch?v=uxiaYyRkxMQ",
+			"duration": 131,
+			"id": "uxiaYyRkxMQ"
+		},
+		{
+			"name": "SDR2 OST: -3-25- Chapter 01 - Title (Part A)",
+			"url": "https://www.youtube.com/watch?v=weP0veWND5c",
+			"duration": 16
+		},
+		{
+			"name": "Doom 3 OST - Doom 3 Theme",
+			"url": "https://www.youtube.com/watch?v=mVf64UvHlF0",
+			"duration": 171
+		},
+		{
+			"name": "Star Fox - Corneria [Eurobeat Remix]",
+			"url": "https://www.youtube.com/watch?v=-jbp2BZ3S9M",
+			"duration": 266,
+			"id": "-jbp2BZ3S9M"
+		},
+		{
+			"name": "Sonic 3 Music: Carnival Night Zone Act 1",
+			"url": "https://www.youtube.com/watch?v=gHwHiymSojk",
+			"duration": 153,
+			"id": "gHwHiymSojk"
+		},
+		{
+			"name": "Cave Story 3D OST - Oppression",
+			"url": "https://www.youtube.com/watch?v=dk6x8PXuQz8",
+			"duration": 95,
+			"id": "dk6x8PXuQz8"
+		},
+		{
+			"name": "Team Fortress 2 Soundtrack | Rocket Jump Waltz",
+			"url": "https://www.youtube.com/watch?v=kbdtBLD8Lbg",
+			"duration": 39.821,
+			"id": "kbdtBLD8Lbg"
+		},
+		{
+			"name": "Pokemon- Mystery Dungeon Explorers of Sky- Palkias Onslaught- Music",
+			"url": "https://www.youtube.com/watch?v=28sfZd7AE-8",
+			"duration": 125,
+			"id": "28sfZd7AE-8"
+		},
+		{
+			"name": "Crocodile Cacophony | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=lh4TMCbU-gs",
+			"duration": 257,
+			"id": "lh4TMCbU-gs"
+		},
+		{
+			"name": "Garage | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=iDyRDbzLznY",
+			"duration": 127,
+			"id": "iDyRDbzLznY"
+		},
+		{
+			"name": "Oingo BOiNGO Cat Brothers",
+			"url": "https://www.youtube.com/watch?v=zwMhmr-TF_I",
+			"duration": 112,
+			"id": "zwMhmr-TF_I"
+		},
+		{
+			"name": "[Official] Celeste Original Soundtrack - 19 - Exhale",
+			"url": "https://www.youtube.com/watch?v=q7QMTo-P6H0",
+			"duration": 141,
+			"id": "q7QMTo-P6H0"
+		},
+		{
+			"name": "Delfino Plaza [Remix] | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=jUab0HyhrCo",
+			"duration": 294.361,
+			"id": "jUab0HyhrCo"
+		},
+		{
+			"name": "Jaguar Doom Music - 02 - Kitchen Ace (and Taking Names)",
+			"url": "https://www.youtube.com/watch?v=c0KsVLLuCKQ",
+			"duration": 90
+		},
+		{
+			"name": "Undertow | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=uKPvSHbjtLU",
+			"duration": 156,
+			"id": "uKPvSHbjtLU"
+		},
+		{
+			"name": "[1-06] Cemetery - Cave Story Remastered Soundtrack",
+			"url": "https://www.youtube.com/watch?v=EMi_OBPFek0",
+			"duration": 97,
+			"id": "EMi_OBPFek0"
+		},
+		{
+			"name": "Sonic The Hedgehog OST - Marble Zone",
+			"url": "https://www.youtube.com/watch?v=z1aXXX_oqP8",
+			"duration": 120,
+			"id": "z1aXXX_oqP8"
+		},
+		{
+			"name": "Pokemon- Mystery Dungeon Explorers of Sky- Battle Against Dusknoir- Music",
+			"url": "https://www.youtube.com/watch?v=ignJhq8yl7I",
+			"duration": 211,
+			"id": "ignJhq8yl7I"
+		},
+		{
+			"name": "Eye Of The Spider (Eye Of The Tiger Minecraft Parody)",
+			"url": "https://www.youtube.com/watch?v=VT6w7f3N8Hw",
+			"duration": 236,
+			"id": "VT6w7f3N8Hw"
+		},
+		{
+			"name": "Pokemon Black/White - Battle! N Final Music (HQ)",
+			"url": "https://www.youtube.com/watch?v=O0ajBL15Knk",
+			"duration": 179,
+			"id": "O0ajBL15Knk"
+		},
+		{
+			"name": "Hydrocity Zone Act 1 - Sonic Mania [OST]",
+			"url": "https://www.youtube.com/watch?v=e48OijK2LiI",
+			"duration": 186.641,
+			"id": "e48OijK2LiI"
+		},
+		{
+			"name": "Cave Story 3D OST - Tyrant",
+			"url": "https://www.youtube.com/watch?v=7FKWyNIKWHk",
+			"duration": 74,
+			"id": "7FKWyNIKWHk"
+		},
+		{
+			"name": "Doom (PSX) Music - Track17",
+			"url": "https://www.youtube.com/watch?v=gh19B5zkv3g",
+			"duration": 321
+		},
+		{
+			"name": "F-Zero GX [OST] - Dr. Clash's Theme",
+			"url": "https://www.youtube.com/watch?v=8oHkliv1eK8",
+			"duration": 82,
+			"id": "8oHkliv1eK8"
+		},
+		{
+			"name": "The Nega-Wisp Armor - Sonic Colors [OST]",
+			"url": "https://www.youtube.com/watch?v=yOPoQWxR_bY",
+			"duration": 85,
+			"id": "yOPoQWxR_bY"
+		},
+		{
+			"name": "Super Mario Bros. 2 Prototype/Beta Underground theme",
+			"url": "https://www.youtube.com/watch?v=IPvDUWAN9Gs",
+			"duration": 135.901,
+			"id": "IPvDUWAN9Gs"
+		},
+		{
+			"name": "The World Revolving (Deltarune) ~Cherie\\u2019s Remix~",
+			"url": "https://www.youtube.com/watch?v=5d9UtavIdT0",
+			"duration": 103,
+			"id": "5d9UtavIdT0"
+		},
+		{
+			"name": "Pok\\u00e9mon Omega Ruby/Alpha Sapphire - Vs Team Aqua/Magma (Highest Quality)",
+			"url": "https://www.youtube.com/watch?v=mJf4WpuWGVY",
+			"duration": 179,
+			"id": "mJf4WpuWGVY"
+		},
+		{
+			"name": "Sonic Adventure DX OST - Mystic Ruin",
+			"url": "https://www.youtube.com/watch?v=GOmvMKUYZwc",
+			"duration": 142,
+			"id": "GOmvMKUYZwc"
+		},
+		{
+			"name": "SDR2 OST: -1-25- Re_ Desire for Execution...",
+			"url": "https://www.youtube.com/watch?v=kDn1C7aUVc8",
+			"duration": 222
+		},
+		{
+			"name": "SDR2 OST: 1-20- P.T.A.",
+			"url": "https://www.youtube.com/watch?v=hSdokoS408s",
+			"duration": 135
+		},
+		{
+			"name": "Best VGM 71 - Donkey Kong Country 2 - Stickerbush Symphony (Bramble Blast)",
+			"url": "https://www.youtube.com/watch?v=J67nkzoJ_2M",
+			"duration": 270,
+			"id": "J67nkzoJ_2M"
+		},
+		{
+			"name": "Wood Field - Mega Man's Soccer",
+			"url": "https://www.youtube.com/watch?v=xLvKLr8_HlM",
+			"duration": 131,
+			"id": "xLvKLr8_HlM"
+		},
+		{
+			"name": "Doom 3 Music- Haunted Admin Office",
+			"url": "https://www.youtube.com/watch?v=hSfZ6CnZSr0",
+			"duration": 139
+		},
+		{
+			"name": "White Land [Original] | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=A_igcc3qsKo",
+			"duration": 126,
+			"id": "A_igcc3qsKo"
+		},
+		{
+			"name": "Famitracker Cover: Deltarune - THE WORLD REVOLVING",
+			"url": "https://www.youtube.com/watch?v=RfrqvR73uec",
+			"duration": 202,
+			"id": "RfrqvR73uec"
+		},
+		{
+			"name": "Champion Battle (Last Battle VS Rival) - Pok\\u00e9mon FireRed/LeafGreen",
+			"url": "https://www.youtube.com/watch?v=aoOjZFQzGgo",
+			"duration": 161,
+			"id": "aoOjZFQzGgo"
+		},
+		{
+			"name": "Sonic 3 And Knuckles OST - Lava Reef Act 1",
+			"url": "https://www.youtube.com/watch?v=hBzqsTTiALs",
+			"duration": 86,
+			"id": "hBzqsTTiALs"
+		},
+		{
+			"name": "\\u266b Undertale - Megalovania - Minecraft Note block song !",
+			"url": "https://www.youtube.com/watch?v=dS5pqSWzJZE",
+			"duration": 155,
+			"id": "dS5pqSWzJZE"
+		},
+		{
+			"name": "Pokemon- Mystery Dungeon Explorers of Sky- Saw Something Again- Music",
+			"url": "https://www.youtube.com/watch?v=A3S95wIPQeU",
+			"duration": 128,
+			"id": "A3S95wIPQeU"
+		},
+		{
+			"name": "SDR2 OST: -1-06- Beautiful Days [Piano Arrangement]",
+			"url": "https://www.youtube.com/watch?v=mESVTvnIVnw",
+			"duration": 232
+		},
+		{
+			"name": "Save Screen - Sonic Colors [OST]",
+			"url": "https://www.youtube.com/watch?v=b2T4OMSma4Q",
+			"duration": 108,
+			"id": "b2T4OMSma4Q"
+		},
+		{
+			"name": "Mother 3 Love Theme | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=42KxAqRoJrM",
+			"duration": 215,
+			"id": "42KxAqRoJrM"
+		},
+		{
+			"name": "SDR2 OST: -3-31- Chapter 03 - Title (Part A)",
+			"url": "https://www.youtube.com/watch?v=3r-GlUSXX_E",
+			"duration": 13
+		},
+		{
+			"name": "New Donk City | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=Wc8tl4p0ccM",
+			"duration": 188,
+			"id": "Wc8tl4p0ccM"
+		},
+		{
+			"name": "Honeylune Ridge: Caves - Super Mario Odyssey [OST]",
+			"url": "https://www.youtube.com/watch?v=wLxvJZL-ZyQ",
+			"duration": 161,
+			"id": "wLxvJZL-ZyQ"
+		},
+		{
+			"name": "Fate/stay night: [Unlimited Blade Works] OST II - #23 Music for Promotion Video",
+			"url": "https://www.youtube.com/watch?v=WEdZgah7RGs",
+			"duration": 146.741,
+			"id": "WEdZgah7RGs"
+		},
+		{
+			"name": "Top Gear Track 1",
+			"url": "https://www.youtube.com/watch?v=iAMvfv6X8xs",
+			"duration": 416.541,
+			"id": "iAMvfv6X8xs"
+		},
+		{
+			"name": "Pokemon- Mystery Dungeon Explorers of Sky- Beach At Dusk- Music",
+			"url": "https://www.youtube.com/watch?v=e6Ri_uA_R2k",
+			"duration": 155,
+			"id": "e6Ri_uA_R2k"
+		},
+		{
+			"name": "Megalovania but Oof",
+			"url": "https://www.youtube.com/watch?v=5EAlQKIfUKg",
+			"duration": 111.131,
+			"id": "5EAlQKIfUKg"
+		},
+		{
+			"name": "THE WORLD REVOLVING but it\\u2019s just beat 3",
+			"url": "https://www.youtube.com/watch?v=oWaWsHfeBmI",
+			"duration": 25,
+			"id": "oWaWsHfeBmI"
+		},
+		{
+			"name": "Dai Gyakuten Saiban 2 OST | 43 The Great Exhibition | Beta Version",
+			"url": "https://www.youtube.com/watch?v=kbyfdNQZg7k",
+			"duration": 79,
+			"id": "kbyfdNQZg7k"
+		},
+		{
+			"name": "IKARI - KOF XIV | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=BcrWhXUnLGo",
+			"duration": 165,
+			"id": "BcrWhXUnLGo"
+		},
+		{
+			"name": "DR:AE OST Disc 2 - 01 Let's Play With Monokuma",
+			"url": "https://www.youtube.com/watch?v=vtRG4iXIAG4",
+			"duration": 189
+		},
+		{
+			"name": "[8-BIT DELTARUNE COVER] THE WORLD REVOLVING (Jevil's Theme)",
+			"url": "https://www.youtube.com/watch?v=7NvnQqqYlDg",
+			"duration": 253,
+			"id": "7NvnQqqYlDg"
+		},
+		{
+			"name": "Mt. Pyre ~Inner Wall~ - Pok\\u00e9mon Ruby/Sapphire/Emerald",
+			"url": "https://www.youtube.com/watch?v=lPdPgFP4L9I",
+			"duration": 122,
+			"id": "lPdPgFP4L9I"
+		},
+		{
+			"name": "DOOM 2016 Soundtrack - Choir",
+			"url": "https://www.youtube.com/watch?v=VoIO80N5pcg",
+			"duration": 64
+		},
+		{
+			"name": "18 | Recollection - Hating the Sins, Not the People (Dai Gyakuten Saiban Soundtrack)",
+			"url": "https://www.youtube.com/watch?v=1liTiscT6DE",
+			"duration": 185,
+			"id": "1liTiscT6DE"
+		},
+		{
+			"name": "Megalovania but I've completely ruined it",
+			"url": "https://www.youtube.com/watch?v=2ZREHK6IPcQ",
+			"duration": 63,
+			"id": "2ZREHK6IPcQ"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. White - 25. Chapter End Credits",
+			"url": "https://www.youtube.com/watch?v=E6tSqpNZAII",
+			"duration": 21
+		},
+		{
+			"name": "07 | Witnesses Enter the Court (Dai Gyakuten Saiban Soundtrack)",
+			"url": "https://www.youtube.com/watch?v=6MVOup8f8ZY",
+			"duration": 136,
+			"id": "6MVOup8f8ZY"
+		},
+		{
+			"name": "[HD] JoJo's Bizarre Adventure - END OF THE WORLD (lyrics)",
+			"url": "https://www.youtube.com/watch?v=odH6449XmKA",
+			"duration": 100,
+			"id": "odH6449XmKA"
+		},
+		{
+			"name": "Crisis City (Modern) - Sonic Generations [OST]",
+			"url": "https://www.youtube.com/watch?v=MyWezywxxqU",
+			"duration": 345,
+			"id": "MyWezywxxqU"
+		},
+		{
+			"name": "LAST BATTLE -N^n mix- [Arrangement of N Decisive Battle] - Pok\\u00e9mon Black/White",
+			"url": "https://www.youtube.com/watch?v=i71x_WEDZ4M",
+			"duration": 199,
+			"id": "i71x_WEDZ4M"
+		},
+		{
+			"name": "SDR2 OST: -1-24- Class Trial (Turbulent Edition) - Volume Two",
+			"url": "https://www.youtube.com/watch?v=nQHd7EKRlyo",
+			"duration": 234
+		},
+		{
+			"name": "Doom II OST - Map 10,16 - The Demon's Dead",
+			"url": "https://www.youtube.com/watch?v=ffl2ShaWyGM",
+			"duration": 260
+		},
+		{
+			"name": "Nintendo Land Medley | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=44YyHmP643Y",
+			"duration": 248,
+			"id": "44YyHmP643Y"
+		},
+		{
+			"name": "Phoenix Wright Trials and Tribulations ~ Objection 2004 DS",
+			"url": "https://www.youtube.com/watch?v=5f6LgbNUuPI",
+			"duration": 119,
+			"id": "5f6LgbNUuPI"
+		},
+		{
+			"name": "Puzzle Deductions - Professor Layton vs. Phoenix Wright: Ace Attorney",
+			"url": "https://www.youtube.com/watch?v=h3Ysg4Tlu-4",
+			"duration": 140,
+			"id": "h3Ysg4Tlu-4"
+		},
+		{
+			"name": "F-Zero GX [OST] - Beastman's Theme",
+			"url": "https://www.youtube.com/watch?v=w4xSxSPI-ms",
+			"duration": 110,
+			"id": "w4xSxSPI-ms"
+		},
+		{
+			"name": "Mario Strikers Charged-Bowser Theme",
+			"url": "https://www.youtube.com/watch?v=dQ-tBL3JXQc",
+			"duration": 126,
+			"id": "dQ-tBL3JXQc"
+		},
+		{
+			"name": "Doom 3 OST - CPU",
+			"url": "https://www.youtube.com/watch?v=ay6sLhCh_EI",
+			"duration": 16
+		},
+		{
+			"name": "Network Menu - Sonic Generations [OST]",
+			"url": "https://www.youtube.com/watch?v=c9qDMtLxoBc",
+			"duration": 39,
+			"id": "c9qDMtLxoBc"
+		},
+		{
+			"name": "SDR2 OST: -3-11- The Day Before the Future",
+			"url": "https://www.youtube.com/watch?v=4ScJ__5-cso",
+			"duration": 191
+		},
+		{
+			"name": "Pokemon Omega Ruby/Alpha Sapphire - Brendan/May Theme (Emotion) Music (HQ)",
+			"url": "https://www.youtube.com/watch?v=BruW7Fh_zSg",
+			"duration": 109,
+			"id": "BruW7Fh_zSg"
+		},
+		{
+			"name": "Thunder Cloud Temple | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=3GGKLU9Epfk",
+			"duration": 275,
+			"id": "3GGKLU9Epfk"
+		},
+		{
+			"name": "SDR2 OST: -2-09- Objection -CROSS SWORD-",
+			"url": "https://www.youtube.com/watch?v=mymjF4AZJrg",
+			"duration": 172
+		},
+		{
+			"name": "Pokemon UltraSun & UltraMoon - Champion T. Hau Battle Music (HQ)",
+			"url": "https://www.youtube.com/watch?v=IUaRU3xf_bs",
+			"duration": 300.901,
+			"id": "IUaRU3xf_bs"
+		},
+		{
+			"name": "DOOM 2016 Soundtrack - Theme 28",
+			"url": "https://www.youtube.com/watch?v=k1bJ_qDNSss",
+			"duration": 59
+		},
+		{
+			"name": "Megalovania but beat 4 is replaced with beat 2",
+			"url": "https://www.youtube.com/watch?v=OH68SCkOIoQ",
+			"duration": 156,
+			"id": "OH68SCkOIoQ"
+		},
+		{
+			"name": "Id (Purpose) [Remix] | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=oNUrRFWXZ4E",
+			"duration": 386,
+			"id": "oNUrRFWXZ4E"
+		},
+		{
+			"name": "DR:AE OST Disc 1 - 03 DSO Beautiful Dead",
+			"url": "https://www.youtube.com/watch?v=IkCvFYGHY7c",
+			"duration": 415
+		},
+		{
+			"name": "Pokemon HeartGold/SoulSilver - Battle! Super Ancient Pok\\u00e9mon Music (HQ)",
+			"url": "https://www.youtube.com/watch?v=0X4luQmKfaE",
+			"duration": 179.421,
+			"id": "0X4luQmKfaE"
+		},
+		{
+			"name": "Frozen Hillside | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=uKdQVC9d6Ig",
+			"duration": 174,
+			"id": "uKdQVC9d6Ig"
+		},
+		{
+			"name": "Phoenix Wright 2 - 29) Hotline of Fate",
+			"url": "https://www.youtube.com/watch?v=oU-Tx1lXeJk",
+			"duration": 51,
+			"id": "oU-Tx1lXeJk"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. Black - 40. Trial Prepare",
+			"url": "https://www.youtube.com/watch?v=cB_2NDP5ts0",
+			"duration": 79
+		},
+		{
+			"name": "DOOM 2016 Soundtrack - Theme 5",
+			"url": "https://www.youtube.com/watch?v=xiqTcAuxHx8",
+			"duration": 309
+		},
+		{
+			"name": "Free the Spirit! | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=5V599YOVwhk",
+			"duration": 57,
+			"id": "5V599YOVwhk"
+		},
+		{
+			"name": "The Battle at the Summit! | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=3uOOrMCtpOg",
+			"duration": 313,
+			"id": "3uOOrMCtpOg"
+		},
+		{
+			"name": "Simon Belmont Theme (The Arcade) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=73JRAYjr6iE",
+			"duration": 242,
+			"id": "73JRAYjr6iE"
+		},
+		{
+			"name": "Doom II OST - Map 30 - Opening To Hell",
+			"url": "https://www.youtube.com/watch?v=Pbh3ZYuTBDY",
+			"duration": 274
+		},
+		{
+			"name": "SDR2 OST: -3-07- Desperate Mastermind Girl",
+			"url": "https://www.youtube.com/watch?v=DjneMwyjpgQ",
+			"duration": 40
+		},
+		{
+			"name": "The Tragic Prince | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=3qqof7pvPy0",
+			"duration": 420,
+			"id": "3qqof7pvPy0"
+		},
+		{
+			"name": "Phoenix Wright 2 - 02) Ringtone (Richard Wellington)",
+			"url": "https://www.youtube.com/watch?v=E2lTCAbB5yU",
+			"duration": 18,
+			"id": "E2lTCAbB5yU"
+		},
+		{
+			"name": "Chemical Plant Zone Theme",
+			"url": "https://www.youtube.com/watch?v=JMKlJ1ycFvc",
+			"duration": 123,
+			"id": "JMKlJ1ycFvc"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. White - 39. Body Discovery C",
+			"url": "https://www.youtube.com/watch?v=iaJDOvbvkqw",
+			"duration": 15
+		},
+		{
+			"name": "KDD-0063 - KOF XIII | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=jJHFDi2bp2A",
+			"duration": 204,
+			"id": "jJHFDi2bp2A"
+		},
+		{
+			"name": "Steam Gardens: Sherm - Super Mario Odyssey [OST]",
+			"url": "https://www.youtube.com/watch?v=Y9AyNwDlTJk",
+			"duration": 206,
+			"id": "Y9AyNwDlTJk"
+		},
+		{
+			"name": "Pokemon Sword & Shield - Illusions Zacian & Zamazenta Battle Music (HQ)",
+			"url": "https://www.youtube.com/watch?v=FJgRlbjzsrs",
+			"duration": 300,
+			"id": "FJgRlbjzsrs"
+		},
+		{
+			"name": "SDR2 OST: -2-17- DIVE DRIVE",
+			"url": "https://www.youtube.com/watch?v=HP7r1TVINsg",
+			"duration": 190
+		},
+		{
+			"name": "The World Revolving | Deltarune Remix",
+			"url": "https://www.youtube.com/watch?v=mZMG6dY86Cc",
+			"duration": 182,
+			"id": "mZMG6dY86Cc"
+		},
+		{
+			"name": "Doom (PSX) Music - Track11",
+			"url": "https://www.youtube.com/watch?v=fBEF4XU3TRk",
+			"duration": 317
+		},
+		{
+			"name": "Doom 3 OST - Vagary Intro",
+			"url": "https://www.youtube.com/watch?v=yAZPo3qP9iY",
+			"duration": 25
+		},
+		{
+			"name": "Professor Layton & The Diabolical Box - Folsense (Live Version)",
+			"url": "https://www.youtube.com/watch?v=M6T0y9gN-kQ",
+			"duration": 324.081,
+			"id": "M6T0y9gN-kQ"
+		},
+		{
+			"name": "Apollo Justice: Ace Attorney: Soundtrack - Turnabout Succession",
+			"url": "https://www.youtube.com/watch?v=kwHEfPzkwpQ",
+			"duration": 64,
+			"id": "kwHEfPzkwpQ"
+		},
+		{
+			"name": "Shadow Man Stage | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=R0KRxhgfH38",
+			"duration": 204,
+			"id": "R0KRxhgfH38"
+		},
+		{
+			"name": "Doom 3DO Soundtrack - Map 10 - Donna To The Rescue",
+			"url": "https://www.youtube.com/watch?v=kqZNeVokcmI",
+			"duration": 115
+		},
+		{
+			"name": "Cave Story 3D OST - Scorching Back",
+			"url": "https://www.youtube.com/watch?v=A6LaDIEHoWY",
+			"duration": 128,
+			"id": "A6LaDIEHoWY"
+		},
+		{
+			"name": "MEME Theory: How Behind The Meme is Ruining the Memescape as we Know It",
+			"url": "https://www.youtube.com/watch?v=qFGqhEVr7lk",
+			"duration": 1946
+		},
+		{
+			"name": "SDR2 OST: -2-21- HYPER ULTRA P.T.A.",
+			"url": "https://www.youtube.com/watch?v=AyFrgi3emaM",
+			"duration": 92
+		},
+		{
+			"name": "Theme of G.U.N. Fortress (from Shadow the Hedgehog)",
+			"url": "https://www.youtube.com/watch?v=-zfsXxxZcJg",
+			"duration": 142,
+			"id": "-zfsXxxZcJg"
+		},
+		{
+			"name": "Michael Jackson - Heal The World (Official Video)",
+			"url": "https://www.youtube.com/watch?v=BWf-eARnf6U",
+			"duration": 382,
+			"id": "BWf-eARnf6U"
+		},
+		{
+			"name": "Persona 5 Royal OST 08 - No More What Ifs",
+			"url": "https://www.youtube.com/watch?v=BeCTExpd_gY",
+			"duration": 241,
+			"id": "BeCTExpd_gY"
+		},
+		{
+			"name": "Wild Pok\\u00e9mon Battle (STEREO) - Pok\\u00e9mon Red/Green/Blue/Yellow",
+			"url": "https://www.youtube.com/watch?v=SF5JNoiXUqs",
+			"duration": 92,
+			"id": "SF5JNoiXUqs"
+		},
+		{
+			"name": "Rickroll but it's Megalovania",
+			"url": "https://www.youtube.com/watch?v=d4EviPTzllY",
+			"duration": 52,
+			"id": "d4EviPTzllY"
+		},
+		{
+			"name": "Team Fortress 2 Soundtrack | Rocket Jump Waltz",
+			"url": "https://www.youtube.com/watch?v=kbdtBLD8Lbg",
+			"duration": 39.821,
+			"id": "kbdtBLD8Lbg"
+		},
+		{
+			"name": "Megalovania but it\\u2019s in 8/4 and beat 2 and 8 are swapped and beat 4 and 6 are swapped.",
+			"url": "https://www.youtube.com/watch?v=0GVEb-jjj1U",
+			"duration": 320.021,
+			"id": "0GVEb-jjj1U"
+		},
+		{
+			"name": "2:00 a.m. - Animal Crossing: Wild World | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=CPiWv7svXTU",
+			"duration": 257,
+			"id": "CPiWv7svXTU"
+		},
+		{
+			"name": "THE WORLD REVOLVING but it\\u2019s just beat 1",
+			"url": "https://www.youtube.com/watch?v=x3dWTG8rd3g",
+			"duration": 25,
+			"id": "x3dWTG8rd3g"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. Black - 30. Class Trial Revival Edition (no intro)",
+			"url": "https://www.youtube.com/watch?v=MLei9cqvofA",
+			"duration": 175
+		},
+		{
+			"name": "Wii Shop Channel - Megalovania Edition",
+			"url": "https://www.youtube.com/watch?v=AO6ePzKVeuE",
+			"duration": 111.081,
+			"id": "AO6ePzKVeuE"
+		},
+		{
+			"name": "DR:AE OST Disc 2 - 07 DSO Ocean Breeze Dead End",
+			"url": "https://www.youtube.com/watch?v=NVo9idmUGzc",
+			"duration": 229
+		},
+		{
+			"name": "Cave Story OST - T32: Break Down (Normal Ending)",
+			"url": "https://www.youtube.com/watch?v=GtvxHET8MiA",
+			"duration": 72,
+			"id": "GtvxHET8MiA"
+		},
+		{
+			"name": "F-Zero GX [OST] - DIZZY (Phantom Road)",
+			"url": "https://www.youtube.com/watch?v=ObJePb8A53E",
+			"duration": 167,
+			"id": "ObJePb8A53E"
+		},
+		{
+			"name": "Main Theme - Pok\\u00e9mon Red & Pok\\u00e9mon Blue (Melee) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=3fojIxAWMEQ",
+			"duration": 196,
+			"id": "3fojIxAWMEQ"
+		},
+		{
+			"name": "Lava Reef Zone (Act 1) - Sonic & Knuckles [OST]",
+			"url": "https://www.youtube.com/watch?v=nyNzyyxmAwM",
+			"duration": 86,
+			"id": "nyNzyyxmAwM"
+		},
+		{
+			"name": "[2-07] Balcony - Cave Story Remastered Soundtrack",
+			"url": "https://www.youtube.com/watch?v=0pt8CTKpZBg",
+			"duration": 150,
+			"id": "0pt8CTKpZBg"
+		},
+		{
+			"name": "DOOM (PSX) - Music - Track10",
+			"url": "https://www.youtube.com/watch?v=P0bi27_-AQ8",
+			"duration": 303
+		},
+		{
+			"name": "Bein' Friends | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=1Xx36FrhO4c",
+			"duration": 235,
+			"id": "1Xx36FrhO4c"
+		},
+		{
+			"name": "Chemical Plant Zone but it's Megalovania",
+			"url": "https://www.youtube.com/watch?v=-X1Oto1v8Wc",
+			"duration": 63,
+			"id": "-X1Oto1v8Wc"
+		},
+		{
+			"name": "Legendary Battle Theme -Pokemon Lets Go Pikachu / Eevee",
+			"url": "https://www.youtube.com/watch?v=XzZKmRzl--8",
+			"duration": 209,
+			"id": "XzZKmRzl--8"
+		},
+		{
+			"name": "Title Theme - Animal Crossing: Happy Home Designer | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=x6cnVOv0dhw",
+			"duration": 292,
+			"id": "x6cnVOv0dhw"
+		},
+		{
+			"name": "Mystic Mansion - Sonic Heroes [OST]",
+			"url": "https://www.youtube.com/watch?v=FCbZddJt_V0",
+			"duration": 163,
+			"id": "FCbZddJt_V0"
+		},
+		{
+			"name": "Lost in Thoughts All Alone [Original] | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=yCKWQvCj2v4",
+			"duration": 329,
+			"id": "yCKWQvCj2v4"
+		},
+		{
+			"name": "M. Bison Stage Type A (Finale) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=lPyqY3aptL8",
+			"duration": 133,
+			"id": "lPyqY3aptL8"
+		},
+		{
+			"name": "Minecraft Volume Alpha - 14 - Clark",
+			"url": "https://www.youtube.com/watch?v=RawVEMRBW8M",
+			"duration": 192,
+			"id": "RawVEMRBW8M"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. Black - 23. SAKE NO TUKAMIDORI",
+			"url": "https://www.youtube.com/watch?v=AwAW6gH-rJ4",
+			"duration": 166
+		},
+		{
+			"name": "Sans from undertale but it's played on an old Samsung phone (megalovania)",
+			"url": "https://www.youtube.com/watch?v=3X-baa1ixck",
+			"duration": 25.261,
+			"id": "3X-baa1ixck"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. Black - 12. V3 Discussion -SCRUM-",
+			"url": "https://www.youtube.com/watch?v=AQZONitFs9g",
+			"duration": 297
+		},
+		{
+			"name": "Act 1 Boss - Sonic & Knuckles [OST]",
+			"url": "https://www.youtube.com/watch?v=cISHdljjCuA",
+			"duration": 66,
+			"id": "cISHdljjCuA"
+		},
+		{
+			"name": "F-Zero GX [OST] - Gomar & Shioh's Theme",
+			"url": "https://www.youtube.com/watch?v=51CKnJdQM90",
+			"duration": 103,
+			"id": "51CKnJdQM90"
+		},
+		{
+			"name": "Pok\\u00e9mon Super Mystery Dungeon OST - First Dark Matter Battle",
+			"url": "https://www.youtube.com/watch?v=RO9sheDSReI",
+			"duration": 114,
+			"id": "RO9sheDSReI"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. White - 28. Kagonoko",
+			"url": "https://www.youtube.com/watch?v=8tmcO9aLYSY",
+			"duration": 75
+		},
+		{
+			"name": "06 | Court Begins (Dai Gyakuten Saiban Soundtrack)",
+			"url": "https://www.youtube.com/watch?v=VXnUBflGR_o",
+			"duration": 198,
+			"id": "VXnUBflGR_o"
+		},
+		{
+			"name": "Illegal of Destiny - Ace Attorney 6: Spirit Of Justice OST",
+			"url": "https://www.youtube.com/watch?v=r3ToIhfrsbs",
+			"duration": 128,
+			"id": "r3ToIhfrsbs"
+		},
+		{
+			"name": "SDR2 OST: 2-16- HYPER P.T.A.",
+			"url": "https://www.youtube.com/watch?v=PnbAZMQ-jq0",
+			"duration": 110
+		},
+		{
+			"name": "Doom SNES Soundtrack - E2M2 - The Demons From Adrian's Pen",
+			"url": "https://www.youtube.com/watch?v=gKRQorDt4t4",
+			"duration": 149
+		},
+		{
+			"name": "Lilycove City - Pok\\u00e9mon Ruby/Sapphire/Emerald",
+			"url": "https://www.youtube.com/watch?v=X8eempNLeeE",
+			"duration": 139,
+			"id": "X8eempNLeeE"
+		},
+		{
+			"name": "Competition - Sonic Mania [OST]",
+			"url": "https://www.youtube.com/watch?v=9Q2hPs4ssGk",
+			"duration": 96.721,
+			"id": "9Q2hPs4ssGk"
+		},
+		{
+			"name": "Team Fortress 2 Soundtrack | Rocket Jump Waltz",
+			"url": "https://www.youtube.com/watch?v=kbdtBLD8Lbg",
+			"duration": 39.821,
+			"id": "kbdtBLD8Lbg"
+		},
+		{
+			"name": "JoJo's Bizarre Adventure: Diamond is Unbreakable OST - Breakdown (Leitmotif only)",
+			"url": "https://www.youtube.com/watch?v=lWe1nmWeMug",
+			"duration": 109,
+			"id": "lWe1nmWeMug"
+		},
+		{
+			"name": "Team Flare Battle - Pok\\u00e9mon X/Y",
+			"url": "https://www.youtube.com/watch?v=6BBb3-2GnT8",
+			"duration": 169,
+			"id": "6BBb3-2GnT8"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. White - 29. DANGANRONPA V3 Loop Version",
+			"url": "https://www.youtube.com/watch?v=_q2fq6nG45k",
+			"duration": 240
+		},
+		{
+			"name": "Ken Stage Type A | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=Rb4xxHEsC4c",
+			"duration": 136,
+			"id": "Rb4xxHEsC4c"
+		},
+		{
+			"name": "PW:AA OST: 19 - Congratulations Everybody",
+			"url": "https://www.youtube.com/watch?v=ecnPvAZzCQ0",
+			"duration": 69,
+			"id": "ecnPvAZzCQ0"
+		},
+		{
+			"name": "Main Theme - Pok\\u00e9mon Red & Pok\\u00e9mon Blue (Brawl) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=trcY8vbGjDs",
+			"duration": 209,
+			"id": "trcY8vbGjDs"
+		},
+		{
+			"name": "Time's Running Out! | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=6lE1dyRbJb8",
+			"duration": 104,
+			"id": "6lE1dyRbJb8"
+		},
+		{
+			"name": "Pokemon Black/White: Vs. Kyurem Battle Theme",
+			"url": "https://www.youtube.com/watch?v=lvE_WMA5tsM",
+			"duration": 272,
+			"id": "lvE_WMA5tsM"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. Black - 10. Class Trial Revival Edition",
+			"url": "https://www.youtube.com/watch?v=Yh3fU0eXNYw",
+			"duration": 248
+		},
+		{
+			"name": "Mario Strikers Charged-Opening Scene",
+			"url": "https://www.youtube.com/watch?v=sYloBY-Px2k",
+			"duration": 103,
+			"id": "sYloBY-Px2k"
+		},
+		{
+			"name": "Proof of a Hero ~ 4Version | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=8-wrg2v1dSU",
+			"duration": 204,
+			"id": "8-wrg2v1dSU"
+		},
+		{
+			"name": "Pokemon UltraSun & UltraMoon - Wild Pokemon Battle Music (HQ)",
+			"url": "https://www.youtube.com/watch?v=E-YtaCwWyCk",
+			"duration": 301,
+			"id": "E-YtaCwWyCk"
+		},
+		{
+			"name": "Final Destination Ver. 2 | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=b5LrAkGZfsg",
+			"duration": 259,
+			"id": "b5LrAkGZfsg"
+		},
+		{
+			"name": "SDR2 OST: -1-11- Re_ Despair Syndrome",
+			"url": "https://www.youtube.com/watch?v=fPz2GHVYFEo",
+			"duration": 120
+		},
+		{
+			"name": "C418 - Flake (Minecraft Volume Beta)",
+			"url": "https://www.youtube.com/watch?v=yuySSmW5cfo",
+			"duration": 169,
+			"id": "yuySSmW5cfo"
+		},
+		{
+			"name": "Battlefield - Super Smash Bros  Brawl. | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=NutdR8gCxko",
+			"duration": 184.461,
+			"id": "NutdR8gCxko"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. Black - 45. Cave Ordeal",
+			"url": "https://www.youtube.com/watch?v=1tRDnI0UzyE",
+			"duration": 194
+		},
+		{
+			"name": "Brain Age: Train Your Brain in Minutes a Day! | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=iIjLvrOORF8",
+			"duration": 254,
+			"id": "iIjLvrOORF8"
+		},
+		{
+			"name": "DANGANRONPA OST: -1-07- Mr. Monokuma's Tutoring",
+			"url": "https://www.youtube.com/watch?v=zpkl30bTHhw",
+			"duration": 170
+		},
+		{
+			"name": "JoJo's Bizarre Adventure: Diamond is Unbreakable OST - Diamond is Unbreakable ~ Stand Activated ~",
+			"url": "https://www.youtube.com/watch?v=WIkhGvXB0ek",
+			"duration": 191,
+			"id": "WIkhGvXB0ek"
+		},
+		{
+			"name": "Court Revolution ~ Gather, Beneath the Flag - Ace Attorney 6: Spirit Of Justice OST",
+			"url": "https://www.youtube.com/watch?v=A8WQQII1HZU",
+			"duration": 208.281,
+			"id": "A8WQQII1HZU"
+		},
+		{
+			"name": "Pok\\u00e9mon Omega Ruby/Alpha Sapphire - Vs Aqua/Magma Leader (Highest Quality)",
+			"url": "https://www.youtube.com/watch?v=gvl4i6INovE",
+			"duration": 179,
+			"id": "gvl4i6INovE"
+		},
+		{
+			"name": "Bullet Station - Sonic Heroes [OST]",
+			"url": "https://www.youtube.com/watch?v=8N4JRpBbogY",
+			"duration": 136,
+			"id": "8N4JRpBbogY"
+		},
+		{
+			"name": "Apollo Justice: Ace Attorney: Soundtrack - Investigation ~ Core 2007",
+			"url": "https://www.youtube.com/watch?v=093VR-LJ6H8",
+			"duration": 69,
+			"id": "093VR-LJ6H8"
+		},
+		{
+			"name": "Cammy Stage Type A | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=TsQbMwDyp0U",
+			"duration": 146,
+			"id": "TsQbMwDyp0U"
+		},
+		{
+			"name": "A Quiet Prayer (Title Screen) - Ace Attorney 6: Spirit Of Justice OST",
+			"url": "https://www.youtube.com/watch?v=z5HrCEblV8U",
+			"duration": 72,
+			"id": "z5HrCEblV8U"
+		},
+		{
+			"name": "Doom SNES Soundtrack - E3M6 - Waltz Of The Demons",
+			"url": "https://www.youtube.com/watch?v=eMyUMPmeo7g",
+			"duration": 103
+		},
+		{
+			"name": "Fossil Falls (8-Bit) - Super Mario Odyssey [OST]",
+			"url": "https://www.youtube.com/watch?v=bl_UmDu9F-w",
+			"duration": 229,
+			"id": "bl_UmDu9F-w"
+		},
+		{
+			"name": "megaroachania",
+			"url": "https://www.youtube.com/watch?v=eDRtRR6M9PA",
+			"duration": 22,
+			"id": "eDRtRR6M9PA"
+		},
+		{
+			"name": "Doom 3 OST - Guardian Death",
+			"url": "https://www.youtube.com/watch?v=fE8X_SvorlI",
+			"duration": 5.713
+		},
+		{
+			"name": "Sand Ocean [Remix] | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=IqvHz8ojK7E",
+			"duration": 251,
+			"id": "IqvHz8ojK7E"
+		},
+		{
+			"name": "Mega Man X - Opening Stage [Eurobeat Remix]",
+			"url": "https://www.youtube.com/watch?v=OfLDM1jibso",
+			"duration": 354,
+			"id": "OfLDM1jibso"
+		},
+		{
+			"name": "Ninja Gaiden 2. The dark Sword of Chaos",
+			"url": "https://www.youtube.com/watch?v=wmIbCNSsLqk",
+			"duration": 117,
+			"id": "wmIbCNSsLqk"
+		},
+		{
+			"name": "Shiveria: Town - Super Mario Odyssey [OST]",
+			"url": "https://www.youtube.com/watch?v=ZHzCG1JhoTo",
+			"duration": 152,
+			"id": "ZHzCG1JhoTo"
+		},
+		{
+			"name": "SDR2 OST: -2-04- Machine Gun with Bunny Ears",
+			"url": "https://www.youtube.com/watch?v=7UPCPGofnKA",
+			"duration": 44
+		},
+		{
+			"name": "Now or Never! - Splatoon 2 (30 seconds) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=4SI3JqVVsvw",
+			"duration": 31,
+			"id": "4SI3JqVVsvw"
+		},
+		{
+			"name": "Battle! (Island Kahuna) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=Q6UTqacpOds",
+			"duration": 239.921,
+			"id": "Q6UTqacpOds"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. White - 30. DANVEGAS",
+			"url": "https://www.youtube.com/watch?v=FXBnxKMHk_w",
+			"duration": 287
+		},
+		{
+			"name": "Star Fox 2 (Alpha) OST - MUSIC19 (Battle Music)",
+			"url": "https://www.youtube.com/watch?v=Iu6IBbqDlgs",
+			"duration": 63,
+			"id": "Iu6IBbqDlgs"
+		},
+		{
+			"name": "\\u3010Minecraft\\u3011THE WORLD REVOLVING -Noteblock-\\u3010DELTARUNE\\u3011",
+			"url": "https://www.youtube.com/watch?v=JMLfc_FNypQ",
+			"duration": 246,
+			"id": "JMLfc_FNypQ"
+		},
+		{
+			"name": "Fate/stay night: [Unlimited Blade Works] OST II - #23 Music for Promotion Video",
+			"url": "https://www.youtube.com/watch?v=WEdZgah7RGs",
+			"duration": 146.741,
+			"id": "WEdZgah7RGs"
+		},
+		{
+			"name": "Pokemon Sun & Moon - Champion Red & Blue Battle Music (HQ)",
+			"url": "https://www.youtube.com/watch?v=TNZ7gllxeZs",
+			"duration": 301,
+			"id": "TNZ7gllxeZs"
+		},
+		{
+			"name": "Yuga Battle (Hyrule Castle) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=XFBfTpieCOg",
+			"duration": 147,
+			"id": "XFBfTpieCOg"
+		},
+		{
+			"name": "Check Mii Out Channel - Contest Music (Extended) HD",
+			"url": "https://www.youtube.com/watch?v=tjbkgDZnbMo",
+			"duration": 1023,
+			"id": "tjbkgDZnbMo"
+		},
+		{
+			"name": "Lightning Chariot Base | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=ALjW_pCBaHA",
+			"duration": 242,
+			"id": "ALjW_pCBaHA"
+		},
+		{
+			"name": "DR:AE OST Disc 1 - 02 Absolute Despair Girl",
+			"url": "https://www.youtube.com/watch?v=vATlONpoS1I",
+			"duration": 211
+		},
+		{
+			"name": "Pokemon- Mystery Dungeon Explorers of Sky- Time Gear- Music",
+			"url": "https://www.youtube.com/watch?v=2s3uLEmw8fM",
+			"duration": 220,
+			"id": "2s3uLEmw8fM"
+		},
+		{
+			"name": "Final Boss - Sonic the Hedgehog 3 [OST]",
+			"url": "https://www.youtube.com/watch?v=bc-lK-psNy4",
+			"duration": 112,
+			"id": "bc-lK-psNy4"
+		},
+		{
+			"name": "Sinnoh Champion Battle - Pok\\u00e9mon Black2/White2",
+			"url": "https://www.youtube.com/watch?v=xTIdQXP12wY",
+			"duration": 200,
+			"id": "xTIdQXP12wY"
+		},
+		{
+			"name": "DOOM 2016 Soundtrack - Theme 2",
+			"url": "https://www.youtube.com/watch?v=eJa1Kl65L6Q",
+			"duration": 85
+		},
+		{
+			"name": "Metroid - Kraid's Lair (Analog Synth remake)",
+			"url": "https://www.youtube.com/watch?v=Jr0CNm6E9IA",
+			"duration": 116,
+			"id": "Jr0CNm6E9IA"
+		},
+		{
+			"name": "Metal Man Stage | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=CxCWdoLaSgE",
+			"duration": 275,
+			"id": "CxCWdoLaSgE"
+		},
+		{
+			"name": "Kirby Battle Royale: Main Theme | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=e7QNB6DsmYA",
+			"duration": 176,
+			"id": "e7QNB6DsmYA"
+		},
+		{
+			"name": "F-Zero GX [OST] - Silver Neelsen's Theme",
+			"url": "https://www.youtube.com/watch?v=V9FyIA5Y15g",
+			"duration": 83,
+			"id": "V9FyIA5Y15g"
+		},
+		{
+			"name": "Deltarune - The World Revolving (Speed Up 75%)",
+			"url": "https://www.youtube.com/watch?v=w532AL-M3CY",
+			"duration": 172,
+			"id": "w532AL-M3CY"
+		},
+		{
+			"name": "Granwyrm ~ Creation - Professor Layton vs. Phoenix Wright: Ace Attorney",
+			"url": "https://www.youtube.com/watch?v=E_aGHeSdU9k",
+			"duration": 37,
+			"id": "E_aGHeSdU9k"
+		},
+		{
+			"name": "Dragon Quest III - Adventure [Eurobeat Remix]",
+			"url": "https://www.youtube.com/watch?v=0eSNvUQg7zI",
+			"duration": 279,
+			"id": "0eSNvUQg7zI"
+		},
+		{
+			"name": "Time Break - Sonic Generations [OST]",
+			"url": "https://www.youtube.com/watch?v=sITIQ3ESpg8",
+			"duration": 20,
+			"id": "sITIQ3ESpg8"
+		},
+		{
+			"name": "Ace Attorney Investigations: Miles Edgeworth - Noisy People",
+			"url": "https://www.youtube.com/watch?v=5SgT5dBvG5g",
+			"duration": 92,
+			"id": "5SgT5dBvG5g"
+		},
+		{
+			"name": "Dawn in the Desert | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=cAokX8utDP0",
+			"duration": 244,
+			"id": "cAokX8utDP0"
+		},
+		{
+			"name": "Spinning Slots - Super Mario Odyssey [OST]",
+			"url": "https://www.youtube.com/watch?v=3FQ-QcVQreQ",
+			"duration": 38,
+			"id": "3FQ-QcVQreQ"
+		},
+		{
+			"name": "Professor Layton & The Curious Village Soundtrack - Walking in the Village",
+			"url": "https://www.youtube.com/watch?v=PDt86F-QWm0",
+			"duration": 195,
+			"id": "PDt86F-QWm0"
+		},
+		{
+			"name": "Michael Jackson - Thriller (Official Video)",
+			"url": "https://www.youtube.com/watch?v=sOnqjkJTMaA",
+			"duration": 822,
+			"id": "sOnqjkJTMaA"
+		},
+		{
+			"name": "Persona 5 Royal OST 15 - That Guy Is A Trick\\u2606Star\\u2192",
+			"url": "https://www.youtube.com/watch?v=CYFaibAwasw",
+			"duration": 92,
+			"id": "CYFaibAwasw"
+		},
+		{
+			"name": "Steam Gardens | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=CLOGGgncCw4",
+			"duration": 206,
+			"id": "CLOGGgncCw4"
+		},
+		{
+			"name": "DR:AE OST Disc 1 - 10 We Can't Change the World",
+			"url": "https://www.youtube.com/watch?v=yslw56an_PY",
+			"duration": 92
+		},
+		{
+			"name": "JoJo Part 4: Diamond is Unbreakable - Opening Full\\u300eCrazy Noisy Bizarre Town\\u300fby THE DU",
+			"url": "https://www.youtube.com/watch?v=0EX6L6jCaLw",
+			"duration": 216,
+			"id": "0EX6L6jCaLw"
+		},
+		{
+			"name": "Doom (PSX) Music - Track12",
+			"url": "https://www.youtube.com/watch?v=JmjUM2N1MKM",
+			"duration": 301
+		},
+		{
+			"name": "New Donk City Festival - Super Mario Odyssey [OST]",
+			"url": "https://www.youtube.com/watch?v=GZbKFRldVN8",
+			"duration": 229,
+			"id": "GZbKFRldVN8"
+		},
+		{
+			"name": "Super Mario Bros.: The Lost Levels Medley | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=ME0r693dUEY",
+			"duration": 252,
+			"id": "ME0r693dUEY"
+		},
+		{
+			"name": "Link - Professor Layton vs. Phoenix Wright: Ace Attorney",
+			"url": "https://www.youtube.com/watch?v=Sp_LdIA_HIc",
+			"duration": 158,
+			"id": "Sp_LdIA_HIc"
+		},
+		{
+			"name": "Hydrocity Zone (Act 1) - Sonic the Hedgehog 3 [OST]",
+			"url": "https://www.youtube.com/watch?v=CrWepCaCJ7c",
+			"duration": 127,
+			"id": "CrWepCaCJ7c"
+		},
+		{
+			"name": "Main Theme - Pok\\u00e9mon Red & Pok\\u00e9mon Blue (64) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=1ccbNyH9-Aw",
+			"duration": 112,
+			"id": "1ccbNyH9-Aw"
+		},
+		{
+			"name": "Staff roll - F-Zero X OST",
+			"url": "https://www.youtube.com/watch?v=mfFv1mGMH9Q",
+			"duration": 166.261,
+			"id": "mfFv1mGMH9Q"
+		},
+		{
+			"name": "[Official] Celeste B-Sides - 05 - 2 Mello - Mirror Temple (Mirror Magic Mix)",
+			"url": "https://www.youtube.com/watch?v=iKnwVvXkWq0",
+			"duration": 235.681,
+			"id": "iKnwVvXkWq0"
+		},
+		{
+			"name": "[Official] Celeste Original Soundtrack - 09 - Golden",
+			"url": "https://www.youtube.com/watch?v=mr-SWzqNpM0",
+			"duration": 508.601,
+			"id": "mr-SWzqNpM0"
+		},
+		{
+			"name": "DOOM (PSX) - Music - Track07",
+			"url": "https://www.youtube.com/watch?v=OehZk8_8G48",
+			"duration": 361
+		},
+		{
+			"name": "Slash | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=EfMhgLbsoas",
+			"duration": 172,
+			"id": "EfMhgLbsoas"
+		},
+		{
+			"name": "Collection Room (Door Into Summer) - Sonic Generations [OST]",
+			"url": "https://www.youtube.com/watch?v=yDq9jVwSm9w",
+			"duration": 167,
+			"id": "yDq9jVwSm9w"
+		},
+		{
+			"name": "SDR2 OST: -1-15- Re_ All All Apologies",
+			"url": "https://www.youtube.com/watch?v=9VMw_1-gyE4",
+			"duration": 183
+		},
+		{
+			"name": "Pokemon Diamond/Pearl/Platinum - Battle! Team Galactic Commander Music (HQ)",
+			"url": "https://www.youtube.com/watch?v=NqXq3_2SI1w",
+			"duration": 179,
+			"id": "NqXq3_2SI1w"
+		},
+		{
+			"name": "DOOM (PSX) - Music - Track04 (Command Control)",
+			"url": "https://www.youtube.com/watch?v=CsuhrMdid0o",
+			"duration": 555
+		},
+		{
+			"name": "Dark World (Brawl) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=sVOj8foMAD0",
+			"duration": 173,
+			"id": "sVOj8foMAD0"
+		},
+		{
+			"name": "Termina Field [Remix] | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=kT11wHSUleM",
+			"duration": 313,
+			"id": "kT11wHSUleM"
+		},
+		{
+			"name": "Village of the Blue Maiden | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=jrcb3aTuI1E",
+			"duration": 124,
+			"id": "jrcb3aTuI1E"
+		},
+		{
+			"name": "Mass Destruction | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=LKh_jb0Xofk",
+			"duration": 189,
+			"id": "LKh_jb0Xofk"
+		},
+		{
+			"name": "Dual Destinies OST: 2-04 \"Turnabout for Tomorrow\"",
+			"url": "https://www.youtube.com/watch?v=VL6Y6Cj1GlI",
+			"duration": 106,
+			"id": "VL6Y6Cj1GlI"
+		},
+		{
+			"name": "Professor Layton & The Diabolical Box - Theme of Diabolical Box (Live Version)",
+			"url": "https://www.youtube.com/watch?v=MNzm5xLoPMk",
+			"duration": 214,
+			"id": "MNzm5xLoPMk"
+		},
+		{
+			"name": "bad guy but it's Megalovania",
+			"url": "https://www.youtube.com/watch?v=DTuobnP4ZPo",
+			"duration": 123,
+			"id": "DTuobnP4ZPo"
+		},
+		{
+			"name": "Lagrange Point (FC) - Theme of Isis (Opening Theme)",
+			"url": "https://www.youtube.com/watch?v=GAuZHQjOhKI",
+			"duration": 107,
+			"id": "GAuZHQjOhKI"
+		},
+		{
+			"name": "Pok\\u00e9mon Ranger - Go Rock Squad Hideout Basement",
+			"url": "https://www.youtube.com/watch?v=ISXHkO_ULvI",
+			"duration": 85,
+			"id": "ISXHkO_ULvI"
+		},
+		{
+			"name": "DOOM 2016 Soundtrack - VEGA",
+			"url": "https://www.youtube.com/watch?v=FYIfxcgY-ig",
+			"duration": 236
+		},
+		{
+			"name": "Cave Story 3D OST - Balcony",
+			"url": "https://www.youtube.com/watch?v=RbiouNuYD7c",
+			"duration": 192,
+			"id": "RbiouNuYD7c"
+		},
+		{
+			"name": "38 | Joint Reasoning - Backstage [TYPE C] (Dai Gyakuten Saiban Soundtrack)",
+			"url": "https://www.youtube.com/watch?v=lsjAlucm_rA",
+			"duration": 115,
+			"id": "lsjAlucm_rA"
+		},
+		{
+			"name": "SDR2 OST: -2-20- Discussion -HOPE VS DESPAIR- [2nd mix]",
+			"url": "https://www.youtube.com/watch?v=1Stmp2gAk6s",
+			"duration": 201
+		},
+		{
+			"name": "[2-11] Run! - Cave Story Remastered Soundtrack",
+			"url": "https://www.youtube.com/watch?v=7H4VSykekVI",
+			"duration": 87,
+			"id": "7H4VSykekVI"
+		},
+		{
+			"name": "The Dark World - The Legend of Zelda: A Link to the Past",
+			"url": "https://www.youtube.com/watch?v=BStjuHfP238",
+			"duration": 128,
+			"id": "BStjuHfP238"
+		},
+		{
+			"name": "Deltarune OST - THE WORLD REVOLVING",
+			"url": "https://www.youtube.com/watch?v=iaaIdmMhaxw",
+			"duration": 202,
+			"id": "iaaIdmMhaxw"
+		},
+		{
+			"name": "Cave Story 3D OST - Access",
+			"url": "https://www.youtube.com/watch?v=XH9PaREp97Y",
+			"duration": 36,
+			"id": "XH9PaREp97Y"
+		},
+		{
+			"name": "DR:AE OST Disc 2 - 03 Abnormality on the Girls Front Line",
+			"url": "https://www.youtube.com/watch?v=QFPBD5QlmbI",
+			"duration": 136
+		},
+		{
+			"name": "DR:AE OST Disc 3 - 13 Discussion -HOPE VS DESPAIR-",
+			"url": "https://www.youtube.com/watch?v=F-oPE3Cn86Y",
+			"duration": 200
+		},
+		{
+			"name": "Persona 5 Royal OST 17 - I Will Give You...",
+			"url": "https://www.youtube.com/watch?v=BelZ_ZcyiK8",
+			"duration": 109,
+			"id": "BelZ_ZcyiK8"
+		},
+		{
+			"name": "SDR2 OST: -2-23- Fifth Island Theme",
+			"url": "https://www.youtube.com/watch?v=PNY4F9im83k",
+			"duration": 105
+		},
+		{
+			"name": "Simon Belmont Theme | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=vSD-p520ttM",
+			"duration": 225,
+			"id": "vSD-p520ttM"
+		},
+		{
+			"name": "DR:AE OST Disc 3 - 25  Lets Play With Monokuma (Instruments)",
+			"url": "https://www.youtube.com/watch?v=7K1mnsQWSOI",
+			"duration": 187
+		},
+		{
+			"name": "Vega Stage | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=Ztb48XVBpXU",
+			"duration": 256,
+			"id": "Ztb48XVBpXU"
+		},
+		{
+			"name": "DANGANRONPA OST: -1-27- Climax Reasoning",
+			"url": "https://www.youtube.com/watch?v=e0dZnWkzv2U",
+			"duration": 250
+		},
+		{
+			"name": "Pok\\u00e9mon Ranger - Fall City",
+			"url": "https://www.youtube.com/watch?v=lAfSMHXJaWI",
+			"duration": 109,
+			"id": "lAfSMHXJaWI"
+		},
+		{
+			"name": "Cave Story OST - T06: Gravity (Boss Theme #1)",
+			"url": "https://www.youtube.com/watch?v=594aUuWMiOE",
+			"duration": 116,
+			"id": "594aUuWMiOE"
+		},
+		{
+			"name": "Doom (32X) Music - Kitchen Ace (And Taking Names)",
+			"url": "https://www.youtube.com/watch?v=4l9PnoJH8eg",
+			"duration": 172
+		},
+		{
+			"name": "E.G.G.M.A.N. by Paul Shortino (Doc Robeatnix Mix)",
+			"url": "https://www.youtube.com/watch?v=U2jsMlfGQdQ",
+			"duration": 219,
+			"id": "U2jsMlfGQdQ"
+		},
+		{
+			"name": "Pok\\u00e9mon Super Mystery Dungeon OST - The End",
+			"url": "https://www.youtube.com/watch?v=RsTdYLWO3YQ",
+			"duration": 219,
+			"id": "RsTdYLWO3YQ"
+		},
+		{
+			"name": "Pokemon Black/White - Battle! Champion Cynthia Music (HQ)",
+			"url": "https://www.youtube.com/watch?v=toCy2dLd3bg",
+			"duration": 179,
+			"id": "toCy2dLd3bg"
+		},
+		{
+			"name": "Jungle Level (Brawl) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=mqww5ltonZw",
+			"duration": 234,
+			"id": "mqww5ltonZw"
+		},
+		{
+			"name": "Adventure - DRAGON QUEST III | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=tZAzQVmikUY",
+			"duration": 180,
+			"id": "tZAzQVmikUY"
+		},
+		{
+			"name": "Tourney: Winner Announcement | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=4NwAy88FaZY",
+			"duration": 74,
+			"id": "4NwAy88FaZY"
+		},
+		{
+			"name": "Professor Layton & the Unwound Future - Theme of the Last Time Travel (Live Version)",
+			"url": "https://www.youtube.com/watch?v=dmd58nFB6OI",
+			"duration": 219,
+			"id": "dmd58nFB6OI"
+		},
+		{
+			"name": "Stage Select - Pikmin 2 | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=FRxrSZperGU",
+			"duration": 251,
+			"id": "FRxrSZperGU"
+		},
+		{
+			"name": "C418 - shuniji  ( Minecraft 1.13 Music )",
+			"url": "https://www.youtube.com/watch?v=dB9tv0oK_4Y",
+			"duration": 240,
+			"id": "dB9tv0oK_4Y"
+		},
+		{
+			"name": "Pok\\u00e9mon Ranger - Deep Lyra Forest",
+			"url": "https://www.youtube.com/watch?v=yD5K8EMjC0s",
+			"duration": 118,
+			"id": "yD5K8EMjC0s"
+		},
+		{
+			"name": "Pokemon- Mystery Dungeon Explorers of Sky- Mt. Horn- Music",
+			"url": "https://www.youtube.com/watch?v=ib5TBsN9qeo",
+			"duration": 231,
+			"id": "ib5TBsN9qeo"
+		},
+		{
+			"name": "gamecube opening but its megalovania default dance",
+			"url": "https://www.youtube.com/watch?v=pyrQdhPIKzU",
+			"duration": 16,
+			"id": "pyrQdhPIKzU"
+		},
+		{
+			"name": "Megalovania but it's the first bar for the duration of the track",
+			"url": "https://www.youtube.com/watch?v=vlUagv0sjiY",
+			"duration": 156,
+			"id": "vlUagv0sjiY"
+		},
+		{
+			"name": "Jump Up, Super Star! (Trumpet) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=p_-Nfy-ZaDQ",
+			"duration": 250,
+			"id": "p_-Nfy-ZaDQ"
+		},
+		{
+			"name": "DANGANRONPA OST: -1-16- M.T.B.",
+			"url": "https://www.youtube.com/watch?v=AYsaZnce3ig",
+			"duration": 108
+		},
+		{
+			"name": "Death Egg Zone (Act 1) - Sonic & Knuckles [OST]",
+			"url": "https://www.youtube.com/watch?v=gqL2kvu6PK8",
+			"duration": 90,
+			"id": "gqL2kvu6PK8"
+		},
+		{
+			"name": "Pok\\u00e9mon Super Mystery Dungeon OST - Fire Island Volcano",
+			"url": "https://www.youtube.com/watch?v=usuKnzJLoHU",
+			"duration": 236.501,
+			"id": "usuKnzJLoHU"
+		},
+		{
+			"name": "Don't Slip | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=ddNk4Facilo",
+			"duration": 171,
+			"id": "ddNk4Facilo"
+		},
+		{
+			"name": "Gyakuten Kenji 2 OST: 07 - Reiji Mitsurugi ~ Objection! 2011",
+			"url": "https://www.youtube.com/watch?v=WqST5c8_L8o",
+			"duration": 197,
+			"id": "WqST5c8_L8o"
+		},
+		{
+			"name": "DELTARUNE - The World Revolving Acapella",
+			"url": "https://www.youtube.com/watch?v=oY8tZQsXbrA",
+			"duration": 223.621,
+			"id": "oY8tZQsXbrA"
+		},
+		{
+			"name": "Ikachan - Buriki",
+			"url": "https://www.youtube.com/watch?v=-iYZ1pHMsm4",
+			"duration": 87,
+			"id": "-iYZ1pHMsm4"
+		},
+		{
+			"name": "Gear Up For... | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=gvHGE4GjWTc",
+			"duration": 269,
+			"id": "gvHGE4GjWTc"
+		},
+		{
+			"name": "Phoenix Wright T&T ~ Police Cell ~ Elegy of the Captured DS",
+			"url": "https://www.youtube.com/watch?v=X2TbXGcO0eQ",
+			"duration": 137,
+			"id": "X2TbXGcO0eQ"
+		},
+		{
+			"name": "Pokemon UltraSun & UltraMoon - Rocket Boss Giovanni Battle Music (HQ)",
+			"url": "https://www.youtube.com/watch?v=Q6Mt_uxnYRA",
+			"duration": 300,
+			"id": "Q6Mt_uxnYRA"
+		},
+		{
+			"name": "Ryu Stage Type B | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=WSX4yQ0bbOM",
+			"duration": 122,
+			"id": "WSX4yQ0bbOM"
+		},
+		{
+			"name": "DR:AE OST Disc 2 - 15 Alice in the Childrens Land",
+			"url": "https://www.youtube.com/watch?v=rPIWc1zKBIE",
+			"duration": 339
+		},
+		{
+			"name": "DR:AE OST Disc 1 - 17 Sortie ! Its Name Is Robot",
+			"url": "https://www.youtube.com/watch?v=PFV6KsYace0",
+			"duration": 54
+		},
+		{
+			"name": "Shotgun Kiss | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=Qmp6t2-1dZM",
+			"duration": 260,
+			"id": "Qmp6t2-1dZM"
+		},
+		{
+			"name": "Elite Four Battle - Pok\\u00e9mon Ruby/Sapphire/Emerald",
+			"url": "https://www.youtube.com/watch?v=5jgps-Xr_Zw",
+			"duration": 139,
+			"id": "5jgps-Xr_Zw"
+		},
+		{
+			"name": "Phoenix Wright T&T ~ Hazakura Temple DS",
+			"url": "https://www.youtube.com/watch?v=1GZe_gv9wzo",
+			"duration": 180,
+			"id": "1GZe_gv9wzo"
+		},
+		{
+			"name": "Johto Gym Leader Battle - Pok\\u00e9mon Gold/Silver/Crystal",
+			"url": "https://www.youtube.com/watch?v=ZvkYZSrwgjQ",
+			"duration": 147,
+			"id": "ZvkYZSrwgjQ"
+		},
+		{
+			"name": "Gonna Fly Now (Rocky Theme) (8 Bit Cover) [Tribute to ROCKY and Bill Conti] - 8 Bit Universe",
+			"url": "https://www.youtube.com/watch?v=xwe__W6YGz0",
+			"duration": 164.581,
+			"id": "xwe__W6YGz0"
+		},
+		{
+			"name": "Game Land: Color Power - Sonic Colors [OST]",
+			"url": "https://www.youtube.com/watch?v=xd8uWRReCv0",
+			"duration": 47,
+			"id": "xd8uWRReCv0"
+		},
+		{
+			"name": "Gym Leader Battle - Pok\\u00e9mon Black/White",
+			"url": "https://www.youtube.com/watch?v=Rl6A4oGpOSw",
+			"duration": 188,
+			"id": "Rl6A4oGpOSw"
+		},
+		{
+			"name": "Ink Me Up [Assist Trophy] | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=vFmC3MomRmo",
+			"duration": 13,
+			"id": "vFmC3MomRmo"
+		},
+		{
+			"name": "Futility",
+			"url": "https://www.youtube.com/watch?v=hq5f4esFMjI",
+			"duration": 16,
+			"id": "hq5f4esFMjI"
+		},
+		{
+			"name": "SDR2 OST: -1-01- DANGANRONPA SUPER MIX",
+			"url": "https://www.youtube.com/watch?v=_PQ2-NiMSXA",
+			"duration": 100
+		},
+		{
+			"name": "Galaga Medley | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=Pu8V5Vk32-I",
+			"duration": 298,
+			"id": "Pu8V5Vk32-I"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. Black - 33. HYPER ULTRA NEW T.A",
+			"url": "https://www.youtube.com/watch?v=qw8zgjCdyTc",
+			"duration": 201
+		},
+		{
+			"name": "PLvsAA OST - 2-06 - Phoenix Wright ~ Objection! (English Court Suite)",
+			"url": "https://www.youtube.com/watch?v=awONuUrYeqc",
+			"duration": 53,
+			"id": "awONuUrYeqc"
+		},
+		{
+			"name": "MEGALOVANIA BUT IT'S 14 DIFFERENT INSTRUMENTS PLAYING RANDOM PARTS",
+			"url": "https://www.youtube.com/watch?v=ZhjpWvOtZy4",
+			"duration": 141.761,
+			"id": "ZhjpWvOtZy4"
+		},
+		{
+			"name": "Elite Four Battle - Pok\\u00e9mon Diamond/Pearl/Platinum",
+			"url": "https://www.youtube.com/watch?v=hLyZVUTUUoM",
+			"duration": 201,
+			"id": "hLyZVUTUUoM"
+		},
+		{
+			"name": "Zangief Stage Type B | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=DgViWi5fbr4",
+			"duration": 128,
+			"id": "DgViWi5fbr4"
+		},
+		{
+			"name": "C418 - Strad (Minecraft Volume Beta)",
+			"url": "https://www.youtube.com/watch?v=d6tV0cr9zYI",
+			"duration": 188,
+			"id": "d6tV0cr9zYI"
+		},
+		{
+			"name": "Doom OST - E2M3 - Intermission from Doom",
+			"url": "https://www.youtube.com/watch?v=vVRbEvPvF7A",
+			"duration": 200
+		},
+		{
+			"name": "Ikachan - Mizuno",
+			"url": "https://www.youtube.com/watch?v=mNTXebjxB5o",
+			"duration": 126.561,
+			"id": "mNTXebjxB5o"
+		},
+		{
+			"name": "Final Doom (PSX) Music - Track 09 (Nessus)",
+			"url": "https://www.youtube.com/watch?v=jxbq1G7Zxcg",
+			"duration": 528
+		},
+		{
+			"name": "Muck Warfare | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=ofLaeaq-2vU",
+			"duration": 200,
+			"id": "ofLaeaq-2vU"
+		},
+		{
+			"name": "Studiopolis Zone Act 1 - Sonic Mania [OST]",
+			"url": "https://www.youtube.com/watch?v=MMwM6hLEyeY",
+			"duration": 186,
+			"id": "MMwM6hLEyeY"
+		},
+		{
+			"name": "Stage Clear / Title Theme - Pikmin | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=iFW7QziCOfM",
+			"duration": 208,
+			"id": "iFW7QziCOfM"
+		},
+		{
+			"name": "MEGALOVANIA but beats 2 and 4 are swapped BUT beats 1 and 3 are also swapped",
+			"url": "https://www.youtube.com/watch?v=NC6EZrW9AlU",
+			"duration": 155.621,
+			"id": "NC6EZrW9AlU"
+		},
+		{
+			"name": "Doom OST - E2M6 - Sinister",
+			"url": "https://www.youtube.com/watch?v=q7MGbUYslrU",
+			"duration": 175
+		},
+		{
+			"name": "Theme of Sonic the Hedgehog - Sonic Generations [OST]",
+			"url": "https://www.youtube.com/watch?v=vnCcPUrnwA8",
+			"duration": 19,
+			"id": "vnCcPUrnwA8"
+		},
+		{
+			"name": "SDR2 OST: -3-36- Chapter 04 - End",
+			"url": "https://www.youtube.com/watch?v=ELwnC0CbzHI",
+			"duration": 22
+		},
+		{
+			"name": "Flying Battery Zone Act 1 - Sonic Mania [OST]",
+			"url": "https://www.youtube.com/watch?v=zmo0bMoony8",
+			"duration": 178,
+			"id": "zmo0bMoony8"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. White - 03. Rise of the Ultimate",
+			"url": "https://www.youtube.com/watch?v=zSHvUG5W7kE",
+			"duration": 234
+		},
+		{
+			"name": "Back in Action (Mighty & Ray) - Sonic Mania Plus [OST]",
+			"url": "https://www.youtube.com/watch?v=EelrjiR60g8",
+			"duration": 45.303,
+			"id": "EelrjiR60g8"
+		},
+		{
+			"name": "Fiery Witnesses - Professor Layton vs. Phoenix Wright: Ace Attorney",
+			"url": "https://www.youtube.com/watch?v=geXxBF8Qjzo",
+			"duration": 137,
+			"id": "geXxBF8Qjzo"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. White - 10. Become Friends",
+			"url": "https://www.youtube.com/watch?v=u8Rq8MjAKkQ",
+			"duration": 264
+		},
+		{
+			"name": "Big Shot! - FATAL FURY 3 | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=kPq6cf7FbAU",
+			"duration": 174,
+			"id": "kPq6cf7FbAU"
+		},
+		{
+			"name": "Sea Gate - Sonic Heroes [OST]",
+			"url": "https://www.youtube.com/watch?v=16tn17sHf0s",
+			"duration": 203,
+			"id": "16tn17sHf0s"
+		},
+		{
+			"name": "Wild Pok\\u00e9mon Battle - Pok\\u00e9mon FireRed/LeafGreen",
+			"url": "https://www.youtube.com/watch?v=byTN_tvhovk",
+			"duration": 95,
+			"id": "byTN_tvhovk"
+		},
+		{
+			"name": "Ace Attorney Investigations: Miles Edgeworth - Logic ~ The Way to the Truth",
+			"url": "https://www.youtube.com/watch?v=H-a60ITJ2Ko",
+			"duration": 199,
+			"id": "H-a60ITJ2Ko"
+		},
+		{
+			"name": "DELTARUNE - REVOLVANIA (THE WORLD REVOLVING x Megalovania Remix)",
+			"url": "https://www.youtube.com/watch?v=LyhwyY0jPec",
+			"duration": 241.421,
+			"id": "LyhwyY0jPec"
+		},
+		{
+			"name": "Boss Stage Clear - Sonic Colors [OST]",
+			"url": "https://www.youtube.com/watch?v=BZv9F25IRFE",
+			"duration": 11,
+			"id": "BZv9F25IRFE"
+		},
+		{
+			"name": "Colors Flying High - Persona 5: Royal",
+			"url": "https://www.youtube.com/watch?v=Pz_FI4DysIU",
+			"duration": 140.181,
+			"id": "Pz_FI4DysIU"
+		},
+		{
+			"name": "SDR2 OST: -1-12- Punishment feat. Hell-icopter",
+			"url": "https://www.youtube.com/watch?v=LxaPd27Kwe4",
+			"duration": 78
+		},
+		{
+			"name": "Ending Theme - Professor Layton vs. Phoenix Wright: Ace Attorney",
+			"url": "https://www.youtube.com/watch?v=tCnrIrhqCZs",
+			"duration": 332.301,
+			"id": "tCnrIrhqCZs"
+		},
+		{
+			"name": "Sonic Adventure 2 Battle: Fly in the Freedom (Rouge Theme)",
+			"url": "https://www.youtube.com/watch?v=Bkr9AGQwWiQ",
+			"duration": 467,
+			"id": "Bkr9AGQwWiQ"
+		},
+		{
+			"name": "F-Zero GX [OST] - Flags (Flag Open)",
+			"url": "https://www.youtube.com/watch?v=Pq8_PZp11n8",
+			"duration": 86,
+			"id": "Pq8_PZp11n8"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. Black - 16. V3 Discussion -HOPE VS DESPAIR-",
+			"url": "https://www.youtube.com/watch?v=iikZovDPz8w",
+			"duration": 203
+		},
+		{
+			"name": "New Order - KOF XIV | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=xZRpzb7V9yo",
+			"duration": 230,
+			"id": "xZRpzb7V9yo"
+		},
+		{
+			"name": "Ice Cave Chant | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=lW0FR88xbR8",
+			"duration": 206,
+			"id": "lW0FR88xbR8"
+		},
+		{
+			"name": "South park 64- Mad robots theme extended",
+			"url": "https://www.youtube.com/watch?v=rBsd7xB_I00",
+			"duration": 939,
+			"id": "rBsd7xB_I00"
+		},
+		{
+			"name": "Jaguar Doom Music - Title Music",
+			"url": "https://www.youtube.com/watch?v=Xh3jkcQrOW0",
+			"duration": 8
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. White - 48. Opening Movie",
+			"url": "https://www.youtube.com/watch?v=ointNZ_lVZQ",
+			"duration": 63
+		},
+		{
+			"name": "[Official] Celeste Original Soundtrack - 14 - Starjump",
+			"url": "https://www.youtube.com/watch?v=dTIeaqNXseY",
+			"duration": 133,
+			"id": "dTIeaqNXseY"
+		},
+		{
+			"name": "SDR2 OST: -3-29- Chapter 02 - Title (Part B)",
+			"url": "https://www.youtube.com/watch?v=75E2oHfljqY",
+			"duration": 11
+		},
+		{
+			"name": "DOOM 2016 Soundtrack - Theme 9",
+			"url": "https://www.youtube.com/watch?v=AHdLHMC3dDU",
+			"duration": 54
+		},
+		{
+			"name": "Megalovania but with 15 different audio effects",
+			"url": "https://www.youtube.com/watch?v=ut_N8pOB7nk",
+			"duration": 137,
+			"id": "ut_N8pOB7nk"
+		},
+		{
+			"name": "Mario Strikers Charged-The Classroom",
+			"url": "https://www.youtube.com/watch?v=y8ZToXeBspw",
+			"duration": 189,
+			"id": "y8ZToXeBspw"
+		},
+		{
+			"name": "Elite Four Battle - Pok\\u00e9mon Ruby/Sapphire/Emerald",
+			"url": "https://www.youtube.com/watch?v=5jgps-Xr_Zw",
+			"duration": 139,
+			"id": "5jgps-Xr_Zw"
+		},
+		{
+			"name": "Mirage Saloon Zone Act 1 (Sonic Version) - Sonic Mania [OST]",
+			"url": "https://www.youtube.com/watch?v=Jc2jgJiBT6c",
+			"duration": 149,
+			"id": "Jc2jgJiBT6c"
+		},
+		{
+			"name": "The Hero Goes Forth with a Determination | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=GV3JWcVnbr4",
+			"duration": 146,
+			"id": "GV3JWcVnbr4"
+		},
+		{
+			"name": "Mood Matrix ~ Commence the Psychological Analysis! - Ace Attorney 6: Spirit Of Justice OST",
+			"url": "https://www.youtube.com/watch?v=8NTx8gYG3oE",
+			"duration": 139,
+			"id": "8NTx8gYG3oE"
+		},
+		{
+			"name": "62 | Recollection - The Grey Dance (Dai Gyakuten Saiban Soundtrack)",
+			"url": "https://www.youtube.com/watch?v=cG3kSMpqKRg",
+			"duration": 255,
+			"id": "cG3kSMpqKRg"
+		},
+		{
+			"name": "THE WORLD REVOLVING - Instrumental Mix Cover (Deltarune)",
+			"url": "https://www.youtube.com/watch?v=NJvFa6hsuok",
+			"duration": 320,
+			"id": "NJvFa6hsuok"
+		},
+		{
+			"name": "Super Sonic - Sonic Mania [OST]",
+			"url": "https://www.youtube.com/watch?v=Xw43xCHvh-A",
+			"duration": 126.961,
+			"id": "Xw43xCHvh-A"
+		},
+		{
+			"name": "Revolt -Striving for Hope- | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=xYSetCPlGhQ",
+			"duration": 226,
+			"id": "xYSetCPlGhQ"
+		},
+		{
+			"name": "Track 01 - THUNDER FORCE IV\\u300eLightning Strikes Again - Metal Squad\\u300f",
+			"url": "https://www.youtube.com/watch?v=TnLAC5AJPuM",
+			"duration": 337,
+			"id": "TnLAC5AJPuM"
+		},
+		{
+			"name": "Rivers in the Desert REMIX (w/ Lyrics)- Persona 5 Scramble: The Phantom Strikers OST",
+			"url": "https://www.youtube.com/watch?v=wPyfNZn_INc",
+			"duration": 326,
+			"id": "wPyfNZn_INc"
+		},
+		{
+			"name": "Beneath the Mask | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=n25nqibaIDg",
+			"duration": 324.381,
+			"id": "n25nqibaIDg"
+		},
+		{
+			"name": "Phoenix Wright 2 - 08) Examination ~ Allegro 2002",
+			"url": "https://www.youtube.com/watch?v=VXqTpVfazdQ",
+			"duration": 101,
+			"id": "VXqTpVfazdQ"
+		},
+		{
+			"name": "Doom (32X) Music - Demons On The Prey",
+			"url": "https://www.youtube.com/watch?v=hA1WhZCN9c8",
+			"duration": 303
+		},
+		{
+			"name": "Gym Leader Battle - Pok\\u00e9mon X/Y",
+			"url": "https://www.youtube.com/watch?v=6LEzEBx9UpY",
+			"duration": 272,
+			"id": "6LEzEBx9UpY"
+		},
+		{
+			"name": "Doom (PSX) Music - Track20",
+			"url": "https://www.youtube.com/watch?v=uVM-LapabXg",
+			"duration": 491
+		},
+		{
+			"name": "Hyrule Field Theme [Remix] | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=uLvsD5t6fkw",
+			"duration": 244,
+			"id": "uLvsD5t6fkw"
+		},
+		{
+			"name": "Sonic Adventure 2 battle: It Doesn't Matter (Sonic's Theme)",
+			"url": "https://www.youtube.com/watch?v=n-yQ3VFVwfE",
+			"duration": 269,
+			"id": "n-yQ3VFVwfE"
+		},
+		{
+			"name": "Riders Of The Light | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=KnbjjR5NRpE",
+			"duration": 143,
+			"id": "KnbjjR5NRpE"
+		},
+		{
+			"name": "Dual Destinies OST: 1-37 Mood Matrix ~ Commence the Psychological Analysis!",
+			"url": "https://www.youtube.com/watch?v=YPB7izLB8LY",
+			"duration": 135,
+			"id": "YPB7izLB8LY"
+		},
+		{
+			"name": "PanterA - The Great Southern Trendkill",
+			"url": "https://www.youtube.com/watch?v=Y4pOIndfTzI",
+			"duration": 227,
+			"id": "Y4pOIndfTzI"
+		},
+		{
+			"name": "Pokemon Sword & Shield - Oleana Battle Music (HQ)",
+			"url": "https://www.youtube.com/watch?v=NAzT4LA7HVc",
+			"duration": 299.981,
+			"id": "NAzT4LA7HVc"
+		},
+		{
+			"name": "Professor Layton & the Unwound Future  - London 3 (Live Version)",
+			"url": "https://www.youtube.com/watch?v=Gusmpt5DTlk",
+			"duration": 194,
+			"id": "Gusmpt5DTlk"
+		},
+		{
+			"name": "Sonic CD US OST - Quartz Quadrant (Bad Future)",
+			"url": "https://www.youtube.com/watch?v=hIcdKvIJ5Xk",
+			"duration": 64,
+			"id": "hIcdKvIJ5Xk"
+		},
+		{
+			"name": "DOOM 2016 Soundtrack - Theme 13",
+			"url": "https://www.youtube.com/watch?v=Q6qZNxRWBeU",
+			"duration": 53
+		},
+		{
+			"name": "Sonic Adventure DX OST - Windy & Ripply",
+			"url": "https://www.youtube.com/watch?v=QZ3LibG2JwM",
+			"duration": 187,
+			"id": "QZ3LibG2JwM"
+		},
+		{
+			"name": "Gyakuten Kenji 2 OST ~ 33 - The Forgotten Turnabout",
+			"url": "https://www.youtube.com/watch?v=X19QwtQ9Puc",
+			"duration": 58,
+			"id": "X19QwtQ9Puc"
+		},
+		{
+			"name": "Ikachan - Quake",
+			"url": "https://www.youtube.com/watch?v=pxrb8DtqG90",
+			"duration": 54,
+			"id": "pxrb8DtqG90"
+		},
+		{
+			"name": "Final Doom (PSX) Music - Track 03 (Canyon)",
+			"url": "https://www.youtube.com/watch?v=XmzpGFpEnog",
+			"duration": 419
+		},
+		{
+			"name": "Persona 5 - With the Stars and Us [Eurobeat Remix]",
+			"url": "https://www.youtube.com/watch?v=w8tPogrCh80",
+			"duration": 357,
+			"id": "w8tPogrCh80"
+		},
+		{
+			"name": "Apollo Justice: Ace Attorney: Soundtrack - Lamiroir ~ Landscape Painter in Sound",
+			"url": "https://www.youtube.com/watch?v=m5L-2IJPrq4",
+			"duration": 164,
+			"id": "m5L-2IJPrq4"
+		},
+		{
+			"name": "megalovania using sans voice",
+			"url": "https://www.youtube.com/watch?v=bM6x92so2Ek",
+			"duration": 243,
+			"id": "bM6x92so2Ek"
+		},
+		{
+			"name": "Seaside Hill (Classic) - Sonic Generations [OST]",
+			"url": "https://www.youtube.com/watch?v=sTekeCL5jYU",
+			"duration": 155,
+			"id": "sTekeCL5jYU"
+		},
+		{
+			"name": "DANGANRONPA OST: -2-06- BOX 16",
+			"url": "https://www.youtube.com/watch?v=p4z_RMGB414",
+			"duration": 332
+		},
+		{
+			"name": "Dual Destinies OST: 1-10 Suspense 2013",
+			"url": "https://www.youtube.com/watch?v=GydOOvAbNOM",
+			"duration": 88,
+			"id": "GydOOvAbNOM"
+		},
+		{
+			"name": "Best VGM 423 - Journey to Silius - Stage 2 (Underground Concourse)",
+			"url": "https://www.youtube.com/watch?v=F6sjYt6EJVw",
+			"duration": 223.632,
+			"id": "F6sjYt6EJVw"
+		},
+		{
+			"name": "Battle for the Glory - DRAGON QUEST IV | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=7qFXbXNjirk",
+			"duration": 143,
+			"id": "7qFXbXNjirk"
+		},
+		{
+			"name": "\\u3010\\u6b4c\\u3063\\u3066\\u307f\\u305f\\u3011chase\\u3010taiga\\u3011",
+			"url": "https://www.youtube.com/watch?v=qr73XbBFDA8",
+			"duration": 147,
+			"id": "qr73XbBFDA8"
+		},
+		{
+			"name": "The Working Matador - FATAL FURY 2 | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=h7zceLAXMSE",
+			"duration": 135,
+			"id": "h7zceLAXMSE"
+		},
+		{
+			"name": "SDR2 OST: -3-12- Setting Sail -departure- (Short Version)",
+			"url": "https://www.youtube.com/watch?v=HkGSZtd08Mo",
+			"duration": 148
+		},
+		{
+			"name": "Fortress Boss - Super Mario World | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=7aJ7Yq6kJ74",
+			"duration": 256,
+			"id": "7aJ7Yq6kJ74"
+		},
+		{
+			"name": "Pokemon- Mystery Dungeon Explorers of Sky- It Cant Be- Music",
+			"url": "https://www.youtube.com/watch?v=9zaERUdyW1k",
+			"duration": 82,
+			"id": "9zaERUdyW1k"
+		},
+		{
+			"name": "Cross-Examination ~ Allegro - Professor Layton vs. Phoenix Wright: Ace Attorney",
+			"url": "https://www.youtube.com/watch?v=1creoO6ESmE",
+			"duration": 61,
+			"id": "1creoO6ESmE"
+		},
+		{
+			"name": "Kaard's Last Stand - Deltarune Fanmade Battle Theme",
+			"url": "https://www.youtube.com/watch?v=5UhaEIbKPwU",
+			"duration": 252,
+			"id": "5UhaEIbKPwU"
+		},
+		{
+			"name": "DOOM 2016 Soundtrack - Hellguard",
+			"url": "https://www.youtube.com/watch?v=lwu5Dtz3djk",
+			"duration": 273
+		},
+		{
+			"name": "24 | The Wind Across Russia (Dai Gyakuten Saiban Soundtrack)",
+			"url": "https://www.youtube.com/watch?v=gsyPj3xnruk",
+			"duration": 127,
+			"id": "gsyPj3xnruk"
+		},
+		{
+			"name": "CROWNED | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=2jDLVHZ3gaE",
+			"duration": 295,
+			"id": "2jDLVHZ3gaE"
+		},
+		{
+			"name": "DOOM 2016 Soundtrack - Theme 10",
+			"url": "https://www.youtube.com/watch?v=7qtKYq5zR6M",
+			"duration": 119
+		},
+		{
+			"name": "Check Mii Out Channel - Contest Winner Parade (Wii Rip)",
+			"url": "https://www.youtube.com/watch?v=niYofX-jD_c",
+			"duration": 46,
+			"id": "niYofX-jD_c"
+		},
+		{
+			"name": "Speed Highway (Modern) - Sonic Generations [OST]",
+			"url": "https://www.youtube.com/watch?v=Ls-6SYqq-Zo",
+			"duration": 221,
+			"id": "Ls-6SYqq-Zo"
+		},
+		{
+			"name": "DOOM 2016 Soundtrack - Theme 23",
+			"url": "https://www.youtube.com/watch?v=49BAHoxjcnY",
+			"duration": 154
+		},
+		{
+			"name": "PW:AA OST: 25 - Won the Lawsuit! ~ The First Success",
+			"url": "https://www.youtube.com/watch?v=tyqAgewtlT0",
+			"duration": 113,
+			"id": "tyqAgewtlT0"
+		},
+		{
+			"name": "DANGANRONPA OST: -1-04- Beautiful Days",
+			"url": "https://www.youtube.com/watch?v=m5K9CIf-XoQ",
+			"duration": 243
+		},
+		{
+			"name": "Doom (PSX) Music - Track13",
+			"url": "https://www.youtube.com/watch?v=Y6EpmID8GSQ",
+			"duration": 322
+		},
+		{
+			"name": "Main Theme - Banjo-Kazooie | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=QYmxDhh8QWY",
+			"duration": 325,
+			"id": "QYmxDhh8QWY"
+		},
+		{
+			"name": "Jaguar Doom Music - 10 - At Doom's Gate",
+			"url": "https://www.youtube.com/watch?v=rsM0c192PUs",
+			"duration": 103
+		},
+		{
+			"name": "Mission Mode - Pikmin 3 | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=zJEAQGnnO_M",
+			"duration": 217,
+			"id": "zJEAQGnnO_M"
+		},
+		{
+			"name": "Tennis (Training) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=zjldQO_Bv_Q",
+			"duration": 202,
+			"id": "zjldQO_Bv_Q"
+		},
+		{
+			"name": "Coliseum Series Medley | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=ACbUwGz2afo",
+			"duration": 252,
+			"id": "ACbUwGz2afo"
+		},
+		{
+			"name": "Apollo Justice: Ace Attorney: Soundtrack - Kitaki Family",
+			"url": "https://www.youtube.com/watch?v=4Tnc50uX2e4",
+			"duration": 128,
+			"id": "4Tnc50uX2e4"
+		},
+		{
+			"name": "Bubbly Clouds | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=3M-u62CltDE",
+			"duration": 83,
+			"id": "3M-u62CltDE"
+		},
+		{
+			"name": "Doom II OST - Map 02,11,17 - The Healer Stalks",
+			"url": "https://www.youtube.com/watch?v=44lhqrsUTlo",
+			"duration": 289
+		},
+		{
+			"name": "PW:AA OST: 21 - The Steel Samurai",
+			"url": "https://www.youtube.com/watch?v=YeAIC8nit5s",
+			"duration": 121,
+			"id": "YeAIC8nit5s"
+		},
+		{
+			"name": "Team Fortress 2 Soundtrack | Rocket Jump Waltz",
+			"url": "https://www.youtube.com/watch?v=kbdtBLD8Lbg",
+			"duration": 39.821,
+			"id": "kbdtBLD8Lbg"
+		},
+		{
+			"name": "DR:AE OST Disc 3 - 05 Sho's Fever Time",
+			"url": "https://www.youtube.com/watch?v=ohIzDXoRLlM",
+			"duration": 169
+		},
+		{
+			"name": "Tostarena: Town - Super Mario Odyssey [OST]",
+			"url": "https://www.youtube.com/watch?v=71pjLCs2JLM",
+			"duration": 98,
+			"id": "71pjLCs2JLM"
+		},
+		{
+			"name": "A Pleasant Afternoon - Professor Layton vs. Phoenix Wright: Ace Attorney",
+			"url": "https://www.youtube.com/watch?v=9z9C1cmB9rI",
+			"duration": 135,
+			"id": "9z9C1cmB9rI"
+		},
+		{
+			"name": "F-Zero GX [OST] - Phoenix's Theme",
+			"url": "https://www.youtube.com/watch?v=eMmrQzlLpn4",
+			"duration": 139,
+			"id": "eMmrQzlLpn4"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. White - 37. Mr. Monokuma's Lesson V3",
+			"url": "https://www.youtube.com/watch?v=hbHe3BGP4l0",
+			"duration": 214
+		},
+		{
+			"name": "Megalovania but the beginning is bad",
+			"url": "https://www.youtube.com/watch?v=qrIc0YaYtnY",
+			"duration": 16,
+			"id": "qrIc0YaYtnY"
+		},
+		{
+			"name": "Doom 3 Music- Background Setup",
+			"url": "https://www.youtube.com/watch?v=ext33Zruagc",
+			"duration": 56
+		},
+		{
+			"name": "Team Rocket Battle - Pok\\u00e9mon Gold/Silver/Crystal",
+			"url": "https://www.youtube.com/watch?v=46LXLha2FEY",
+			"duration": 129,
+			"id": "46LXLha2FEY"
+		},
+		{
+			"name": "PW:AA OST: 17 - Reminiscence ~ True Evening of Grief",
+			"url": "https://www.youtube.com/watch?v=04jwqpDEOXs",
+			"duration": 154,
+			"id": "04jwqpDEOXs"
+		},
+		{
+			"name": "Team Fortress 2 Soundtrack | Rocket Jump Waltz",
+			"url": "https://www.youtube.com/watch?v=kbdtBLD8Lbg",
+			"duration": 39.821,
+			"id": "kbdtBLD8Lbg"
+		},
+		{
+			"name": "Doom 3DO Soundtrack - Map 3 - Dark Halls",
+			"url": "https://www.youtube.com/watch?v=kKF3QBpVKTQ",
+			"duration": 172
+		},
+		{
+			"name": "DR:AE OST Disc 3 - 02 The Forbidden Playhouse",
+			"url": "https://www.youtube.com/watch?v=L40-v4aPhLQ",
+			"duration": 184
+		},
+		{
+			"name": "Dual Destinies OST: 2-24 \"Pirate Show Song\" ~ The Writer Who Snatches Away the Truth",
+			"url": "https://www.youtube.com/watch?v=tduTRiou7Lc",
+			"duration": 39,
+			"id": "tduTRiou7Lc"
+		},
+		{
+			"name": "its a joke (Jevil, Marx, Dimentio, Joka mashup)",
+			"url": "https://www.youtube.com/watch?v=YYeq67UW5wo",
+			"duration": 262.781,
+			"id": "YYeq67UW5wo"
+		},
+		{
+			"name": "Tournament | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=xO5m0Lriuvk",
+			"duration": 68,
+			"id": "xO5m0Lriuvk"
+		},
+		{
+			"name": "[1-01] Cave Story (Main Theme) - Cave Story Remastered Soundtrack",
+			"url": "https://www.youtube.com/watch?v=bq7v8CiP09c",
+			"duration": 281,
+			"id": "bq7v8CiP09c"
+		},
+		{
+			"name": "Suspense - Professor Layton vs. Phoenix Wright: Ace Attorney",
+			"url": "https://www.youtube.com/watch?v=ofVMdUFXei0",
+			"duration": 163,
+			"id": "ofVMdUFXei0"
+		},
+		{
+			"name": "MEGALOVANIA BUT I SLEEP",
+			"url": "https://www.youtube.com/watch?v=fWy_VWh_gt4",
+			"duration": 286,
+			"id": "fWy_VWh_gt4"
+		},
+		{
+			"name": "35 | Prologue - The Accompanying Songs of the Story (Dai Gyakuten Saiban Soundtrack)",
+			"url": "https://www.youtube.com/watch?v=xS141-leIUQ",
+			"duration": 164,
+			"id": "xS141-leIUQ"
+		},
+		{
+			"name": "Esaka Continues... - KOF XIII | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=zKczGjzWjfI",
+			"duration": 187,
+			"id": "zKczGjzWjfI"
+		},
+		{
+			"name": "C418 - Blind Spots (Minecraft Volume Beta)",
+			"url": "https://www.youtube.com/watch?v=77Fv8gtZyuA",
+			"duration": 332,
+			"id": "77Fv8gtZyuA"
+		},
+		{
+			"name": "SDR2 OST: -3-14- Hope's Breaking Noise",
+			"url": "https://www.youtube.com/watch?v=DLIBuXMYH9g",
+			"duration": 15
+		},
+		{
+			"name": "MGS4 ~Theme of Love~ | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=xFOjWVjGvuw",
+			"duration": 234,
+			"id": "xFOjWVjGvuw"
+		},
+		{
+			"name": "K.K. Cruisin' | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=5rFKzBuBFdA",
+			"duration": 288,
+			"id": "5rFKzBuBFdA"
+		},
+		{
+			"name": "Banquet of Nature - SAMURAI SHODOWN | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=XqQdWzlxehE",
+			"duration": 353,
+			"id": "XqQdWzlxehE"
+		},
+		{
+			"name": "My World - Sonic Heroes [OST]",
+			"url": "https://www.youtube.com/watch?v=KZIONvfgtyM",
+			"duration": 82,
+			"id": "KZIONvfgtyM"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. Black - 46. School Ordeal",
+			"url": "https://www.youtube.com/watch?v=9cmB-IEypeA",
+			"duration": 281
+		},
+		{
+			"name": "Magicant | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=G0zCGBc98CU",
+			"duration": 284,
+			"id": "G0zCGBc98CU"
+		},
+		{
+			"name": "63 | Won The Case - The Great Turnabout For My Friend (Dai Gyakuten Saiban Soundtrack)",
+			"url": "https://www.youtube.com/watch?v=PD4nmCGa60M",
+			"duration": 156,
+			"id": "PD4nmCGa60M"
+		},
+		{
+			"name": "Area 6 Ver. 2 - Star Fox 64 | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=fO3D99fiT9E",
+			"duration": 199,
+			"id": "fO3D99fiT9E"
+		},
+		{
+			"name": "Soy Sauce for Geese - FATAL FURY SPECIAL | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=Sv3lXDnfds8",
+			"duration": 165,
+			"id": "Sv3lXDnfds8"
+		},
+		{
+			"name": "DR:AE OST Disc 1 - 04 Wonderful Dead 001",
+			"url": "https://www.youtube.com/watch?v=lINRG9YmtDA",
+			"duration": 286
+		},
+		{
+			"name": "Descent OST - Level 7 (AWE32)",
+			"url": "https://www.youtube.com/watch?v=mISK9fF_JLQ",
+			"duration": 178,
+			"id": "mISK9fF_JLQ"
+		},
+		{
+			"name": "Egg Emperor - Sonic Heroes [OST]",
+			"url": "https://www.youtube.com/watch?v=NaieqbRA8gE",
+			"duration": 87,
+			"id": "NaieqbRA8gE"
+		},
+		{
+			"name": "Ground Theme - Super Mario 3D Land | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=DcSLf-Zqhoo",
+			"duration": 111,
+			"id": "DcSLf-Zqhoo"
+		},
+		{
+			"name": "Cave Story OST - T01: Access",
+			"url": "https://www.youtube.com/watch?v=U0H9GUGAtKs",
+			"duration": 46,
+			"id": "U0H9GUGAtKs"
+		},
+		{
+			"name": "THE VIRTUAL WORLD REVOLVING - Sheltarune",
+			"url": "https://www.youtube.com/watch?v=8ZGAIDdf0GU",
+			"duration": 204,
+			"id": "8ZGAIDdf0GU"
+		},
+		{
+			"name": "Pokemon UltraSun & UltraMoon - Rocket Boss Giovanni Battle Music (HQ)",
+			"url": "https://www.youtube.com/watch?v=Q6Mt_uxnYRA",
+			"duration": 300,
+			"id": "Q6Mt_uxnYRA"
+		},
+		{
+			"name": "Opening/Menu - Metroid Prime | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=ura4oVgHUXo",
+			"duration": 375.741,
+			"id": "ura4oVgHUXo"
+		},
+		{
+			"name": "Chemical Plant Zone Act 2 - Sonic Mania [OST]",
+			"url": "https://www.youtube.com/watch?v=YO5n6FUcwDA",
+			"duration": 254.481,
+			"id": "YO5n6FUcwDA"
+		},
+		{
+			"name": "SDR2 OST: -3-04- From Me To You",
+			"url": "https://www.youtube.com/watch?v=_8FKn9ucgjU",
+			"duration": 134
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. Black - 52. Trial END",
+			"url": "https://www.youtube.com/watch?v=rbtLiizV9ic",
+			"duration": 316
+		},
+		{
+			"name": "SDR2 OST: -3-13- GAME START",
+			"url": "https://www.youtube.com/watch?v=7MrSDLV03sU",
+			"duration": 14
+		},
+		{
+			"name": "Kurain Village 2016 - Ace Attorney 6: Spirit Of Justice OST",
+			"url": "https://www.youtube.com/watch?v=KDziIn7UdDM",
+			"duration": 110,
+			"id": "KDziIn7UdDM"
+		},
+		{
+			"name": "Champion Cynthia Battle - Pok\\u00e9mon Diamond/Pearl/Platinum",
+			"url": "https://www.youtube.com/watch?v=DvlHaZIrndA",
+			"duration": 182,
+			"id": "DvlHaZIrndA"
+		},
+		{
+			"name": "Jet Grind Radio Soundtrack - Let Mom Sleep",
+			"url": "https://www.youtube.com/watch?v=m2680ciixQc",
+			"duration": 171,
+			"id": "m2680ciixQc"
+		},
+		{
+			"name": "Trophy Shop | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=mI5M2hh3fnM",
+			"duration": 98,
+			"id": "mI5M2hh3fnM"
+		},
+		{
+			"name": "Doom OST - E2M1 - I Sawed the Demons",
+			"url": "https://www.youtube.com/watch?v=NlWDSvNSzlA",
+			"duration": 156
+		},
+		{
+			"name": "Ice Climber (Melee) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=PXMFJfWR6dA",
+			"duration": 213,
+			"id": "PXMFJfWR6dA"
+		},
+		{
+			"name": "Gyakuten Kenji 2 OST: 15 - Hakari Mikagami ~ Goddess of Law",
+			"url": "https://www.youtube.com/watch?v=J0AByfS8E-0",
+			"duration": 168,
+			"id": "J0AByfS8E-0"
+		},
+		{
+			"name": "Oil Ocean Zone Act 1 - Sonic Mania [OST]",
+			"url": "https://www.youtube.com/watch?v=TH0VN3Nixwg",
+			"duration": 193.741,
+			"id": "TH0VN3Nixwg"
+		},
+		{
+			"name": "In-Flight - Professor Layton vs. Phoenix Wright: Ace Attorney",
+			"url": "https://www.youtube.com/watch?v=6yGubtXKPuk",
+			"duration": 177,
+			"id": "6yGubtXKPuk"
+		},
+		{
+			"name": "The world revolving but beats 1 and 2 are swapped with beats 3 and 4",
+			"url": "https://www.youtube.com/watch?v=wGbQGyPei9E",
+			"duration": 101.121,
+			"id": "wGbQGyPei9E"
+		},
+		{
+			"name": "Ryu Stage | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=xicUBeISLZE",
+			"duration": 314,
+			"id": "xicUBeISLZE"
+		},
+		{
+			"name": "F-Zero GX [OST] - Octoman's Theme",
+			"url": "https://www.youtube.com/watch?v=nZ32Cu9voxk",
+			"duration": 90.101,
+			"id": "nZ32Cu9voxk"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. Black - 14. V3 Discussion -HEAT UP-",
+			"url": "https://www.youtube.com/watch?v=qsb_D7YW4uU",
+			"duration": 301
+		},
+		{
+			"name": "The World Revolving but every 5 seconds it plays a different style [2]",
+			"url": "https://www.youtube.com/watch?v=Zpr5SsbSCfs",
+			"duration": 136.001,
+			"id": "Zpr5SsbSCfs"
+		},
+		{
+			"name": "Pokemon- Mystery Dungeon Explorers of Sky- Thoughts For Friends- Music",
+			"url": "https://www.youtube.com/watch?v=Ec7NM_AFTJo",
+			"duration": 67,
+			"id": "Ec7NM_AFTJo"
+		},
+		{
+			"name": "Windy Hill - Zone 1 | Super Smash Bros  Ultimate",
+			"url": "https://www.youtube.com/watch?v=NkVqFRKAmjo",
+			"duration": 299,
+			"id": "NkVqFRKAmjo"
+		},
+		{
+			"name": "Persona 5 Royal OST 27 - Ideal and the Real -end version-",
+			"url": "https://www.youtube.com/watch?v=JFD2EZyq8G0",
+			"duration": 437,
+			"id": "JFD2EZyq8G0"
+		},
+		{
+			"name": "Those Who Stand Against Our Path - Xenoblade Chronicles 2 | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=HgFguYYzdL4",
+			"duration": 219,
+			"id": "HgFguYYzdL4"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. White - 21. Darkness Time",
+			"url": "https://www.youtube.com/watch?v=qo2s7WCdH8g",
+			"duration": 255
+		},
+		{
+			"name": "Apollo Justice: Ace Attorney: Soundtrack - Cross Examination ~ Moderate 2007",
+			"url": "https://www.youtube.com/watch?v=D4ragdexomw",
+			"duration": 80,
+			"id": "D4ragdexomw"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. Black - 20. V3 Discussion - PERJURY-",
+			"url": "https://www.youtube.com/watch?v=pApUmbDYSi0",
+			"duration": 175
+		},
+		{
+			"name": "Dual Destinies OST: 2-22 Cap'n Orla's Swashbucklers ~ Adventures Across the Seven Seas",
+			"url": "https://www.youtube.com/watch?v=Gp4Mz_XW_uQ",
+			"duration": 168,
+			"id": "Gp4Mz_XW_uQ"
+		},
+		{
+			"name": "Pokemon Sun & Moon - Aether Foundation Employee Battle Music (HQ)",
+			"url": "https://www.youtube.com/watch?v=JcSiaBnXdUs",
+			"duration": 301,
+			"id": "JcSiaBnXdUs"
+		},
+		{
+			"name": "Route 104 - Pok\\u00e9mon Ruby/Sapphire/Emerald",
+			"url": "https://www.youtube.com/watch?v=gSv_uvf3I0Q",
+			"duration": 94,
+			"id": "gSv_uvf3I0Q"
+		},
+		{
+			"name": "Cammy Stage Type A (Finale) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=tbmKmYfJKlQ",
+			"duration": 72,
+			"id": "tbmKmYfJKlQ"
+		},
+		{
+			"name": "Psycho Soldier Theme | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=x4-0aU4us_w",
+			"duration": 362,
+			"id": "x4-0aU4us_w"
+		},
+		{
+			"name": "Honeylune Ridge: Wedding Hall - Super Mario Odyssey [OST]",
+			"url": "https://www.youtube.com/watch?v=0KsdQeFmbfY",
+			"duration": 118,
+			"id": "0KsdQeFmbfY"
+		},
+		{
+			"name": "Light Plane (for 3DS / Wii U) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=QoWnp_0vXTI",
+			"duration": 247,
+			"id": "QoWnp_0vXTI"
+		},
+		{
+			"name": "Team Fortress 2 Soundtrack | Rocket Jump Waltz",
+			"url": "https://www.youtube.com/watch?v=kbdtBLD8Lbg",
+			"duration": 39.821,
+			"id": "kbdtBLD8Lbg"
+		},
+		{
+			"name": "F-Zero GX [OST] - ZEN (Aeropolis)",
+			"url": "https://www.youtube.com/watch?v=De7XH0sVcbg",
+			"duration": 229,
+			"id": "De7XH0sVcbg"
+		},
+		{
+			"name": "Gusty Garden Galaxy | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=Ati9zmHO2jA",
+			"duration": 238,
+			"id": "Ati9zmHO2jA"
+		},
+		{
+			"name": "SDR2 OST: -2-28- Re_ Climactic Return",
+			"url": "https://www.youtube.com/watch?v=iTPdehG3xro",
+			"duration": 131
+		},
+		{
+			"name": "Theme of Circus Park (from Shadow the Hedgehog)",
+			"url": "https://www.youtube.com/watch?v=lDKEbzavNLY",
+			"duration": 189,
+			"id": "lDKEbzavNLY"
+		},
+		{
+			"name": "DANGANRONPA OST: -2-29- Present Get",
+			"url": "https://www.youtube.com/watch?v=hLB1kfP5tK4",
+			"duration": 7
+		},
+		{
+			"name": "Sonic 2 Jingles",
+			"url": "https://www.youtube.com/watch?v=Vr-nTZDzeRw",
+			"duration": 90.061,
+			"id": "Vr-nTZDzeRw"
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. Black - 02. V3Gallery Music",
+			"url": "https://www.youtube.com/watch?v=XtO7_7rDpQQ",
+			"duration": 100
+		},
+		{
+			"name": "Team Fortress 2 Soundtrack | Rocket Jump Waltz",
+			"url": "https://www.youtube.com/watch?v=kbdtBLD8Lbg",
+			"duration": 39.821,
+			"id": "kbdtBLD8Lbg"
+		},
+		{
+			"name": "Doom SNES Soundtrack - E1M5 - Suspense",
+			"url": "https://www.youtube.com/watch?v=_fSSwel2xxw",
+			"duration": 160
+		},
+		{
+			"name": "Zekrom & Reshiram Battle - Pok\\u00e9mon Black/White",
+			"url": "https://www.youtube.com/watch?v=tObYNbbAIw0",
+			"duration": 290,
+			"id": "tObYNbbAIw0"
+		},
+		{
+			"name": "PW:AA OST:24 - Reminiscence ~ Classroom Trial",
+			"url": "https://www.youtube.com/watch?v=TbBhubOvQso",
+			"duration": 73,
+			"id": "TbBhubOvQso"
+		},
+		{
+			"name": "Crash in the Dark Night | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=iCK3HiY33f8",
+			"duration": 117,
+			"id": "iCK3HiY33f8"
+		},
+		{
+			"name": "Guile Stage Type B | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=chfy3khBu5c",
+			"duration": 166,
+			"id": "chfy3khBu5c"
+		},
+		{
+			"name": "Doom II OST - Map 01,15 - Running from Evil",
+			"url": "https://www.youtube.com/watch?v=qURei6svd90",
+			"duration": 227
+		},
+		{
+			"name": "Sonic Adventure DX OST - Egg Hornet",
+			"url": "https://www.youtube.com/watch?v=KHUdGfXOL30",
+			"duration": 120,
+			"id": "KHUdGfXOL30"
+		},
+		{
+			"name": "Silence | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=zJQTp7WZ2pg",
+			"duration": 108,
+			"id": "zJQTp7WZ2pg"
+		},
+		{
+			"name": "Xerneas/Yveltal Battle - Pok\\u00e9mon X/Y",
+			"url": "https://www.youtube.com/watch?v=5U3qfV6coW8",
+			"duration": 196,
+			"id": "5U3qfV6coW8"
+		},
+		{
+			"name": "DELTARUNE - THE WORLD REVOLVING (Jevil's theme) [Future Bass Remix]",
+			"url": "https://www.youtube.com/watch?v=btir1laik1U",
+			"duration": 204,
+			"id": "btir1laik1U"
+		},
+		{
+			"name": "Minecraft Volume Alpha - 20 - Dog",
+			"url": "https://www.youtube.com/watch?v=p02Ww4YrsiM",
+			"duration": 146,
+			"id": "p02Ww4YrsiM"
+		},
+		{
+			"name": "SDR2 OST: -2-02- Momomomonokuma!",
+			"url": "https://www.youtube.com/watch?v=MRDZPZXiB04",
+			"duration": 17
+		},
+		{
+			"name": "megalovania but beats 2 and 4 are reversed",
+			"url": "https://www.youtube.com/watch?v=mRTFdwIXF6k",
+			"duration": 157,
+			"id": "mRTFdwIXF6k"
+		},
+		{
+			"name": "DANGANRONPA OST: -2-03- Mr. Monokuma's Lesson",
+			"url": "https://www.youtube.com/watch?v=ELfxtdEakhk",
+			"duration": 225
+		},
+		{
+			"name": "Doom (32X) Music - Hidden Music 1 - Title Screen",
+			"url": "https://www.youtube.com/watch?v=t4cqzvA9BZQ",
+			"duration": 7
+		},
+		{
+			"name": "Pokemon Omega Ruby/Alpha Sapphire - Battle! Lugia Music (HQ)",
+			"url": "https://www.youtube.com/watch?v=75xW5bIY2nM",
+			"duration": 180.141,
+			"id": "75xW5bIY2nM"
+		},
+		{
+			"name": "Struggle Against Chaos | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=q4544KlRadg",
+			"duration": 252,
+			"id": "q4544KlRadg"
+		},
+		{
+			"name": "Ending - Metroid | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=VXSHxRvZJjY",
+			"duration": 285,
+			"id": "VXSHxRvZJjY"
+		},
+		{
+			"name": "Hoenn Champion Battle - Pok\\u00e9mon Black2/White2",
+			"url": "https://www.youtube.com/watch?v=kszvCOr5Hoc",
+			"duration": 146,
+			"id": "kszvCOr5Hoc"
+		},
+		{
+			"name": "Main Menu - Sonic Mania [OST]",
+			"url": "https://www.youtube.com/watch?v=f4CBQ9nnQSY",
+			"duration": 143,
+			"id": "f4CBQ9nnQSY"
+		},
+		{
+			"name": "Sonic 3 And Knuckles OST - S&K Knuckles",
+			"url": "https://www.youtube.com/watch?v=xRjtEralxoc",
+			"duration": 40,
+			"id": "xRjtEralxoc"
+		},
+		{
+			"name": "JAPANLOVANIA",
+			"url": "https://www.youtube.com/watch?v=ibd80uKiCZs",
+			"duration": 168.981,
+			"id": "ibd80uKiCZs"
+		},
+		{
+			"name": "The Legend of Zelda Medley | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=Ck-V6hRxLlk",
+			"duration": 249,
+			"id": "Ck-V6hRxLlk"
+		},
+		{
+			"name": "DOOM Soundtrack -  Sign of Evil  (PC)",
+			"url": "https://www.youtube.com/watch?v=4Rs-m91AJgw",
+			"duration": 157
+		},
+		{
+			"name": "Pokemon- Mystery Dungeon Explorers of Sky- Team Skull- Music",
+			"url": "https://www.youtube.com/watch?v=9jYfOnPOM0k",
+			"duration": 103,
+			"id": "9jYfOnPOM0k"
+		},
+		{
+			"name": "Lysandre Battle - Pok\\u00e9mon X/Y",
+			"url": "https://www.youtube.com/watch?v=ggIMVwtYbeQ",
+			"duration": 197,
+			"id": "ggIMVwtYbeQ"
+		},
+		{
+			"name": "Cave Story 3D OST - Plantation",
+			"url": "https://www.youtube.com/watch?v=pRPijoprLU4",
+			"duration": 275,
+			"id": "pRPijoprLU4"
+		},
+		{
+			"name": "Gritzy Desert | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=lqN-U205AA8",
+			"duration": 190,
+			"id": "lqN-U205AA8"
+		},
+		{
+			"name": "Waluigi Pinball - Mario Kart DS | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=x3dCN7OvJ_Y",
+			"duration": 169,
+			"id": "x3dCN7OvJ_Y"
+		},
+		{
+			"name": "SDR2 OST: -3-37- Chapter 05 - Title (Part B)",
+			"url": "https://www.youtube.com/watch?v=6hpHRrVp4Uc",
+			"duration": 11
+		},
+		{
+			"name": "DOOM 2016 Soundtrack - SnapMap",
+			"url": "https://www.youtube.com/watch?v=kPvy6VQ52yg",
+			"duration": 215
+		},
+		{
+			"name": "Main Theme - Yoshi's New Island [Remix] | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=Fl-AanDi20w",
+			"duration": 318,
+			"id": "Fl-AanDi20w"
+		},
+		{
+			"name": "Sonic The Hedgehog OST - Labyrinth Zone",
+			"url": "https://www.youtube.com/watch?v=JlY8Di_Pb4U",
+			"duration": 116,
+			"id": "JlY8Di_Pb4U"
+		},
+		{
+			"name": "Attack - Fire Emblem | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=4vS5nY-3-_E",
+			"duration": 234,
+			"id": "4vS5nY-3-_E"
+		},
+		{
+			"name": "Dream Chaser | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=Kjm6_5mCFKk",
+			"duration": 147,
+			"id": "Kjm6_5mCFKk"
+		},
+		{
+			"name": "DOOM (PSX) - Music - Track08",
+			"url": "https://www.youtube.com/watch?v=VtdzdBlM6L4",
+			"duration": 463
+		},
+		{
+			"name": "THE WORLD REVOLVING BUT THE MUSIC IS REVOLVING TOO",
+			"url": "https://www.youtube.com/watch?v=qsv27fPT9IM",
+			"duration": 89,
+			"id": "qsv27fPT9IM"
+		},
+		{
+			"name": "Pokemon- Mystery Dungeon Explorers of Sky- Through The Sea Of Time- Music",
+			"url": "https://www.youtube.com/watch?v=8aTOaRB_XX4",
+			"duration": 109,
+			"id": "8aTOaRB_XX4"
+		},
+		{
+			"name": "21 Savage - a lot ft. J. Cole",
+			"url": "https://www.youtube.com/watch?v=DmWWqogr_r8",
+			"duration": 392,
+			"id": "DmWWqogr_r8"
+		},
+		{
+			"name": "DR:AE OST Disc 1 - 13 Under Attack",
+			"url": "https://www.youtube.com/watch?v=0spCQR9vyLk",
+			"duration": 28
+		},
+		{
+			"name": "Doom (PSX) Music - Track16",
+			"url": "https://www.youtube.com/watch?v=nBRcRZaco8w",
+			"duration": 187
+		},
+		{
+			"name": "Fate/stay night: [Unlimited Blade Works] OST II - #23 Music for Promotion Video",
+			"url": "https://www.youtube.com/watch?v=WEdZgah7RGs",
+			"duration": 146.741,
+			"id": "WEdZgah7RGs"
+		},
+		{
+			"name": "Doom 3DO Soundtrack - Map 11 - Untitled",
+			"url": "https://www.youtube.com/watch?v=6um9uGfIKjI",
+			"duration": 100
+		},
+		{
+			"name": "Lava Reef Zone (Act 2) - Sonic & Knuckles [OST]",
+			"url": "https://www.youtube.com/watch?v=9zfRD3JyW90",
+			"duration": 98,
+			"id": "9zfRD3JyW90"
+		},
+		{
+			"name": "Jet Grind Radio Soundtrack - Yappie Feet",
+			"url": "https://www.youtube.com/watch?v=2B6fd2mia6E",
+			"duration": 314.12,
+			"id": "2B6fd2mia6E"
+		},
+		{
+			"name": "[1-10] Gravity - Cave Story Remastered Soundtrack",
+			"url": "https://www.youtube.com/watch?v=iIbcL55IZ9U",
+			"duration": 152,
+			"id": "iIbcL55IZ9U"
+		},
+		{
+			"name": "C418 - Beginning 2 (Minecraft Volume Beta)",
+			"url": "https://www.youtube.com/watch?v=2vRBjHY7ReE",
+			"duration": 175,
+			"id": "2vRBjHY7ReE"
+		},
+		{
+			"name": "Cave Story 3D OST - White",
+			"url": "https://www.youtube.com/watch?v=MvY81bENddQ",
+			"duration": 206,
+			"id": "MvY81bENddQ"
+		},
+		{
+			"name": "Undertale - Megalovania (Super Smash Bros. Fanmade )",
+			"url": "https://www.youtube.com/watch?v=YHKpwPqqR8o",
+			"duration": 309.421,
+			"id": "YHKpwPqqR8o"
+		},
+		{
+			"name": "Aquatic Ruin Zone Theme",
+			"url": "https://www.youtube.com/watch?v=6R_dllU0uCw",
+			"duration": 85,
+			"id": "6R_dllU0uCw"
+		},
+		{
+			"name": "Drowning - Sonic Generations [OST]",
+			"url": "https://www.youtube.com/watch?v=EZhvWILxTz8",
+			"duration": 17,
+			"id": "EZhvWILxTz8"
+		},
+		{
+			"name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"url": "https://www.youtube.com/watch?v=DAlrJxPhWCs",
+			"duration": 6,
+			"id": "DAlrJxPhWCs"
+		},
+		{
+			"name": "Ken Stage | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=db_7z5YqEA0",
+			"duration": 245,
+			"id": "db_7z5YqEA0"
+		},
+		{
+			"name": "Battle in the Base | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=0vYwm1VSjgQ",
+			"duration": 254,
+			"id": "0vYwm1VSjgQ"
+		},
+		{
+			"name": "50 | Natsume Souseki: I Am Innocent (Dai Gyakuten Saiban Soundtrack)",
+			"url": "https://www.youtube.com/watch?v=K1y3KbQw0PU",
+			"duration": 147,
+			"id": "K1y3KbQw0PU"
+		},
+		{
+			"name": "Doom OST - E1M9 - Hiding the Secrets",
+			"url": "https://www.youtube.com/watch?v=tEAYqiKFk9c",
+			"duration": 136
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. White - 05. The Monocubs Arrive",
+			"url": "https://www.youtube.com/watch?v=CE6ndnxPL94",
+			"duration": 28
+		},
+		{
+			"name": "Final Doom (PSX) Music - Track 07 (Geryon)",
+			"url": "https://www.youtube.com/watch?v=vZTKWqF7Nug",
+			"duration": 425
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. Black - 35. HYPER ULTRA FINAL T.A",
+			"url": "https://www.youtube.com/watch?v=cxem3T3-1Uc",
+			"duration": 165
+		},
+		{
+			"name": "Theme of Solid Snake | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=0YW1CwODjjI",
+			"duration": 289,
+			"id": "0YW1CwODjjI"
+		},
+		{
+			"name": "Knight of the Wind | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=9qJD0P8TBLU",
+			"duration": 267,
+			"id": "9qJD0P8TBLU"
+		},
+		{
+			"name": "human nature - michael jackson",
+			"url": "https://www.youtube.com/watch?v=tKAh--ss1r0",
+			"duration": 246,
+			"id": "tKAh--ss1r0"
+		},
+		{
+			"name": "Coin Launcher | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=AMtHWCK0WgE",
+			"duration": 113,
+			"id": "AMtHWCK0WgE"
+		},
+		{
+			"name": "Dai Gyakuten Saiban 2 OST | 47 The Great Secret Trial | Beta Version 1",
+			"url": "https://www.youtube.com/watch?v=2j376554JyQ",
+			"duration": 162,
+			"id": "2j376554JyQ"
+		},
+		{
+			"name": "Cave Story OST - T02: Gestation (First Cave)",
+			"url": "https://www.youtube.com/watch?v=8WEC5AGw820",
+			"duration": 158,
+			"id": "8WEC5AGw820"
+		},
+		{
+			"name": "DR:AE OST Disc 1 - 19 Business Trip Version Punishment ~Parachute Landing Episode",
+			"url": "https://www.youtube.com/watch?v=73LGa3MQ0mM",
+			"duration": 45
+		},
+		{
+			"name": "DOOM 2016 Soundtrack - Theme 29",
+			"url": "https://www.youtube.com/watch?v=SqnC2lctSdY",
+			"duration": 170
+		},
+		{
+			"name": "Doom SNES Soundtrack - E1M3 - Dark Halls",
+			"url": "https://www.youtube.com/watch?v=FIrzrBVrQv8",
+			"duration": 265
+		},
+		{
+			"name": "Megalovania (From \"Undertale\") Saxophone Game Cover",
+			"url": "https://www.youtube.com/watch?v=HM8kY3r8aIk",
+			"duration": 230,
+			"id": "HM8kY3r8aIk"
+		},
+		{
+			"name": "Cave Story 3D OST - Jenka 2",
+			"url": "https://www.youtube.com/watch?v=OWRP_BfjU7U",
+			"duration": 123,
+			"id": "OWRP_BfjU7U"
+		},
+		{
+			"name": "PLvsAA OST - 2-14 - Jeeken Barnrod ~ Labyrinth Knight",
+			"url": "https://www.youtube.com/watch?v=NMJRHdtgIHE",
+			"duration": 164,
+			"id": "NMJRHdtgIHE"
+		},
+		{
+			"name": "M. Bison Stage Type B | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=BCpleH9NfVI",
+			"duration": 159,
+			"id": "BCpleH9NfVI"
+		},
+		{
+			"name": "Pok\\u00e9mon Ranger - Encounter! Go Rock Squad",
+			"url": "https://www.youtube.com/watch?v=voNdHLMY8nY",
+			"duration": 68,
+			"id": "voNdHLMY8nY"
+		},
+		{
+			"name": "Trainer Battle Theme -Pokemon Lets Go Pikachu / Eevee",
+			"url": "https://www.youtube.com/watch?v=TEGLiB5Mf7g",
+			"duration": 267,
+			"id": "TEGLiB5Mf7g"
+		},
+		{
+			"name": "Megalovania \"but every other beat is missing\" - Anti-Nightcore Remix",
+			"url": "https://www.youtube.com/watch?v=MMBcvDQwSk8",
+			"duration": 105,
+			"id": "MMBcvDQwSk8"
+		},
+		{
+			"name": "DANGANRONPA OST: -1-12- Desire for Execution",
+			"url": "https://www.youtube.com/watch?v=FHlKfNSiM2c",
+			"duration": 221
+		},
+		{
+			"name": "Pokemon- Mystery Dungeon Explorers of Sky- Dark Hill- Music",
+			"url": "https://www.youtube.com/watch?v=0rQYLxWwB6A",
+			"duration": 136,
+			"id": "0rQYLxWwB6A"
+		},
+		{
+			"name": "Pokemon- Mystery Dungeon Explorers of Sky- Temporal Spire- Music",
+			"url": "https://www.youtube.com/watch?v=nu9t98K4AQM",
+			"duration": 261,
+			"id": "nu9t98K4AQM"
+		},
+		{
+			"name": "[Official] Celeste Original Soundtrack - 06 - Checking In",
+			"url": "https://www.youtube.com/watch?v=fOzvP1I5tLU",
+			"duration": 424.781,
+			"id": "fOzvP1I5tLU"
+		},
+		{
+			"name": "Deltarune - The World Revolving Around a Legend [Remix by NyxTheShield]",
+			"url": "https://www.youtube.com/watch?v=hmaQVGrmLfs",
+			"duration": 143.021,
+			"id": "hmaQVGrmLfs"
+		},
+		{
+			"name": "Sonic Adventure 2 Battle Music - Tails Vs Eggman 2",
+			"url": "https://www.youtube.com/watch?v=rupqST0dUzA",
+			"duration": 119,
+			"id": "rupqST0dUzA"
+		},
+		{
+			"name": "Pokemon- Mystery Dungeon Explorers of Sky- Defy The Legends- Music",
+			"url": "https://www.youtube.com/watch?v=VcBQ_vLbtw4",
+			"duration": 244,
+			"id": "VcBQ_vLbtw4"
+		},
+		{
+			"name": "Deltarune - The World Revolving (Super Mario RPG Remix)",
+			"url": "https://www.youtube.com/watch?v=A-IkZMynXus",
+			"duration": 202,
+			"id": "A-IkZMynXus"
+		},
+		{
+			"name": "F-Zero GX [OST] - 8 Guitars (Sand Ocean)",
+			"url": "https://www.youtube.com/watch?v=e8SGkUebkQU",
+			"duration": 168,
+			"id": "e8SGkUebkQU"
+		},
+		{
+			"name": "Cave Story OST - T10: Pulse",
+			"url": "https://www.youtube.com/watch?v=mK4v0XkNrVE",
+			"duration": 130,
+			"id": "mK4v0XkNrVE"
+		},
+		{
+			"name": "[Official] Celeste Original Soundtrack - 05 - Postcard from Celeste Mountain",
+			"url": "https://www.youtube.com/watch?v=V8qOjmWIPKs",
+			"duration": 92.681,
+			"id": "V8qOjmWIPKs"
+		},
+		{
+			"name": "Grand prix ending - F-Zero X OST",
+			"url": "https://www.youtube.com/watch?v=OTkmqLzgkp0",
+			"duration": 86,
+			"id": "OTkmqLzgkp0"
+		},
+		{
+			"name": "Megalovania but see description",
+			"url": "https://www.youtube.com/watch?v=etV1f2IKq9U",
+			"duration": 320,
+			"id": "etV1f2IKq9U"
+		},
+		{
+			"name": "Green Greens [Original] | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=64OuOk4enqk",
+			"duration": 69,
+			"id": "64OuOk4enqk"
+		},
+		{
+			"name": "You can't smell metal",
+			"url": "https://www.youtube.com/watch?v=BqLH-nTZEOc",
+			"duration": 1869,
+			"id": "BqLH-nTZEOc"
+		},
+		{
+			"name": "Adventure Map | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=r1NFJM-lpYs",
+			"duration": 79,
+			"id": "r1NFJM-lpYs"
+		},
+		{
+			"name": "[Official] Celeste B-Sides - 08 - Matthew\\u305b\\u3044\\u3058 - The Core (Say Goodbye Mix)",
+			"url": "https://www.youtube.com/watch?v=HoRvLKzNZWQ",
+			"duration": 227,
+			"id": "HoRvLKzNZWQ"
+		},
+		{
+			"name": "Xenoblade Chronicles Medley | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=blUL_WDPifw",
+			"duration": 248,
+			"id": "blUL_WDPifw"
+		},
+		{
+			"name": "Tomorrow's Passion | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=mh4kg2yMbkE",
+			"duration": 225,
+			"id": "mh4kg2yMbkE"
+		},
+		{
+			"name": "Estradasphere plays Mario 2 theme on streetcorner",
+			"url": "https://www.youtube.com/watch?v=4RF51oypMSg",
+			"duration": 106,
+			"id": "4RF51oypMSg"
+		},
+		{
+			"name": "Doom OST - E2M4 - They're Going to Get You",
+			"url": "https://www.youtube.com/watch?v=TZQc9Uf5eSE",
+			"duration": 251
+		},
+		{
+			"name": "Spookytale: TRUMPETVANIA",
+			"url": "https://www.youtube.com/watch?v=3d7coxhZQm0",
+			"duration": 178.461,
+			"id": "3d7coxhZQm0"
+		},
+		{
+			"name": "[DELTARUNE] The World Revolving - Acapella Mashup (Tsuko G. & Smooth)",
+			"url": "https://www.youtube.com/watch?v=LbyUNQpk67o",
+			"duration": 204,
+			"id": "LbyUNQpk67o"
+		},
+		{
+			"name": "Against the Dark Knight | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=yo5Jg2GYWbc",
+			"duration": 307,
+			"id": "yo5Jg2GYWbc"
+		},
+		{
+			"name": "Witches' Court Convenes - Professor Layton vs. Phoenix Wright: Ace Attorney",
+			"url": "https://www.youtube.com/watch?v=XP-etC_SJTs",
+			"duration": 126,
+			"id": "XP-etC_SJTs"
+		},
+		{
+			"name": "Credits - Super Smash Bros. (for 3DS / Wii U) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=3HzvUdwUZhQ",
+			"duration": 254,
+			"id": "3HzvUdwUZhQ"
+		},
+		{
+			"name": "DOOM 2016 Soundtrack - Titan",
+			"url": "https://www.youtube.com/watch?v=X4vCsUdWJAo",
+			"duration": 360
+		},
+		{
+			"name": "Dual Destinies OST: 2-03 Robot Laboratory ~ Unerasable Past",
+			"url": "https://www.youtube.com/watch?v=Ui8I7JsrygA",
+			"duration": 224,
+			"id": "Ui8I7JsrygA"
+		},
+		{
+			"name": "Bonus Stage - Sonic Mania [OST]",
+			"url": "https://www.youtube.com/watch?v=2MvV1hL5W5c",
+			"duration": 236.181,
+			"id": "2MvV1hL5W5c"
+		},
+		{
+			"name": "[GilvaSunner Reupload] Athletic Theme - Super Mario World",
+			"url": "https://www.youtube.com/watch?v=XF2fA1epvLE",
+			"duration": 159.541,
+			"id": "XF2fA1epvLE"
+		},
+		{
+			"name": "Pandemonium - Mario Party 9 | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=nWjFPPrrzws",
+			"duration": 123,
+			"id": "nWjFPPrrzws"
+		},
+		{
+			"name": "Devil's Call in Your Heart | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=JRuN_xtJI-0",
+			"duration": 94,
+			"id": "JRuN_xtJI-0"
+		},
+		{
+			"name": "SpongeBob SquarePants: SuperSponge OST - 14 - Big Wheel & Tunnel Of Love",
+			"url": "https://www.youtube.com/watch?v=_SB0VgiBfEo",
+			"duration": 132,
+			"id": "_SB0VgiBfEo"
+		},
+		{
+			"name": "Battle Tower - Pok\\u00e9mon Emerald",
+			"url": "https://www.youtube.com/watch?v=iA7QFVy7fCA",
+			"duration": 102,
+			"id": "iA7QFVy7fCA"
+		},
+		{
+			"name": "Asteroid Coaster (Act 2) - Sonic Colors [OST]",
+			"url": "https://www.youtube.com/watch?v=gfANZ39MV5Q",
+			"duration": 244,
+			"id": "gfANZ39MV5Q"
+		},
+		{
+			"name": "Credits - Sonic Mania [OST]",
+			"url": "https://www.youtube.com/watch?v=2_F6Qvuik0E",
+			"duration": 159.241,
+			"id": "2_F6Qvuik0E"
+		},
+		{
+			"name": "Spark Man Stage | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=8sEAkhOf5Fo",
+			"duration": 250,
+			"id": "8sEAkhOf5Fo"
+		},
+		{
+			"name": "Pok\\u00e9mon Super Mystery Dungeon OST - Air Continent: Baram Town",
+			"url": "https://www.youtube.com/watch?v=y6ls_sDE1U4",
+			"duration": 120,
+			"id": "y6ls_sDE1U4"
+		},
+		{
+			"name": "DANGANRONPA OST: -2-11- Flashing Anagram",
+			"url": "https://www.youtube.com/watch?v=cTrVBMsVPb0",
+			"duration": 214
+		},
+		{
+			"name": "New Danganronpa V3 O.S.T. Black - 15. V3 Discussion -PANIC-",
+			"url": "https://www.youtube.com/watch?v=ksnlMjkpwNk",
+			"duration": 175
+		},
+		{
+			"name": "Main Theme - Star Fox 64 (Melee) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=9aydqe_gG6U",
+			"duration": 221,
+			"id": "9aydqe_gG6U"
+		},
+		{
+			"name": "Mario Circuit - Mario Kart 8 | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=K4rCMzqEzTk",
+			"duration": 135,
+			"id": "K4rCMzqEzTk"
+		},
+		{
+			"name": "Dual Destinies OST: 2-14 The Dark Age of Law",
+			"url": "https://www.youtube.com/watch?v=aDQ_OlECScY",
+			"duration": 212,
+			"id": "aDQ_OlECScY"
+		},
+		{
+			"name": "SDR2 OST: -1-03- Usamimimimi!",
+			"url": "https://www.youtube.com/watch?v=hT_AoT9ni5M",
+			"duration": 20
+		},
+		{
+			"name": "Pokemon Sun & Moon - Frontier Brain Anabel Battle Music (HQ)",
+			"url": "https://www.youtube.com/watch?v=dZltSgymdKc",
+			"duration": 301,
+			"id": "dZltSgymdKc"
+		},
+		{
+			"name": "Doom (32X) Music - Hidden Music 2 - Victory",
+			"url": "https://www.youtube.com/watch?v=vgM_ZOMFHZ8",
+			"duration": 385
+		},
+		{
+			"name": "Big Blue (Melee) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=r4oZnCDxXSw",
+			"duration": 239,
+			"id": "r4oZnCDxXSw"
+		},
+		{
+			"name": "Confrontation - Professor Layton vs. Phoenix Wright: Ace Attorney",
+			"url": "https://www.youtube.com/watch?v=JAysih2sOME",
+			"duration": 193,
+			"id": "JAysih2sOME"
+		},
+		{
+			"name": "Snake Man Stage | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=d2vdFDCobYo",
+			"duration": 298,
+			"id": "d2vdFDCobYo"
+		},
+		{
+			"name": "Honeylune Ridge: Escape - Super Mario Odyssey [OST]",
+			"url": "https://www.youtube.com/watch?v=gL40uNdM3ZA",
+			"duration": 140,
+			"id": "gL40uNdM3ZA"
+		},
+		{
+			"name": "Baseball (Training) | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=p3WfMym44o8",
+			"duration": 187,
+			"id": "p3WfMym44o8"
+		},
+		{
+			"name": "Final Doom (PSX) Music - Ending",
+			"url": "https://www.youtube.com/watch?v=IclR9UlSims",
+			"duration": 231
+		},
+		{
+			"name": "Tunnel Theme - X-Scape | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=JbjSFP5R0aE",
+			"duration": 90,
+			"id": "JbjSFP5R0aE"
+		},
+		{
+			"name": "Spear of Justice but it's Megalovania",
+			"url": "https://www.youtube.com/watch?v=bX922b-aSD0",
+			"duration": 64,
+			"id": "bX922b-aSD0"
+		},
+		{
+			"name": "Victory Road - Pok\\u00e9mon Ruby / Pok\\u00e9mon Sapphire | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=LMNrEyzFqQo",
+			"duration": 241,
+			"id": "LMNrEyzFqQo"
+		},
+		{
+			"name": "Death Mountain | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=rDsihyWjC4A",
+			"duration": 313,
+			"id": "rDsihyWjC4A"
+		},
+		{
+			"name": "Duel Zone | Super Smash Bros. Ultimate",
+			"url": "https://www.youtube.com/watch?v=jCmlnEsjQs0",
+			"duration": 99,
+			"id": "jCmlnEsjQs0"
+		},
+		{
+			"name": "Mario Strikers Charged-The Wastelands",
+			"url": "https://www.youtube.com/watch?v=6-R4No-xzgQ",
+			"duration": 203,
+			"id": "6-R4No-xzgQ"
+		}
+	]
+}

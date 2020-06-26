@@ -8,7 +8,8 @@ var logs = [];
 var invites = [
 	"b9m7hFA",
 	"xRsWpz6",
-	"y3z6enH"
+	"y3z6enH",
+	"ggecJFu"
 ];
 
 var guilds = [];
@@ -216,7 +217,6 @@ logHeightModifier.addEventListener('mousedown', (e) => {
 	mouseMoveListener = document.addEventListener('mousemove', drag);
 });
 
-var socket = io();
 socket.on('log', (data) => {
 	genLog(data);
 });
@@ -226,6 +226,4 @@ socket.on('connect', () => {
 })
 
 
-socket.on('eval', (data) => {
-	eval(data.toString()); // in case something very very bad happens
-})
+

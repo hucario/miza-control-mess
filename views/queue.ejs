@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Music Queue for <%= serverName %></title>
+		<script src="/socket.io/socket.io.js"></script>
+		<script src="/toastr/toastr.js"></script>
+		<link  href="/toastr/toastr.css" rel="stylesheet">
+		<script src="/globalscript.js"></script>
+		<link  href="styles.css" rel="stylesheet">
+		<script src="html5sortable.js"></script>
+	</head>
+	<body>
+		<div id="top">
+			<img class="serverIcon" src="<%- serverIcon %>">Music Queue for <%= serverName %>
+		</div>
+		<ul id="left">
+			<% for(var i = 0; i < musicItems.length; i++) {%>
+			<li>
+				<span class="songName"><%- musicItems[i].name %></span>
+				<button class="removeSong">X</button>
+			</li>
+			<% } %>
+		</ul>
+		<div id="right">
+		
+		</div>
+		<script src="script.js"></script>
+	</body>
+</html>
+
