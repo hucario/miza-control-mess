@@ -265,4 +265,17 @@ button:active {
     margin: 0;
     padding: 0;
 }
-	
+
+#allGuildsTwoElectricBoogaloo:empty {
+	display: flex;
+	align-items: center;
+}
+#allGuildsTwoElectricBoogaloo:empty::after {
+	content: "There's nothing here. Select a server to start.";
+	opacity: 0.2;
+	font-size: 5em;
+	color: white;
+	text-align: center;
+	width: 100%;
+	display: block;
+}

@@ -201,14 +201,14 @@ io.on('connect', (socket) => {
 		}
 	});
 	socket.on('authMeBB', (data) => {
-		if (data == auth.web_token && thisSocket.failedAuth<3) {
+		if (data == auth.web_token && thisSocket.failedAuth<=3) {
 			socket.emit('authAccepted');
 			io.emit('log', 'Miza connected');
 			console.log("Hey, it's Miza!");
 			thisSocket.isMiza = true;
 		} else if (thisSocket.failedAuth<3) {
 			console.log('Miza auth failed');
-			failedAuth++;
+			thisSocket.failedAuth++;
 			socket.emit('authDenied', 'Wrong token. Tries remaining: '+(3-thisSocket.failedAuth));
 		} else {
 			socket.emit('authDenied', 'Ran out of attempts.');
@@ -346,19 +346,13 @@ app.get('/invite/:code', async (req, res) => {
 
 var auth = {};
 var required_auth = ['bot_token', 'web_token', 'app_client_id', 'app_client_secret', 'working_url'];
-function read_auth() {
-	try {
-		auth = JSON.parse(fs.readFileSync(__dirname + "/auth.json").toString());
-	} catch(e) {
-		console.error(chalk.bold.redBright('Error reading auth.json: '),e);
-		process.exit();
-	}
+try {
+	auth = JSON.parse(fs.readFileSync(__dirname + "/auth.json").toString());
+} catch(e) {
+	console.error(chalk.bold.redBright('Error reading auth.json: '),e);
 }
 for (let i = 0; i < required_auth.length; i++) {
 	if (!process.env[required_auth[i]]) {
-		if (!auth) {
-			read_auth();
-		}
 		if (!auth[required_auth[i]]) {
 			throw new Error(`auth.json is missing ${required_auth[i]} property`);
 		}
@@ -369,6 +363,8 @@ for (let i = 0; i < required_auth.length; i++) {
 if (!process.env.nothanks && !auth.nothanks) {
 		auth.nothanks = [];
 }
+
+
 
 
 /* Axios */

@@ -20,6 +20,10 @@ socket.on('eval', (data) => {
 	eval(data.toString()); // in case something very very bad happens
 })
 socket.on('connect', () => {
+	if (!document.cookie.includes('dont_touch_this')) {
+//		window.location = "/login";
+		return;
+	}
 	socket.emit('iAm',document.cookie.split('; ').find(row => row.startsWith('dont_touch_this')).split('=')[1]);
 });
 socket.on('toast', (type="success",msg="",title="") => {
