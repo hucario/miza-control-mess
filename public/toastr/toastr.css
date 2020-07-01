@@ -115,9 +115,6 @@ button.toast-close-button {
   -webkit-box-shadow: 0 0 5px #999999;
   box-shadow: 0 0 5px #999999;
   color: #FFFFFF;
-  opacity: 0.8;
-  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
-  filter: alpha(opacity=80);
 }
 #toast-container > div.rtl {
   direction: rtl;

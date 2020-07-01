@@ -166,45 +166,96 @@ var server = app.listen(port, () => {
 /* Terminal input */
 var stdin = process.openStdin();
 stdin.addListener('data',function(d) {
-	if (!d.toString().includes('rs')) {
+	if (d.toString() != 'die\n') {
 		try {
 			console.log(eval(d.toString()));
 		} catch(data) {
-			console.log((data));
+			console.error(data);
 		}
+	} else {
+		process.exit();
 	}
-
-
 });
 
+var mizaPermissions = {
+	notSet: true
+}
+var mizaOwners = [];
+var sockets = [];
 /* SocketIO */
+function log(msg) {
+	for (let i = 0; i < sockets.length; i++) {
+		if (sockets[i].user.isMizaOwner) {
+			sockets[i].socket.emit('log', msg);
+		}
+	}
+}
+
 const io = socketio.listen(server);
 io.on('connect', (socket) => {
 	let thisSocket = {
 		"failedAuth": 0,
-		"isMiza": false
+		"isMiza": false,
+		user: {
+			notLoggedIn: true
+		},
+		"socket": socket
 	};
-	console.log("Socket has connected");
+	sockets.push(thisSocket);
 	socket.on('gimmeLast5Logs', () => {
-		for (let i = 0; i < last5Logs.length;i++) {
-			socket.emit('log', last5Logs[i]);
+		if (!thisSocket.user.notLoggedIn && thisSocket.user.isMizaOwner) {
+			for (let i = 0; i < last5Logs.length;i++) {
+				socket.emit('log', last5Logs[i]);
+			}
+		}
+	})
+	socket.on('disconnect', () => {
+		if (thisSocket.isMiza) {
+			log('Disconnected from Miza.')
+			console.log("Miza has disconnected.")
+		}
+	})
+	socket.on('perms', (d) => {
+		if (thisSocket.isMiza) {
+			console.log("Miza has sent over permissions database.")
+			mizaPermissions = d;
+			for (let server in d) {
+				for (let user in d[server]) {
+					if (users[user]) {
+						users[user].permissions[server] = d[server][user];
+					}
+				}
+			}
 		}
 	})
 	socket.on('iAm', (d) => {
-		if (users[d]) {
-			if (!users[d].shownWelcome) {
-				users[d].shownWelcome = true;
+		if (usersByCookie[d]) {
+			thisSocket.user = users[usersByCookie[d].id];
+			e = mizaPermissions;
+			for (let server in e) {
+				for (let user in e[server]) {
+					if (users[user]) {
+						users[user].permissions[server] = e[server][user];
+					}
+				}
+			}
+			if (mizaOwners.includes(thisSocket.user.id)) {
+				thisSocket.user.isMizaOwner = true;
+			}
+			if (!thisSocket.user.shownWelcome) {
+				thisSocket.user.shownWelcome = true;
 				setTimeout(() => {
-					socket.emit('toast','success', `Logged in as ${users[d].username}<span style="opacity: 0.3">#${users[d].discriminator}</span>`);
+					socket.emit('toast','success', `Logged in as ${thisSocket.user.username}<span style="opacity: 0.3">#${thisSocket.user.discriminator}</span>`);
 				}, 1500); // I don't know why, it's just more satisfying that way
 			}
 		}
+
 	});
 	socket.on('authMeBB', (data) => {
 		if (data == auth.web_token && thisSocket.failedAuth<=3) {
 			socket.emit('authAccepted');
-			io.emit('log', 'Miza connected');
-			console.log("Hey, it's Miza!");
+			log('Miza connected');
+			console.log("Miza has connected.");
 			thisSocket.isMiza = true;
 		} else if (thisSocket.failedAuth<3) {
 			console.log('Miza auth failed');
@@ -213,13 +264,14 @@ io.on('connect', (socket) => {
 		} else {
 			socket.emit('authDenied', 'Ran out of attempts.');
 		}
+		// you could probably get past the block by reconnecting but who cares
 	});
-	socket.on('myServers', (d) => {
+	socket.on('owners', (d) => {
 		if (thisSocket.isMiza) {
-			console.log(d);
+			console.log("Miza has sent over owners list.")
+			mizaOwners = JSON.parse(d);
 		}
-	});
-	
+	})
 	socket.on('log', (d) => {
 		if (thisSocket.isMiza) {
 			d = d.toString()
@@ -228,7 +280,11 @@ io.on('connect', (socket) => {
 					d = d.replace(auth.nothanks[i][0], auth.nothanks[i][1]);
 				}
 			}
-			io.emit('log', d);
+			for (let i = 0; i < sockets.length; i++) {
+				if (sockets[i].user.isMizaOwner) {
+					sockets[i].socket.emit('log', d);
+				}
+			}
 			if (last5Logs.length == 5) {
 				last5Logs.shift();
 			}
@@ -315,6 +371,9 @@ app.get('/userpic/:id', async (req, res) => {
 	} catch (e) {
 	}
 });
+app.get('/logout', (req, res) => {
+	res.clearCookie('dont_touch_this').redirect('/');
+});
 
 app.get('/invite/:code', async (req, res) => {
 	try {
@@ -374,6 +433,7 @@ const axapi = axios.create({
 });
 
 var users = {};
+var usersByCookie = {};
 /* OAuth */
 app.get('/login', (req, res) => {
 	res.redirect(`https://discord.com/oauth2/authorize?response_type=code&client_id=${auth.app_client_id}&scope=identify&redirect_uri=${auth.working_url}/authorize&prompt=none`);
@@ -400,8 +460,14 @@ app.get('/authorize', async (req, res) => {
 	userdetails = userdetails.data;
 	console.log(`${userdetails.username} logged in`);
 	var uuid = gen_uuidv4();
-	users[uuid] = userdetails;
-	users[uuid].shownWelcome = false;
+	users[userdetails.id] = userdetails;
+	users[userdetails.id].cookieid = uuid;
+	users[userdetails.id].shownWelcome = false;
+	users[userdetails.id].permissions = {
+
+	}
+	users[userdetails.id].isMizaOwner = mizaOwners.includes(Number(userdetails.id));
+	usersByCookie[userdetails.cookieid] = users[userdetails.id];
 	res.cookie('dont_touch_this', uuid, {SameSite: 'Strict'});
 	res.redirect('/');
 	return;

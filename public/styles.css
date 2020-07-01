@@ -189,7 +189,7 @@ span.timestamp {
 
 .log>.text {display: inline-block;width:90%;}
 
-span.timestamp::after {content: "|";margin-left: 0.3em;color: var(--text-muted);}
+.logSeparatorDiv {content: "|";margin-left: 0.3em;color: var(--text-muted);}
 
 div#logs-height {
 	width: 100%;

@@ -4,14 +4,6 @@
 
 
 var logs = [];
-
-var invites = [
-	"b9m7hFA",
-	"xRsWpz6",
-	"y3z6enH",
-	"ggecJFu"
-];
-
 var guilds = [];
 var guildConfigs = {};
 var guildButtons = [];
@@ -146,7 +138,7 @@ class Log {
 		this.element.classList.add('log');
 		this.timestamp = document.createElement('span');
 		this.timestamp.classList.add('timestamp');
-		this.timestamp.innerText = `${leftPad(this.date.getHours(),2)}:${leftPad(this.date.getMinutes(),2)}:${leftPad(this.date.getSeconds(),2)}`;
+		this.timestamp.innerHTML = `${leftPad(this.date.getHours(),2)}:${leftPad(this.date.getMinutes(),2)}:${leftPad(this.date.getSeconds(),2)} <span class="logSeparatorDiv">|</span> `;
 		this.txtElement = document.createElement('div');
 		this.txtElement.classList.add('text');
 		this.txtElement.innerText = this.txt;
@@ -190,11 +182,6 @@ class Guild {
 	}
 }
 
-for (let i = 0; i < invites.length; i++) {
-	let p = new Guild(invites[i]);
-	addGuildToList(p);
-}
-
 /* Startup */
 logHeightModifier.addEventListener('mousedown', (e) => {
 	var drag = function(me) {
@@ -221,9 +208,12 @@ socket.on('log', (data) => {
 	genLog(data);
 });
 socket.on('connect', () => {
-	genLog("[Meta] Loading last 5 logs...")
 	socket.emit('gimmeLast5Logs');
 })
-
+socket.on('nice', (guilds) => {
+	for (let i = 0; i < guilds.length; i++) {
+		guildConfigs.push(new GuildConfig(new Guild(),guildConfigs.length))
+	}
+});
 
 
