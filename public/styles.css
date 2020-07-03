@@ -253,7 +253,8 @@ button:active {
     height: 100%;
     display: inline-block;
     padding: 0;
-    margin: 0;
+	margin: 0;
+	overflow-y: auto;
 }
 
 .tabs {
@@ -278,4 +279,54 @@ button:active {
 	text-align: center;
 	width: 100%;
 	display: block;
+}
+table {
+	width: 100%;
+}
+th:nth-child(2) {
+	flex-grow: 1;
+}
+tr:nth-child(2n) {
+	background: var(--background-secondary);
+}
+td > img {
+	height: 2em;
+}
+td {
+	height: 2em;
+}
+tr {
+	display: flex;
+	align-items: center;
+}
+td:nth-child(2) {
+	flex-grow: 1;
+	display: flex;
+	align-items: center;
+}
+td > span {
+	opacity: 0.3;
+	transition: opacity 250ms;
+}
+td:hover > span {
+	opacity: 1;
+}
+td > input {
+	background: inherit;
+	border: inherit;
+	color: inherit;
+	font: inherit;
+	min-width: 3em;
+	height: 100%;
+	margin: unset;
+	padding: unset;
+	border-bottom: solid 1px var(--interactive-normal);
+	align-self: end;
+}
+td:nth-child(1) {
+	width: 3em;
+}
+td:nth-child(3) {
+	display: flex;
+	flex-direction: column;
 }

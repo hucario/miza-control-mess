@@ -248,6 +248,35 @@ io.on('connect', (socket) => {
 					socket.emit('toast','success', `Logged in as ${thisSocket.user.username}<span style="opacity: 0.3">#${thisSocket.user.discriminator}</span>`);
 				}, 1500); // I don't know why, it's just more satisfying that way
 			}
+			thisSocket.user.serversModerating = [];
+			if (thisSocket.user.isMizaOwner) {
+				thisSocket.user.serversModerating = botServers;
+			} else {
+				for (let i = 0; i < botServers.length; i++) {
+					if (
+						botServers[i].owner_id == thisSocket.user.id || 
+						mizaPermissions[botServers[i].id][thisSocket.user.id] >= 3
+						) {
+						thisSocket.user.serversModerating.push(botServers[i]);
+					}
+				}
+			}
+			for (let b = 0; b < thisSocket.user.serversModerating.length; b++) {
+				if (mizaPermissions[thisSocket.user.serversModerating[b].id]) {
+					thisSocket.user.serversModerating[b].permissions = mizaPermissions[thisSocket.user.serversModerating[b].id];
+					for (let c = 0; c < thisSocket.user.serversModerating[b].users.length; c++) {
+						if (mizaOwners.includes(thisSocket.user.serversModerating[b].users[c])) {
+							thisSocket.user.serversModerating[b].permissions[thisSocket.user.serversModerating[b].users[c]] = "NaN";
+						}
+						if (thisSocket.user.serversModerating[b].owner_id == thisSocket.user.serversModerating[b].users[c]) {
+							thisSocket.user.serversModerating[b].permissions[thisSocket.user.serversModerating[b].users[c]] = "inf";
+						}
+					}	
+				}
+			}
+			socket.emit('guilds', thisSocket.user.serversModerating);
+		} else {
+			socket.emit('toast', 'warning',"You will be unable to view or change much.", "You are logged out.")
 		}
 
 	});
@@ -302,6 +331,11 @@ io.on('connect', (socket) => {
 			console.log(musicQueues[serverid]);
 		}
 	});
+	socket.on('guilds', (a) => {
+		console.log(a);
+		botServers = a;
+	});
+	
 	socket.on('mus_newItem', (serverid, d) => {
 		if (thisSocket.isMiza) {
 			console.log(d);
