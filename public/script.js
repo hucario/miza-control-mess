@@ -151,6 +151,9 @@ class GuildConfig {
 						z.numInput.setAttribute('readonly', 'readonly');
 					} else {
 						z.numInput.value = (guild.permissions[guild.users[p]]!=undefined?guild.permissions[guild.users[p]]:0);
+						z.numInput.addEventListener('input', () => {
+							socket.emit('setperms', guild.users[p], guild.id, z.numInput.value)
+						})
 					}
 					z.td3.appendChild(z.numInput);
 

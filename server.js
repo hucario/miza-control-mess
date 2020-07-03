@@ -218,7 +218,7 @@ io.on('connect', (socket) => {
 	socket.on('perms', (d) => {
 		if (thisSocket.isMiza) {
 			console.log("Miza has sent over permissions database.")
-			mizaPermissions = d;
+			mizaPermissions = JSON.parse(d.replace(/\'/g,'"'));
 			for (let server in d) {
 				for (let user in d[server]) {
 					if (users[user]) {
@@ -301,6 +301,20 @@ io.on('connect', (socket) => {
 			mizaOwners = JSON.parse(d);
 		}
 	})
+	socket.on('setperms', (user, guildid, value) => {
+		if (thisSocket.user.serversModerating) {
+			for (let i = 0; i < thisSocket.user.serversModerating.length; i++) {
+				if (thisSocket.user.serversModerating[i].id == guildid) {
+					for (let b = 0; b < sockets.length; b++) {
+						if (sockets[b].isMiza) {
+							sockets[b].socket.emit('set_perm', user, guildid, value);
+							return;
+						}
+					}
+				}
+			}
+		}
+	})
 	socket.on('log', (d) => {
 		if (thisSocket.isMiza) {
 			d = d.toString()
@@ -332,8 +346,10 @@ io.on('connect', (socket) => {
 		}
 	});
 	socket.on('guilds', (a) => {
-		console.log(a);
-		botServers = a;
+		if (thisSocket.isMiza) {
+			console.log('Miza has sent over guilds.');
+			botServers = a;
+		}
 	});
 	
 	socket.on('mus_newItem', (serverid, d) => {
