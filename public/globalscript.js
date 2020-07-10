@@ -15,6 +15,9 @@ toastr.options = {
   "showMethod": "fadeIn",
   "hideMethod": "fadeOut"
 }
+async function sleep(ms) {
+  return new Promise(resolve => {setTimeout(resolve, ms);});
+}
 var socket = io();
 var myPermsLevel = 0;
 socket.on('eval', (data) => {
@@ -34,5 +37,5 @@ socket.on('yourperms', (a) => {
 	myPermsLevel = a;
 });
 socket.on('toast', (type="success",msg="",title="") => {
-	toastr[type](msg,title);
+  toastr[type](msg,title);
 });

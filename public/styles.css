@@ -330,3 +330,32 @@ td:nth-child(3) {
 	display: flex;
 	flex-direction: column;
 }
+input[readonly="readonly"] {
+	background: var(--interactive-muted);
+	border-radius: 12px;
+	text-align: center;
+	border: none;
+	opacity: 0.8;
+	transition: opacity 250ms;
+	cursor: default;
+}
+input[readonly="readonly"]:hover {
+	opacity: 1;
+}
+
+.serverIcon.noIcon>span {
+	width: 100%;
+	text-align: center;
+	display: block;
+}
+.serverIcon.noIcon {
+	display: flex;
+	align-items: center;
+	flex-direction: row;
+}
+.active .serverIcon.noIcon {
+	background: #7289da;
+}
+.server:hover .serverIcon.noIcon {
+	background: #7289da;
+}

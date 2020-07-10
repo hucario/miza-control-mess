@@ -264,14 +264,6 @@ io.on('connect', (socket) => {
 			for (let b = 0; b < thisSocket.user.serversModerating.length; b++) {
 				if (mizaPermissions[thisSocket.user.serversModerating[b].id]) {
 					thisSocket.user.serversModerating[b].permissions = mizaPermissions[thisSocket.user.serversModerating[b].id];
-					for (let c = 0; c < thisSocket.user.serversModerating[b].users.length; c++) {
-						if (mizaOwners.includes(thisSocket.user.serversModerating[b].users[c])) {
-							thisSocket.user.serversModerating[b].permissions[thisSocket.user.serversModerating[b].users[c]] = "NaN";
-						}
-						if (thisSocket.user.serversModerating[b].owner_id == thisSocket.user.serversModerating[b].users[c]) {
-							thisSocket.user.serversModerating[b].permissions[thisSocket.user.serversModerating[b].users[c]] = "inf";
-						}
-					}	
 				}
 			}
 			socket.emit('guilds', thisSocket.user.serversModerating);
@@ -397,13 +389,15 @@ app.get('/user/:id', async (req, res) => {
 				"x-ratelimit-reset": response.headers["x-ratelimit-reset"],
 				"x-ratelimit-reset-after": response.headers["x-reset-after"]
 			});
+			response.data.ratelimit_reset = response.headers["x-ratelimit-reset"];
+			response.data.ratelimit_remaining = response.headers["x-ratelimit-remaining"];
 			res.send(response.data);
 		} else {
 			res.send(userCache[req.params.id]);
 		}
 	} catch (e) {
 		res.status(400);
-		res.send(false);
+		res.send({ errmsg: e.message});
 	}
 });
 
@@ -419,6 +413,8 @@ app.get('/userpic/:id', async (req, res) => {
 			res.redirect(userCache[req.params.id].avatarURL);
 		}
 	} catch (e) {
+		res.status(400);
+		res.send({ errmsg: e.message });
 	}
 });
 app.get('/logout', (req, res) => {

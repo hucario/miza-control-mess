@@ -2,7 +2,7 @@
 
 /* Variables */
 
-
+var last_ratelimit_reset = 0;
 var logs = [];
 var guilds = [];
 var guildConfigs = {};
@@ -38,13 +38,28 @@ var prevActive;
 function addGuildToList(guild) {
 	guild.serverElem = document.createElement('div');
 	guild.serverElem.classList.add('server');
-	guild.serverIconElem = document.createElement('img');
-	guild.serverIconElem.classList.add('serverIcon');
-	guild.serverIconElem.src = guild.iconURL;
+	if (!guild.iconIsNull) {
+		guild.serverIconElem = document.createElement('img');
+		guild.serverIconElem.classList.add('serverIcon');
+		guild.serverIconElem.src = guild.iconURL;
+	} else {
+		guild.serverIconElem = document.createElement('div');
+		guild.serverIconElem.classList.add('serverIcon');
+		guild.serverIconElem.classList.add('noIcon');
+		guild.innerServerIconElem = document.createElement('span');
+		guild.initials = "";
+		for (let i = 0; i < guild.name.split(' ').length; i++) {
+			guild.initials += guild.name.split(' ')[i][0].toUpperCase();
+		}
+		guild.innerServerIconElem.innerText = guild.initials;
+	}
 	guild.serverNameElem = document.createElement('span');
 	guild.serverNameElem.innerText = guild.name;
 	serverList.appendChild(guild.serverElem);
 	guild.serverElem.appendChild(guild.serverIconElem);
+	if (guild.iconIsNull) {
+		guild.serverIconElem.appendChild(guild.innerServerIconElem);
+	}
 	guild.serverElem.appendChild(guild.serverNameElem);
 	guildButtons.push(guild.serverElem);
 	let whichButt /* haha funny butt */ = guildButtons.length-1;
@@ -135,8 +150,48 @@ class GuildConfig {
 					z.td1.appendChild(z.icon);
 					z.main.appendChild(z.td2);
 					z.discriminatorSpan = document.createElement('span');
-					let thatUserData = await fetch('/user/'+guild.users[p]);
-					let thatUserJson = await thatUserData.json();
+					let thatUserJson = await recursionwhoa(guild.users[p]);
+					async function recursionwhoa(id,depth=0) {
+						if (depth > 0) {
+							console.log(`Recursing on id ${id} with depth ${depth}`)
+						}
+						if (depth >= 8) {
+							return false;
+						}
+						z.td2.innerText = "loading, please wait";
+						for (let i = 0; i < depth; i++) {
+							z.td2.innerText += ".";
+						}
+						var temp1 = await fetch('/user/'+id);
+						var temp2 = await temp1.json();
+						if (temp2.ratelimit_reset) {
+							last_ratelimit_reset = Number(temp2.ratelimit_reset)*1000;
+						}
+						if (temp2.ratelimit_remaining < 3) {
+							if (last_ratelimit_reset > Date.now()) {
+								console.log(last_ratelimit_reset - Date.now());
+								z.td2.innerText = "loading, please wait..."
+								await sleep(last_ratelimit_reset - Date.now());
+							} else {
+								z.td2.innerText = "loading, please wait"
+								await sleep(500);
+							}
+							console.log("Done waiting for rate limit to reset")
+						}
+						if (temp2.username == "undefined" || temp2.username == undefined) {
+							if (last_ratelimit_reset > Date.now()) {
+								console.log(last_ratelimit_reset - Date.now());
+								z.td2.innerText = "loading, please wait.."
+								await sleep(last_ratelimit_reset - Date.now());
+								console.log("Done waiting for rate limit to reset")
+							}
+							return await recursionwhoa(id,depth+1);
+						}
+						return temp2;
+					}
+					if (thatUserJson == false) {
+						continue;
+					}
 					z.td2.innerText = thatUserJson.username;
 					z.discriminatorSpan.innerText = `#${thatUserJson.discriminator}`;
 					z.td2.appendChild(z.discriminatorSpan);
@@ -144,7 +199,7 @@ class GuildConfig {
 					z.numInput = document.createElement("input");
 					z.numInput.setAttribute("type","number");
 					z.numInput.setAttribute("size","1");
-					if (guild.permissions[guild.users[p]]!== undefined && (guild.permissions[guild.users[p]]=="NaN" || guild.permissions[guild.users[p]]=="inf")) {
+					if (guild.permissions[guild.users[p]]!== undefined && (isNaN(guild.permissions[guild.users[p]]))) {
 						z.numInput.setAttribute('type', 'text');
 						z.numInput.value = guild.permissions[guild.users[p]];
 						z.numInput.readonly = true;
@@ -221,6 +276,7 @@ class Guild {
 		this.name = data.name;
 		this.users = data.users;
 		this.permissions = data.permissions;
+		this.iconIsNull = ("" + data.icon).includes("null");
 		this.iconURL = `https://cdn.discordapp.com/icons/${data.id}/${data.icon}.webp?size=512`;
 		guilds.push(this);
 	}
