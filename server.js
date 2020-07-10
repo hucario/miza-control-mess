@@ -383,12 +383,6 @@ app.get('/user/:id', async (req, res) => {
 			var response = await axapi.get('/users/'+req.params.id);
 			userCache[req.params.id] = response.data;
 			res.status(response.status);
-			res.set({
-				"x-ratelimit-bucket": response.headers["x-ratelimit-bucket"],
-				"x-ratelimit-remaining": response.headers["x-ratelimit-remaining"],
-				"x-ratelimit-reset": response.headers["x-ratelimit-reset"],
-				"x-ratelimit-reset-after": response.headers["x-reset-after"]
-			});
 			response.data.ratelimit_reset = response.headers["x-ratelimit-reset"];
 			response.data.ratelimit_remaining = response.headers["x-ratelimit-remaining"];
 			res.send(response.data);
@@ -396,8 +390,24 @@ app.get('/user/:id', async (req, res) => {
 			res.send(userCache[req.params.id]);
 		}
 	} catch (e) {
-		res.status(400);
-		res.send({ errmsg: e.message});
+		if (e.response.status == 429) {
+			setTimeout(async() => {
+				try {
+					var response = await axapi.get(`/users/${req.params.id}`);
+					userCache[req.params.id] = response.data;
+					res.status(response.status);
+					res.send(response.data);
+				} catch(b) {
+					console.error(b);
+					res.status(500);
+					res.send({errmsg: e.message});
+				}
+				},e.response.headers["x-ratelimit-reset-after"]*1000);
+		} else {
+			console.log(e);
+			res.status(400);
+			res.send({ errmsg: e.message});			
+		}	
 	}
 });
 

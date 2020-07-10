@@ -130,7 +130,6 @@ class GuildConfig {
 				// general bot settings
 
 			} else if (this.tabElems.length == 2) {
-				console.log('test');
 				// permissions
 				let permsTableOuter = document.createElement('table');
 				let permsTable = document.createElement('tbody');
@@ -141,57 +140,21 @@ class GuildConfig {
 					let z = {}
 					z.main = document.createElement('tr');
 					permsTable.appendChild(z.main);
-					z.icon = document.createElement('img');
-					z.icon.src = "/userpic/"+guild.users[p];
 					z.td1 = document.createElement('td');
 					z.td2 = document.createElement('td');
 					z.td3 = document.createElement('td');
 					z.main.appendChild(z.td1);
-					z.td1.appendChild(z.icon);
 					z.main.appendChild(z.td2);
-					z.discriminatorSpan = document.createElement('span');
-					let thatUserJson = await recursionwhoa(guild.users[p]);
-					async function recursionwhoa(id,depth=0) {
-						if (depth > 0) {
-							console.log(`Recursing on id ${id} with depth ${depth}`)
-						}
-						if (depth >= 8) {
-							return false;
-						}
-						z.td2.innerText = "loading, please wait";
-						for (let i = 0; i < depth; i++) {
-							z.td2.innerText += ".";
-						}
-						var temp1 = await fetch('/user/'+id);
-						var temp2 = await temp1.json();
-						if (temp2.ratelimit_reset) {
-							last_ratelimit_reset = Number(temp2.ratelimit_reset)*1000;
-						}
-						if (temp2.ratelimit_remaining < 3) {
-							if (last_ratelimit_reset > Date.now()) {
-								console.log(last_ratelimit_reset - Date.now());
-								z.td2.innerText = "loading, please wait..."
-								await sleep(last_ratelimit_reset - Date.now());
-							} else {
-								z.td2.innerText = "loading, please wait"
-								await sleep(500);
-							}
-							console.log("Done waiting for rate limit to reset")
-						}
-						if (temp2.username == "undefined" || temp2.username == undefined) {
-							if (last_ratelimit_reset > Date.now()) {
-								console.log(last_ratelimit_reset - Date.now());
-								z.td2.innerText = "loading, please wait.."
-								await sleep(last_ratelimit_reset - Date.now());
-								console.log("Done waiting for rate limit to reset")
-							}
-							return await recursionwhoa(id,depth+1);
-						}
-						return temp2;
-					}
+					z.td2.innerText = "loading, please wait... (blame Discord rate limits)"
+					let temp1 = await fetch('/user/'+guild.users[p]);
+					let thatUserJson = await temp1.json();
 					if (thatUserJson == false) {
 						continue;
 					}
+					z.discriminatorSpan = document.createElement('span');
+					z.icon = document.createElement('img');
+					z.icon.src = "/userpic/"+guild.users[p];
+					z.td1.appendChild(z.icon);
 					z.td2.innerText = thatUserJson.username;
 					z.discriminatorSpan.innerText = `#${thatUserJson.discriminator}`;
 					z.td2.appendChild(z.discriminatorSpan);
@@ -207,7 +170,7 @@ class GuildConfig {
 					} else {
 						z.numInput.value = (guild.permissions[guild.users[p]]!=undefined?guild.permissions[guild.users[p]]:0);
 						z.numInput.addEventListener('input', () => {
-							socket.emit('setperms', guild.users[p], guild.id, z.numInput.value)
+							socket.emit('setperms', guild.users[p], guild.id, Math.round(z.numInput.value))
 						})
 					}
 					z.td3.appendChild(z.numInput);
